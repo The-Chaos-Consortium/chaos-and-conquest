@@ -1,1 +1,2 @@
 - [Home](/)
+- [Character Creation](character-creation.md)
