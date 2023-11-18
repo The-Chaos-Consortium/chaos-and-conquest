@@ -1,4 +1,4 @@
 - [Home](/)
 - [Character Creation](character-creation.md)
-- [Backgrounds]()
+- [Backgrounds](backgrounds/)
     - [Pathfinder](backgrounds/pathfinder.md)
