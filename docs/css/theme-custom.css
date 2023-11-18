@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+DW+Pica:ital@0;1&family=Pirata+One&display=swap');
+
+:root {
+    --base-background-color: #2b2a32;
+    --base-color: #fff;
+    --base-font-family: 'IM Fell DW Pica', serif;
+    --base-font-size: 19px;
+    --sidebar-name-font-family: var(--heading-font-family);
+    --sidebar-name-font-size: 38px;
+    --search-input-font-size: 16px;
+
+    /* Headings */
+    --heading-font-family: 'Pirata One';
+    --heading-h1-font-size: var(--font-size-xxxl);
+    --heading-h2-font-size: var(--font-size-xxl);
+    --heading-h3-font-size: var(--font-size-xl);
+    --heading-h2-border-style: none;
+}
+
+.sidebar {
+    background-color: var(--base-background-color);
+}
+
+.markdown-section h2 {
+    padding: 0;
+    margin-bottom: 0;
+}
