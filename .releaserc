@@ -1,0 +1,36 @@
+{
+  "plugins": [
+    [
+      "@semantic-release/commit-analyzer",
+      {
+        "preset": "conventionalcommits",
+        "releaseRules": [
+          { "type": "feat", "release": "minor" },
+          { "type": "fix", "release": "patch" },
+          { "type": "chore", "release": "patch" },
+          { "type": "style", "release": "patch" },
+          { "type": "refactor", "release": "patch" },
+          { "type": "perf", "release": "patch" },
+          { "type": "test", "release": "patch" }
+        ],
+        "parserOpts": {
+          "noteKeywords": ["BREAKING CHANGE", "BREAKING CHANGES"]
+        },
+        "presetConfig": {
+          "types": [
+            { "type": "feat", "section": "Features" },
+            { "type": "fix", "section": "Bug Fixes" },
+            { "type": "chore", "hidden": false, "section": "Chore" },
+            { "type": "ci", "hidden": false, "section": "CI" },
+            { "type": "docs", "hidden": false, "section": "Documentation" },
+            { "type": "style", "hidden": false, "section": "Style" },
+            { "type": "refactor", "hidden": false, "section": "Refactor" },
+            { "type": "perf", "hidden": false, "section": "Performance" },
+            { "type": "test", "hidden": false, "section": "Tests" }
+          ]
+        }
+      }
+    ],
+    "@semantic-release/release-notes-generator"
+  ]
+}
