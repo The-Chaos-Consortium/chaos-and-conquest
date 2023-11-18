@@ -26,7 +26,11 @@
         crossChapter: true,
         crossChapterText: true
       },
-      search: 'auto',
+      search: {
+        maxAge: 3600000, // Expiration time, one hour in milliseconds.
+        paths: 'auto',
+        depth: 3,
+      },
     }
   </script>
   <!-- Docsify v4 -->
@@ -35,7 +39,7 @@
 
   <!-- plugins -->
   <script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer@1.0.0-0/dist/docsify-footer.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.js"></script>
   <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
 </body>
 </html>
