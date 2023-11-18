@@ -21,6 +21,7 @@ jobs:
       - name: Semantic Release
         uses: cycjimmy/semantic-release-action@v4
         with:
+          branches: main
           extra_plugins: |
             conventional-changelog-conventionalcommits@6.1.0
             @semantic-release/commit-analyzer@10.0.1
