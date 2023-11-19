@@ -2,3 +2,7 @@
 - [Character Creation](character-creation.md)
 - [Backgrounds](backgrounds/)
     - [Pathfinder](backgrounds/pathfinder.md)
+    - [Fighter](backgrounds/fighter.md)
+    - [Priest](backgrounds/priest.md)
+    - [Mage](backgrounds/mage.md)
+    - [Thief](backgrounds/thief.md)

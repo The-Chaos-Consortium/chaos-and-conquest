@@ -1,0 +1,39 @@
+# Thief
+A Thief is considered skilled at tasks pertaining to thievery, such as stealth, pick-pocketing, lock-picking, and so on. They all gain the *Stealth* talent.
+## 1 (17) Rat Catcher
+It’s a truth universally acknowledged that a town with a rat problem must be in want of a catcher. And, oh dear, there’s a lot of rats out there.
+
+*Equipment*
+1. A staff adorned with dead rats, the mark of your trade - d6 dmg
+1. A dinky yet ferocious dog - 1 HD, 6 Skill, 8 ML, Bite d6 dmg
+1. Flute
+
+*Talents*: Stealth, Traps, Animals
+## 2 (18) Beggar
+Living on the streets, you’re ignored by almost everyone. Invisible & beneath notice to some, too uncomfortable to contemplate for others.
+
+*Equipment*
+1. Tin bowl or cup - non-encumbering
+1. Ragged clothes - non-encumbering
+1. Club - d6 dmg
+
+*Talents*: Stealth, Pick-pocketing, Disguise
+## 3 (19) Grave Robber
+Look, they’re dead. They don’t care if some doctor wants to look at their insides, or if I slip the ring off their finger as I deliver them to him. I’m sure they have other concerns.
+
+*Equipment*
+1. Hooded cloak - non-encumbering
+1. Spade
+1. Crowbar
+1. Oversized sack
+
+*Talents*: Stealth, Anatomy, Cartography
+## 4 (20) Burglar
+Money is a heavy responsibility and you’re doing charity work, relieving people of their burdens.
+
+*Equipment*
+1. Set of lock-picks
+1. Soft shoes - advantage on relevant saves
+1. Hooded cloak - advantage on relevant saves
+
+*Talents*: Stealth, Lock-picking, Climbing
