@@ -6,3 +6,4 @@
     - [Priest](backgrounds/priest.md)
     - [Mage](backgrounds/mage.md)
     - [Thief](backgrounds/thief.md)
+- [Equipment](equipment.md)
