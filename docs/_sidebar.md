@@ -8,3 +8,4 @@
     - [Thief](backgrounds/thief.md)
 - [Equipment](equipment.md)
 - [How to Play](how-to-play.md)
+- [Magic & Spellcasting](magic-spellcasting.md)
