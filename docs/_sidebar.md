@@ -9,3 +9,4 @@
 - [Equipment](equipment.md)
 - [How to Play](how-to-play.md)
 - [Magic & Spellcasting](magic-spellcasting.md)
+- [Non Player Characters](npcs.md)
