@@ -7,3 +7,4 @@
     - [Mage](backgrounds/mage.md)
     - [Thief](backgrounds/thief.md)
 - [Equipment](equipment.md)
+- [How to Play](how-to-play.md)
