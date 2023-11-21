@@ -1,0 +1,164 @@
+# Downtime Turns - WIP
+## Downtime Turn Actions
+During *Downtime Turns* the PCs specify which actions they are taking in the period of time between adventures, in addition to regular activities. A Downtime Turn usually takes *1 month* of time in-game, but this amount of time can vary depending on the circumstances or task. Depending on the activity a PC may be taken out of play while the activity is happening, e.g. learning a talent requires complete devotion and the PC cannot be played during this time. Other activities can be handled by a trusted retainer instead of the PC themself.
+
+Most activities that require progress to be tracked in some way during Downtime Turns use the following procedure.
+
+First, set a tracker for the number of successes an activity requires.
+
+Use the following as a rubric for the number of successes required on a tracker for an activity to be successful:
+- 1 - Minor Advantage
+- 3 - Significant Advantage
+- 5 - Campaign Defining Goal
+- 7 - Major Campaign Defining Goal
+
+A PC may use their action during downtime turns to attempt to make progress on this activity. Note that they must describe an adequate method of accomplishing this activity. If the PC  does not have the necessary resources required to engage in such an activity, whether it be money or some other such resource (for example, if attempting to set up a drug trade, they would need prior access to a reliable source of drugs), they cannot attempt the action.
+
+When a PC attempts to make progress on an activity during downtime turns, they roll 2d6, plus any appropriate situational modifiers, whether they be positive (expenditure of extra resources, clever method or approach, character skill) or negative (unreliable resources or otherwise poor fictional positioning). Situational modifiers should not exceed in total +/-3.
+- A roll of 10+ means that the PC is successful in their activity, and may mark one success on the tracker.
+- A roll of 7-9 indicates that either a complication or setback has occurred, which must be dealt with before further progress can be made, or that partial progress has been made; in the case of partial progress, a success is not marked on the tracker, but the next time the PC attempts this activity, it will automatically succeed.
+- A roll of 6 or lower indicates that the PC was unsuccessful in their endeavor, and no progress is made.
+
+## Setbacks
+A setback indicates that some complication has arisen which is stymieing a PC’s progress on their goal or renders a PC’s asset unusable. For example, if a PC's estate is suffering a setback, some problem is rendering it uninhabitable till dealt with.
+
+When a PC’s estate, institution, infrastructure project, or domain suffers a setback, they gain xp equal to its current base investment cost (e.g. if a PC is attempting to advance their tier 3 institution to tier 4 and they suffer a setback, they gain xp equal to the base investment cost of a tier 3 institution: 2,500); if multiple PCs are invested, they divide the xp equally amongst themselves.
+
+A setback can be cleared by dealing with it directly in play.
+
+A setback may also be dealt with by spending a downtime turn action. It is up to the arbiter’s discretion depending on the specific nature of the setback whether simply taking the action will suffice to deal with it, if a save is required, or whether expenditures of resources are necessary; a arbiter may also rule that due to the nature of the setback, it cannot be dealt with abstractly through a downtime turn action and must be handled by the PC directly.
+
+As a general procedure, if an institution, infrastructure project, or domain suffers a setback, it can be cleared with a downtime turn action and paying half the current base investment cost.
+## Improving Attributes
+PCs can spend their downtime turns working to improve one of their attributes - *this takes one month per attempt*. To do so they roll 3d6, and if the result is higher than the attribute they are trying to improve, the attribute increases by 1. No attribute can be higher than 18.
+
+This initially costs *500s*, representing the cost of acquiring adequate trainers and material, *but doubles after each attempt*, regardless of which attribute is being worked on.
+## Learning a Talent
+PCs can spend their downtime turns to acquire a new talent. A tracker should be set depending on how narrowly defined the talent is:
+- Narrow Talent - 2 Successes (e.g. Foraging, Spelunking, House Blackmane History)
+- Broad Talent - 4 Successes (e.g. Armor Master, Survival, Alchemy)
+
+To be able to learn a talent, the PC must have access to the proper resources needed to learn it. For example, a character cannot learn the Swimming talent without access to a body of water.
+
+| 2d6 | Result                                                                       |
+| :-: | :---------------------------------------------------------------------------: |
+| 10+ | Progress is made towards the new talent.                                     |
+| 7-9 | Partial progress has been made. The next attempt will automatically succeed. |
+| 2-6 | No progress has been made.                                                   |
+
+## Expeditions
+An expedition is used to extract resources from or settle an area.
+
+Mounting an expedition can be performed as an action during a downtime turn.
+
+Before an expedition can be mounted, the area must be cleared, whether this is emptying all of the monster lairs within a hex, negotiating a treaty with the inhabitants of that area, or obtaining title from a ruler to settle lands.
+
+Once the area has been cleared, an expedition can be sent to secure it via patrols. Attempting to secure one area, whether that is a hex or a dungeon level, takes one downtime turn.
+
+Mounting an expedition to secure an area requires at least one mercenary squad to be deployed.
+
+Once an expedition has been deployed, roll 2d6. Each additional mercenary squad deployed adds +1 to the roll, up to a maximum of +3 for fielding a full platoon.
+
+| 2d6 | Result                                                                                                                                                                                  |
+| :-: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| 10+ | The area is secured.                                                                                                                                                                    |
+| 7-9 | The expedition runs into a complication that must be dealt with before the area can be secured, such as encountering a monster lair, dispute with the locals, or supply route collapse. |
+| 2-6 | The expedition fails to secure the area.                                                                                                                                                |
+
+When securing an area, mercenaries are paid battle wages. In addition, each squad needs 100 supplies a month, as well as a reliable supply route to transport said provisions.
+
+Supplies cost 10 shillings for 3 day's worth of food, water, and other sundries.
+
+Once an area is secured, mercenaries can set up and hold a base camp.
+
+While holding a base camp, mercenaries are paid regular wages, and only need 50 supplies per squad a month. A base camp can be held for six downtime turns, after which the mercenaries will begin making morale rolls each downtime turn to determine if they continue to hold the area.
+
+Once a base camp has been established, the area can be surveyed, which requires a surveyor. Surveying an area takes one downtime turn and will reveal all the resources in an area, as well as any hidden features.
+
+Once an area has been surveyed, labor efforts such as extracting resources or building estates can occur, so long as the base camp continues to hold.
+
+One laborer can extract 100s of value of resources per downtime turn. They can construct buildings at the normal rate.
+
+Each surveyor, laborer, architect, and other retainers in a base camp need 6 supplies a month.
+## Estates
+To build personal estates, the PC must acquire the land (via expedition or some other means), hire laborers, and pay for the construction of any buildings. One laborer is needed for every 250s of construction.
+
+Construction time is determined by the costs of construction. Each day 500s of value can be constructed. An architect is needed for every 50,000s of construction, and the overall construction speed can be cut in half if the PC pays double the construction cost.
+
+One laborer, therefore, could build a hovel (120s) in a day. Building a row house (1,200s) however, would require five laborers and take three days.
+
+Each building comes with furnishings of appropriate value relative to the structure. If the PC wishes to improve the standard of construction and furnishings, they may pay double the cost of the building.
+
+They may do this as many times as they wish, each time doubling the cost further.
+
+The basic level of furnishing for a hovel, for example, would barely be furnished apart from the bare essentials, and those would be of a poor standard. The basic level of furnishing for a merchant's house would be quite comfortable, and for an imperial palace would be incredibly luxurious. A PC could pay double the cost of the palace, 5,000,000 shillings, to improve it, or pay double that value, 10,000,000, to improve it even further.
+
+If the PC wants to add anything into the structure that requires special craftsmanship, such as traps, secret doors or passageways, ornate decorations, etc. it adds 1,000 shillings to the cost of the structure per specific object.
+
+Building special rooms, such as a library, laboratory, or shrine, each costs 5% of the base cost of the building, and are of a standard of appropriate value relative to the structure (e.g. a library in a merchant’s house is rather basic, whereas one in an imperial palace would be a famed repository of knowledge).
+## Infrastructure - WIP
+PCs can found settlements or increase the size of existing settlements by making investments into infrastructure.
+
+To found a hamlet , the area it is to be built in must be secured and surveyed, and an estate of at least 2,000s in value built, around which the hamlet can be organized.
+
+Founding a hamlet requires it to be constructed using the same process as constructing an estate. The cost of construction for a hamlet is 5,000s.
+
+To change the settlement type of an existing settlement, no laborers are required. However, the settlement in question must have a route, either by land, water, or some other method, between it and a given number of other settlements.
+
+A tracker is set for the number of successes needed to advance a settlement to the next tier. The number of successes is equal to the tier being advanced to (e.g. expanding a hamlet to a village requires two successes).
+
+Attempting to improve infrastructure can be performed as an action during a downtime turn. To do so, a PC pays the base investment cost for the settlement type they are attempting to advance to and rolls 2d6, with bonuses applying for extra expenditures and established institutions within the settlement. These bonuses cannot cumulatively exceed +3.
+
+A PC only needs to pay the base investment cost (plus any bonus expenditures) during the first attempt they make. Successive attempts do not require payment.
+
+
+## Institutions
+An institution is any kind of organization or long term enterprise. Examples would include a bar, teahouse, shop, theater troupe, garrison, mercenary outfit, gang, guild, orphanage, and so on.
+
+Institutions offer specific benefits to the characters who have invested in them. These are customized for each given institution. For example, investing in a stagecoach network might allow for more retainers to be available for hire, and for retainers of higher levels to appear in that settlement. Institutions also provide monthly profit based on their tier. This profit is considerably lower than what it would be if the PC worked full time for the institution; As PCs are primarily adventurers, they will profit roughly a 20-25%  return on investment annually.
+
+Institutions can be categorized into seven different tiers. To found a tier 1 institution, a PC must have some kind of resource available that would allow them to begin operations. For example, if they wish to found a cult, they should already have a few followers committed to the cause. As an action during a downtime turn, they can then spend 500s to establish that institution in the settlement they are in.
+
+PCs can also invest, partner in, or assume ownership of pre-existing institutions. Purchasing an already established institution will normally cost 10x the base investment cost.
+
+To advance an institution up a tier, if the prerequisites for settlement type are met, a PC must describe their method for growing the institution. They then pay the base investment cost of the tier to which they are attempting to advance the institution, and roll 2d6, with bonuses applying for extra expenditures, to a max of +3.
+
+| 2d6 |                                                              Result                                                              |
+| :-: | :------------------------------------------------------------------------------------------------------------------------------: |
+| 10+ |                                              Institution advances to the next tier.                                              |
+| 7-9 | A setback occurs, which prevents further growth until it is dealt with; no benefits can be received until setback is dealt with. |
+| 2-6 |                                                       No progress is made.                                                       |
+
+The base investment costs for each institution tier are listed below, as well as any prerequisites.
+
+| Institution Tier | Base Investment Cost |               Bonuses                |             Prerequisites              | Monthly Profit |
+| :--------------: | :------------------: | :----------------------------------: | :------------------------------------: | :------------: |
+|        1         |         500s         |          No roll necessary           | Must be located in a hamlet or larger  |      10s       |
+|        2         |        1,000s        |  +1 for each additional 500s spent   | Must be located in a village or larger |      20s       |
+|        3         |        2,500s        | +1 for each additional 1,250s spent  | Must be located in a village or larger |      45s       |
+|        4         |        5,000s        | +1 for each additional 2,500s spent  |  Must be located in a town or larger   |      90s       |
+|        5         |       10,000s        | +1 for each additional 5,000s spent  |  Must be located in a town or larger   |      200s      |
+|        6         |       20,000s        | +1 for each additional 10,000s spent |  Must be located in a city or larger   |      400s      |
+|        7         |       40,000s        | +1 for each additional 20,000s spent |     Must be located in a big city      |      800s      |
+
+To relocate an institution to another settlement, treat it the same as attempting to advance the institution a tier. If the roll is successful, the institution is now headquartered in the new location. The PC and arbiter can determine if it has relocated entirely, or left some auxiliary or franchise branch behind in the old settlement.	
+
+If the institution suffers a setback, the arbiter may roll on the following table for inspiration.
+
+| 2d6 |            Setback            |
+| :-: | :---------------------------: |
+|  2  |           Sabotage            |
+|  3  |           Tax Audit           |
+|  4  |       Employee Dispute        |
+|  5  |     Regulatory Paperwork      |
+|  6  | Service or Quality Complaints |
+|  7  |         Minor Delays          |
+|  8  |     Economic Fluctuations     |
+|  9  |          Petty theft          |
+| 10  |       Marketing Misstep       |
+| 11  |     Minor Supply Shortage     |
+| 12  |     Economic Opportunity      |
+
+## Domains - WIP
+
+## Factions - WIP
