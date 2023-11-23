@@ -96,7 +96,7 @@ The basic level of furnishing for a hovel, for example, would barely be furnishe
 If the PC wants to add anything into the structure that requires special craftsmanship, such as traps, secret doors or passageways, ornate decorations, etc. it adds 1,000 shillings to the cost of the structure per specific object.
 
 Building special rooms, such as a library, laboratory, or shrine, each costs 5% of the base cost of the building, and are of a standard of appropriate value relative to the structure (e.g. a library in a merchant’s house is rather basic, whereas one in an imperial palace would be a famed repository of knowledge).
-## Infrastructure - WIP
+## Infrastructure
 PCs can found settlements or increase the size of existing settlements by making investments into infrastructure.
 
 To found a hamlet , the area it is to be built in must be secured and surveyed, and an estate of at least 2,000s in value built, around which the hamlet can be organized.
@@ -111,6 +111,19 @@ Attempting to improve infrastructure can be performed as an action during a down
 
 A PC only needs to pay the base investment cost (plus any bonus expenditures) during the first attempt they make. Successive attempts do not require payment.
 
+| 2d6 |                                                                                                                                                    Result                                                                                                                                                     |
+| :-: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| 10+ |                                                                                                                                      Successs is marked on the tracker.                                                                                                                                       |
+| 7-9 | A setback occurs, which prevents further infrastructure progress until it is dealt with. This may be that the settlement may not have adequate resources, such as food or water, to expand, or the settlement's expansion infringes on settled territory, or the lair of a monster or a dungeon is uncovered. |
+| 2-6 |                                                                                                                                             No progress is made.                                                                                                                                              |
+
+| Settlement Type | Base Investment Cost |                                                   Bonuses                                                    |             Prerequisites             |
+| :-------------: | :------------------: | :----------------------------------------------------------------------------------------------------------: | :-----------------------------------: |
+|   1 (hamlet)    |        5,000s        |                                              No roll necessary                                               | Must be located in a hamlet or larger |
+|   2 (village)   |       20,000s        |  +1 for each additional 5,000s spent. +1 for each tier 1 institution owned by the company in the settlement  |    Must be connected to 2 hamlets     |
+|    3 (town)     |       80,000s        | +1 for each additional 20,000s spent. +1 for each tier 2 institution owned by the company in the settlement  |    Must be connected to 2 villages    |
+|    4 (city)     |       320,000s       | +1 for each additional 80,000s spent. +1 for each tier 4 institution owned by the company in the settlement  |     Must be connected to 2 towns      |
+|  5 (big city)   |      1,280,000s      | +1 for each additional 320,000s spent. +1 for each tier 6 institution owned by the company in the settlement |     Must be connected to 2 cities     |
 
 ## Institutions
 An institution is any kind of organization or long term enterprise. Examples would include a bar, teahouse, shop, theater troupe, garrison, mercenary outfit, gang, guild, orphanage, and so on.
