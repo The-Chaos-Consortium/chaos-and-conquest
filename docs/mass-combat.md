@@ -36,5 +36,20 @@ The overall leader of an army will normally get another 10 shares on top of the 
 
 If the PCs and retainers outnumber the hired mercenaries, the mercenaries will generally not force shares of the spoils.
 
-## Quick Mass Combat - WIP
-<!-- add dice roll off system -->
+## Quick Mass Combat
+For smaller scale battles the arbiter can use the above detachment rules to handle mass combat. They are perfectly usable for large scale battles as well if the group would like to actively play out the fight; while the above detachment sizes are recommended, the arbiter can use whatever detachment sizes they feel comfortable with, with huge detachments being 5,000+ combatants in a Roman Legion for example.
+
+A simplified system can be used though when the battle is too large to actively simulate, or when the arbiter wants to quickly resolve a battle. In such an engagement, each side rolls 1d6, and adds the following modifiers.
+- +1 if they outnumber the enemy at all; +2 if they outnumber the enemy 2 to one; +3 if they outnumber the enemy 3 to one, and so on.
+- Add the level of the highest level PC on that side, or the hit dice of the highest threat npc.
+- +1 for each significant tactical advantage, such as: cover, high ground, unbreakable formation, ambush, superior armaments, relevant magic, traps, superior training or morale, and so on.
+
+The side that rolls the highest wins the engagement. Ties are treated as a draw.
+
+Unless it does not make sense, the difference between the result of each side’s roll multiplied by 10 represents the percentage of casualties, losses, or severity of damage to the losing side of the engagement.
+
+The number rolled by the losing side multiplied by 10 represents the percentage of casualties, losses, or severity of destruction to the winning side of the engagement. This means the winning side will always suffer some losses (10% - 60%) which could result in a pyrrhic victory if they lose more troops than the losing side.
+
+Any PCs involved in the engagement make a save with their best attribute if they win or draw. If they succeed, they are unharmed; if they fail, they take damage equal to the amount they failed by.
+
+If they lost, PCs use their worst attribute for the check. If they pass, they take damage equal to the difference between the result of each side’s roll; if they fail, they die.
