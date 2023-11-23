@@ -19,8 +19,11 @@ If diplomacy falls short, opting for stealth or alternative methods to bypass ob
 Combat is always a choice, and should generally be your last choice. One lucky blow can end your life, and even if you survive, you will likely be wounded and scarred. If you must fight, do so with a plan. Use the environment to your advantage, and try to avoid fighting on your opponent’s terms. If you can’t avoid a fight, try to make it as quick and decisive as possible. If the tides turn and it's not looking good for you, don't be afraid to run away.
 ### Risk vs. Reward
 There are many more treasures and rewards out in the world, so if you find yourself in a situation where the risk outweighs the reward, it's best to cut your losses and move on. You can always come back later when you're better prepared, or try a completely different approach.
-## Arbiter's Role - WIP
-
+## Arbiter's Role
+### Neutrality
+The arbiter is a neutral judge. They are neither *on* the player's side *nor* against them. They are there to accurately describe the world and its inhabitants, and to adjudicate the rules. They are not there to tell a story, or to win. They are there to facilitate the game and to make sure everyone has fun. The arbiter should make sure to apply the rules equally to PCs, NPCs, and the world itself.
+### Arbiter of Rules
+The games rules cannot possibly cover every situation that may arise. When a situation arises that is not covered by the rules, the arbiter should make a ruling based on what makes sense in the context of the game world. If the arbiter is unsure of what to do, they should make a ruling that is in the best interest of the game and the players. If the arbiter makes a ruling that is later found to be incorrect, they should make a note of it and correct it in the future. When the arbiter thinks random chance is appropriate, they may ask the PCs to make a relevant save, or roll a d6 themselves for an x-in-6 chance of success. Regardless of how the arbiter decides to handle the situation, always make sure to tell the PCs the chances, and let them decide whether or not to take the risk.
 ## Saves
 When the PC is doing something *risky* where *success* of an action is *uncertain*, a player rolls a d20. If you roll *equal to* or *under* the relevant attribute score, you succeed and suffer no consequences. A 1 is always a success, and a 20 is always a failure.
 
