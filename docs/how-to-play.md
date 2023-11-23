@@ -1,7 +1,24 @@
 # How to Play
 An arbiter controls and describes the world to players who then describe how their characters (PCs) act in the world. All entities controlled by the arbiter are known as non-player characters (NPCs).
-## Player's Role - WIP
+## Player's Role
+### Character
+You are not defined by your character sheet or abilities. They are just some of your available tools - be creative. Do not only think from the perspective of your character, instead ask yourself what you would do.
+### Exploration
+Asking questions and paying attention to detail is more useful than anything on your character sheet. 
 
+Exploration is a crucial aspect of navigating perilous environments, and the most valuable asset at your disposal the ability to ask questions. Mastering this skill is the linchpin for survival and unearthing hidden treasures.
+
+When the arbiter unveils details, it's a safe assumption that there's more valuable information to be uncovered. Pose targeted questions to extract the necessary details and guide yourself toward success.
+
+Eventually, you'll encounter a barrier obstructing your path to the coveted treasure.
+### Communication
+If feasible, taking your way through problems is typically the safest approach. Utilize dialogue as a tool to extract information from NPCs, understand mutual assistance opportunities, and potentially identify vulnerabilities in case situations take a turn for the worse.
+### Stealth
+If diplomacy falls short, opting for stealth or alternative methods to bypass obstacles becomes a prudent secondary strategy. This may involve diverting attention, pilfering a key, or revisiting the challenge later. With careful planning, drawing your sword might not even be necessary.
+### Combat
+Combat is always a choice, and should generally be your last choice. One lucky blow can end your life, and even if you survive, you will likely be wounded and scarred. If you must fight, do so with a plan. Use the environment to your advantage, and try to avoid fighting on your opponent’s terms. If you can’t avoid a fight, try to make it as quick and decisive as possible. If the tides turn and it's not looking good for you, don't be afraid to run away.
+### Risk vs. Reward
+There are many more treasures and rewards out in the world, so if you find yourself in a situation where the risk outweighs the reward, it's best to cut your losses and move on. You can always come back later when you're better prepared, or try a completely different approach.
 ## Arbiter's Role - WIP
 
 ## Saves
