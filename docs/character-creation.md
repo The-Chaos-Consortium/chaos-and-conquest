@@ -15,7 +15,7 @@ PCs start with *two Supplies* (see *Equipment*), a *torch*, and a *dagger*.
 
 *Roll 3d6* and multiply the result by 5 to determine your starting silver shillings. You may use this to buy additional equipment if you like.
 
-Either, roll a *d4* to randomly [determine a background](backgrounds/README.md) within an archetype of your choice, or a *d20* to determine a completely random background. Optionally, pick a specific background below from the archetype you wish to follow.
+Either, roll a *d20* to randomly [determine a background](backgrounds/README.md), or pick a specific background below from the archetype you wish to follow.
 ## 4. Name & Age
 Name your character. Pick an age no younger than 18, or roll 2d10 + 16 for a random age.
 ## 5. Faction

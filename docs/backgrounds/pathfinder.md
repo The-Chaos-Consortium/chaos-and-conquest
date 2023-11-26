@@ -1,6 +1,6 @@
 # Pathfinder
 A Pathfinder is considered skilled at tasks related to surviving in the world, or navigation. They all gain the *Survival* talent.
-## 1 (1) Roadwarden
+## (1) Roadwarden
 The roads are the lifeblood of civilization, and your task is to keep them flowing. All manner of beasts and men threaten the flow, and you must stand against them all.
 
 *Equipment*
@@ -12,7 +12,7 @@ The roads are the lifeblood of civilization, and your task is to keep them flowi
 1. Writ (often carried in a protective leather case) that shows your powers and legal rights - non-encumbering
 
 *Talents*: Survival, Intimidation, Animals
-## 2 (2) Ranger
+## (2) Ranger
 You’ve never been one for the hustle and bustle of the cities - you feel alive within the forests of the lands, surviving off whatever you can find and hunt.
 
 *Equipment*
@@ -22,7 +22,7 @@ You’ve never been one for the hustle and bustle of the cities - you feel alive
 1. Trap - d6 dmg, on failed STR save stuck
 
 *Talents*: Survival, Herbalism, Stealth
-## 3 (3) Bounty Hunter
+## (3) Bounty Hunter
 Some idiot is always trying to run and some other idiot is always willing to pay money for the first idiot to be brought back.
 
 *Equipment*
@@ -33,7 +33,7 @@ Some idiot is always trying to run and some other idiot is always willing to pay
 1. d3 wanted posters - non-encumbering
 
 *Talents*: Survival, Dirty Fighting, Rumors
-## 4 (4) Outlaw
+## (4) Outlaw
 More than a common thief or burglar, you’re a romantic figure, a dashing rogue with a reputation to uphold...and perhaps a greater ambition than mere silver.
 
 *Equipment*

@@ -1,6 +1,6 @@
 # Thief
 A Thief is considered skilled at tasks pertaining to thievery, such as stealth, pick-pocketing, lock-picking, and so on. They all gain the *Stealth* talent.
-## 1 (17) Rat Catcher
+## (17) Rat Catcher
 It’s a truth universally acknowledged that a town with a rat problem must be in want of a catcher. And, oh dear, there’s a lot of rats out there.
 
 *Equipment*
@@ -9,7 +9,7 @@ It’s a truth universally acknowledged that a town with a rat problem must be i
 1. Flute
 
 *Talents*: Stealth, Traps, Animals
-## 2 (18) Beggar
+## (18) Beggar
 Living on the streets, you’re ignored by almost everyone. Invisible & beneath notice to some, too uncomfortable to contemplate for others.
 
 *Equipment*
@@ -18,7 +18,7 @@ Living on the streets, you’re ignored by almost everyone. Invisible & beneath 
 1. Club - d6 dmg
 
 *Talents*: Stealth, Pick-pocketing, Disguise
-## 3 (19) Grave Robber
+## (19) Grave Robber
 Look, they’re dead. They don’t care if some doctor wants to look at their insides, or if I slip the ring off their finger as I deliver them to him. I’m sure they have other concerns.
 
 *Equipment*
@@ -28,7 +28,7 @@ Look, they’re dead. They don’t care if some doctor wants to look at their in
 1. Oversized sack
 
 *Talents*: Stealth, Anatomy, Cartography
-## 4 (20) Burglar
+## (20) Burglar
 Money is a heavy responsibility and you’re doing charity work, relieving people of their burdens.
 
 *Equipment*

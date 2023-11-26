@@ -1,6 +1,6 @@
 # Priest
 A Priest is considered skilled at tasks related to religious activities, or church. They all gain the *Religion* talent.
-## 1 (9) Exorcist
+## (9) Exorcist
 You’ve been known to banish a spirit or two from people and places. 
 
 *Equipment*
@@ -9,7 +9,7 @@ You’ve been known to banish a spirit or two from people and places.
 1. Scroll of Bless
 
 *Talents*: Religion, Spirits, Divine Wards
-## 2 (10) Warpriest
+## (10) Warpriest
 You are a fearsome warrior who has sworn an oath to take a stand in the cosmic war. Your oath is a powerful bond, and is the source of your power.
 
 *Equipment*
@@ -19,7 +19,7 @@ You are a fearsome warrior who has sworn an oath to take a stand in the cosmic w
 1. Holy Symbol - non-encumbering
 
 *Talents*: Religion, Armor Master, Healing
-## 3 (11) Initiate
+## (11) Initiate
 You decided to join a religious order to learn the mysteries and divine truths they possess. Also, you heard they brew good beer.
 
 *Equipment*
@@ -28,7 +28,7 @@ You decided to join a religious order to learn the mysteries and divine truths t
 1. Bottle of fine beer
 
 *Talents*: Religion, Brewing, Scribing
-## 4 (12) Charlatan
+## (12) Charlatan
 You’ve become convinced nobody comes into money the fair way, and without advantages of birth, you’ll have to rely on your wit...and there’s a sucker born every minute.
 
 *Equipment*

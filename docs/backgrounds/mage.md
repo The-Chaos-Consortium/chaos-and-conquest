@@ -1,6 +1,6 @@
 # Mage
 A Mage is considered skilled at tasks pertaining to magic, and arcane lore. They all gain the *Arcane* talent.
-## 1 (13) Wizard's Apprentice
+## (13) Wizard's Apprentice
 All you’ve ever heard is that magic is the greatest subject in the world… or at least that’s what your master said. You’ve been kicked out; told to ‘see the world’ or some such thing. Your master told you that traveling in the company of mere mortals is good for you, but you’ve begun to suspect they just didn’t want to be distracted from their ‘very important research’.
 
 *Equipment*
@@ -10,7 +10,7 @@ All you’ve ever heard is that magic is the greatest subject in the world… or
 1. Grimoire - 2 slots, 1 random spell
 
 *Talents*: Arcane, Research, Scribing
-## 2 (14) Warlock
+## (14) Warlock
 You thought it was smart to make a deal with a being from another dimension… time will tell if it was. On the brightside, you got some cool powers out of it?
 
 *Equipment*
@@ -19,7 +19,7 @@ You thought it was smart to make a deal with a being from another dimension… t
 1. Grimoire - 2 slots, 1 random spell
 
 *Talents*: Arcane, Rituals, Bargaining
-## 3 (15) Alchemist
+## (15) Alchemist
 All things pass from one form to another, ice to water, water to steam, bodies to souls, lead to gold. Probably. Maybe. You’ve just gotta keep trying. And find someone to finance your experiments.
 
 *Equipment*
@@ -28,7 +28,7 @@ All things pass from one form to another, ice to water, water to steam, bodies t
 1. Grimoire - 2 slots, 1 random spell
 
 *Talents*: Arcane, Alchemy, Perseverance
-## 4 (16) Witch
+## (16) Witch
 You hold the wisdom that has been passed down through generations to aid and protect the community, but you have been driven into hiding by those that don’t want to share their positions of authority.
 
 *Equipment*
