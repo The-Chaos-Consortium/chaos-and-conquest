@@ -174,4 +174,87 @@ If the institution suffers a setback, the arbiter may roll on the following tabl
 
 ## Domains - WIP
 
-## Factions - WIP
+## Factions
+Running an open-ended and living world requires a lot of moving parts. Factions are a way to keep track of the various groups and organizations that exist in the world, and how they interact with the PCs and each other.
+
+A Faction can be any kind of group: armies, adventuring guilds, religious orders, groups of scholars, etc. The arbiter manages their movement between sessions, adjusting their interests and actions based on the current landscape of the world around them.
+
+Each Faction is described by a summary of who they are and their interests, a couple of NPCs to represent their members, and their *Resources* and *Goals*.
+### Resources
+These represent the assets the Faction can employ to push its agenda: people, equipment, knowledge, etc. Each faction should start with 2-4 Resources, with 2 being a small group still building its power, and 4 being a well-established force to be respected. Factions with at least 3 Resources have enough numbers and/or assets to form Detachments.
+
+As the Faction furthers its Goals, it will acquire new Resources or empower its existing ones. At the same time, the Resources can be weakened or lost if the Faction is attacked.
+### Goals
+These are the objectives the Faction is working towards at the moment: each of them requires a certain amount of *Progress* to be achieved, ranging from 4 to 12 depending on the complexity.
+- *4 Progress* - Goals that are quite simple and immediate to achieve, needing mostly time and effort to be applied.
+- *6 Progress* - Goals that are still simple, but might require some tricky steps to be completed.
+- *8 Progress* - Complex Goals, needing multiple steps, knowledge, and preparation to be achieved.
+- *12 Progress* - Goals truly difficult to achieve, requiring a long time, hard work, and caution. Once achieved, they cause major changes on the landscape around the Faction.
+
+### The Faction Turn
+Between sessions, the arbiter will roll for the Progress of each Faction's Goals. It's up to you if that will happen after every session, depending on how fast you want things to change, but it's recommended that the Faction Turn should happen once every 1-2 weeks of in-game time.
+
+During the Faction Turn, a Faction will choose to focus on one of its Goals, and then gather a pool of *d6s*:
+- Add 1d6 to the pool for each Resource useful to achieve the Goal.
+- Add or subtract 1d6 if the Faction is on an advantageous or precarious position due to external reasons (e.g. the PCs are helping them, or their target is inaccessible).
+- If another Faction is the target of the Goal, subtract 1d6 for each Resource the target has to protect itself.
+
+Roll all dice gathered: *each dice that shows 4-6* marks 1 Progress towards the Goal.
+
+*If a Faction has no dice to roll*, they fail to make Progress in this Faction Turn.
+### Completing a Goal
+When a Faction completes a Goal, add a new Resource or rewrite an existing one to represent its increase in power. Equally, if it targeted another Faction, the target loses or rewrites a Resource to represent its losses.
+
+Such changes should be noticed in the game, either through gossip, rumors, or visible events.
+
+An example of a Faction follows, containing all the elements described above.
+### Children of the Moon
+*A tribe of goblins infesting an old abandoned mill, having repurposed the millstone as an altar. They are led by an enigmatic human mage named Miroslav, who believes the moon is the source of truth and power. The tribe will convert people to their faith through any means necessary.*
+
+#### Resources
+- Goblin shamans imbued with the power of the moon.
+- A terrifying presence among the local human villages.
+- A skilled yet mad mage as their leader, wielding an unknown power.
+
+#### Goals
+- (0/6) - Grow the tribe's members.
+- (0/8) - Attack the Black Eye tribe and take their territory.
+- (0/12) - Sacrifice the entire populace of a local town to the moon.
+
+#### NPCs
+*Shaman*
+<table>
+<tr><td><b>Skill</b>: 12</td><td><b>HD</b>: 3</td></tr>
+<tr><td><b>Morale</b>: 9</td><td><b>AV</b>: 1</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Staff (d8), Spellcasting</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Goblins heavily tattooed across their whole bodies with blue ink, which channel the power of the moon.
+<br />
+Spellcasting, Power Budget: 4
+<br />
+Grimoire:
+<ul>
+    <li>Bolt - Throw [DICE] bolts of magical energy dealing d6 damage each.</li>
+    <li>Fear - [DICE] close creatures must WIL Save or try to flee.</li>
+</ul>
+</td></tr>
+</table>
+
+*Miroslav*
+<table>
+<tr><td><b>Skill</b>: 12</td><td><b>HD</b>: 6</td></tr>
+<tr><td><b>Morale</b>: 9</td><td><b>AV</b>: 1</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Staff (d8), Spellcasting</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Enigmatic and mad human mage. Charismatic and persuasive at times, but also prone to sudden outbursts of rage or paranoia.
+<br />
+Spellcasting, Power Budget: 7
+<br />
+Grimoire:
+<ul>
+    <li>Bolt - Throw [DICE] bolts of magical energy dealing d6 damage each.</li>
+    <li>Fear - [DICE] close creatures must WIL Save or try to flee.</li>
+    <li>Command - One target that can hear and comprehend you must WIL Save or obey a command with up to [SUM] words that you give.</li>
+    <li>Darkness - Create a [SUM] x 2ft. diameter sphere of pure darkness nearby for [DICE] Turns.
+    <li>Summon - Summon [DICE] 1HD creatures from the moon to fight for you.</li>
+</ul>
+</td></tr>
+</table>
