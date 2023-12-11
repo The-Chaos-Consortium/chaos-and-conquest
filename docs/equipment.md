@@ -1,7 +1,7 @@
 # Equipment
 Most items take one slot to carry but some items, like weapons or armor, may take additional slots to carry. Some items like clothes or small trinkets are non-encumbering and do not take up inventory slots. These can be tracked in the notes section of your character sheet.
 ## Currency
-Money is based on a silver standard. When treasure is sold, it is converted into *silver shillings (s)*. These do not normally take up inventory slots. Characters are assumed to carry a small amount on their person to spend on small purchases and have the rest of their wealth stored somewhere else. Up to 500 coins may be carried on your person without taking up slots. If you wish to carry more coins, 1,000 coins of any denomination take up one slot. Coins are approximately 17mm in diameter - roughly the size of a dime.
+Money is based on a silver standard. When treasure is sold, it is converted into *silver shillings (s)*. These do not normally take up inventory slots. Characters are assumed to carry a small amount on their person to spend on small purchases and have the rest of their wealth stored somewhere else. Up to 500 coins may be carried on your person without taking up slots. If you wish to carry more coins, 1,000 coins of any denomination take up one slot. Coins are approximately 21mm in diameter - roughly the size of an American nickel.
 
 You may also encounter *copper pennies (p)* and *gold guilders (g)* in the world. Peasants will make use of pennies, but players almost never will, unless found in a treasure hoard. The average peasant makes around 120 shillings a year. Guilders may be used in larger transactions among the nobility and wealthy. 10p are equal to 1s, and 10s are equal to 1g.
 
