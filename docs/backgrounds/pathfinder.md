@@ -9,7 +9,7 @@ The roads are the lifeblood of civilization, and your task is to keep them flowi
 1. Crossbow - d8 dmg, two hands, 3 slots
 1. Ammo
 1. Small tent & cooking gear
-1. Writ (often carried in a protective leather case) that shows your powers and legal rights - non-encumbering
+1. Writ (often carried in a protective leather case) that shows your powers and legal rights - 0 slots
 
 *Talents*: Survival, Intimidation, Animals
 ## (2) Ranger
@@ -26,18 +26,18 @@ You’ve never been one for the hustle and bustle of the cities - you feel alive
 Some idiot is always trying to run and some other idiot is always willing to pay money for the first idiot to be brought back.
 
 *Equipment*
-1. Pistol - d6 dmg, loud, 2 slots
+1. Pistol - d6+1 dmg, loud, 2 slots
 1. Ammo
 1. Sturdy rope
 1. Manacles
-1. d3 wanted posters - non-encumbering
+1. d3 wanted posters - 0 slots
 
 *Talents*: Survival, Dirty Fighting, Rumors
 ## (4) Outlaw
 More than a common thief or burglar, you’re a romantic figure, a dashing rogue with a reputation to uphold...and perhaps a greater ambition than mere silver.
 
 *Equipment*
-1. Hooded cloak or hat and mask - non-encumbering
+1. Hooded cloak or hat and mask - 0 slots
 1. Hand crossbow - d6 dmg, 2 slots
 1. Ammo
 

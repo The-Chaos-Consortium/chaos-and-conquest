@@ -63,8 +63,10 @@ Tallying up the LP a party has determines the party’s light level:
 | Dagger, Club, Staff, Short sword, etc. |                      d6 dmg                       |   1   |     5     |
 |     Sword, Axe, Flail, Lance, etc.     |                      d8 dmg                       |   2   |    10     |
 |  Longsword, Halberd, Warhammer, etc.   |             d10 dmg, two hands, reach             |   3   |    15     |
-|      Sling, Hand Crossbow, Pistol      |            d6 dmg, two hands to reload            |   2   |    35     |
-|         Bow, Crossbow, Musket          |           d8 dmg, two hands, long range           |   3   |    50     |
+|      Sling, Hand Crossbow, Thrown      |            d6 dmg, two hands to reload            |   2   |    35     |
+|             Bow, Crossbow              |           d8 dmg, two hands, long range           |   3   |    50     |
+|     Pistol (Flintlock, Wheellock)      |        d6+1 dmg, two hands to reload, loud        |   2   |    TBD    |
+|     Musket (Flintlock, Wheellock)      |        d8+1 dmg, two hands to reload, loud        |   3   |    TBD    |
 |                  Ammo                  |                     see Ammo                      |   1   |     5     |
 |              Flask of Oil              | d8 dmg for two rounds if target is doused and lit |   1   |  Supply   |
 

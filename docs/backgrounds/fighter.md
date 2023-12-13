@@ -24,7 +24,7 @@ Few people know how to wield a sword or a pistol, yet all men have honor. And yo
 
 *Equipment*
 1. Rapier - d8 dmg, 2 slots
-1. Pistol - d6 dmg, loud, 2 slots total
+1. Pistol - d6+1 dmg, loud, 2 slots total
 1. Ammo
 1. Light armor
 

@@ -4,7 +4,7 @@ A Priest is considered skilled at tasks related to religious activities, or chur
 You’ve been known to banish a spirit or two from people and places. 
 
 *Equipment*
-1. Necklace of beads - non-encumbering
+1. Necklace of beads - 0 slots
 1. Holy Water - undead take d8 dmg if doused in it, bypassing AV
 1. Scroll of Bless
 
@@ -16,7 +16,7 @@ You are a fearsome warrior who has sworn an oath to take a stand in the cosmic w
 1. Brigandine - Medium Armor, 2 slots
 1. Warhammer - d10 dmg, two hands, 3 slots
 1. Scroll of Heal
-1. Holy Symbol - non-encumbering
+1. Holy Symbol - 0 slots
 
 *Talents*: Religion, Armor Master, Healing
 ## (11) Initiate
@@ -24,7 +24,7 @@ You decided to join a religious order to learn the mysteries and divine truths t
 
 *Equipment*
 1. Raiment of your order - Light armor
-1. Book of hymns or prayers or theology - non-encumbering
+1. Book of hymns or prayers or theology - 0 slots
 1. Bottle of fine beer
 
 *Talents*: Religion, Brewing, Scribing
@@ -34,7 +34,7 @@ You’ve become convinced nobody comes into money the fair way, and without adva
 *Equipment*
 1. Tools for divination
 1. Vials of sugar water
-1. Pack of cards - non-encumbering
+1. Pack of cards - 0 slots
 1. d6 counterfeit silver coins
 1. Club - d6 dmg
 

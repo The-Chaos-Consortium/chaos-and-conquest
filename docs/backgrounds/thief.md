@@ -13,8 +13,8 @@ It’s a truth universally acknowledged that a town with a rat problem must be i
 Living on the streets, you’re ignored by almost everyone. Invisible & beneath notice to some, too uncomfortable to contemplate for others.
 
 *Equipment*
-1. Tin bowl or cup - non-encumbering
-1. Ragged clothes - non-encumbering
+1. Tin bowl or cup - 0 slots
+1. Ragged clothes - 0 slots
 1. Club - d6 dmg
 
 *Talents*: Stealth, Pick-pocketing, Disguise
@@ -22,7 +22,7 @@ Living on the streets, you’re ignored by almost everyone. Invisible & beneath 
 Look, they’re dead. They don’t care if some doctor wants to look at their insides, or if I slip the ring off their finger as I deliver them to him. I’m sure they have other concerns.
 
 *Equipment*
-1. Hooded cloak - non-encumbering
+1. Hooded cloak - 0 slots
 1. Spade
 1. Crowbar
 1. Oversized sack
