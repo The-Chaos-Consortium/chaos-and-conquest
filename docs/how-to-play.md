@@ -120,9 +120,9 @@ If they survive, they wake up with 1 stamina and roll on the scars table.
 ## Rest & Healing
 *Short Rest*: A PC may spend a turn catching their breath to spend a single supply to repair a weapon or armor.
 
-*Night’s Rest*: After consuming a ration and a full night’s rest of two watches, PCs regain d8 lost stamina and 1 Stress. PCs may also spend any number of supplies to repair weapons and armor.
+*Night’s Rest*: After consuming a ration and a full night’s rest of two watches, PCs regain d8 lost stamina and remove 1 Stress. PCs may also spend any number of supplies to repair weapons and armor.
 
-*Full Rest*: Spending a full week resting in a safe location heals all stamina, restores any lowered attributes, removes all stress, repairs armor, and restores worn weapons.
+*Full Rest*: Spending a full week resting in a safe location regains all stamina, restores any lowered attributes, removes all stress, repairs armor, and restores worn weapons.
 ## Distance
 Measuring distance is handled abstractly, making it faster and easier.
 
