@@ -98,9 +98,9 @@ Some attacks or effects may deal damage directly and ignore a creature’s armor
 ### Shields
 Wielding a shield allows you to sunder it, breaking it beyond repair, in order to block all damage from *one* incoming attack. It must make sense for the shield to be able to block the incoming damage, e.g. a melee or ranged attack, not fall damage. A PC may carry a max of 1 spare shield on their person, assuming they are currently holding one.
 ## Stamina & Death
-Stamina is a measure of your ability to avoid life-threatening harm. Each time a creature takes *damage* they subtract the number from their *stamina*. When a NPC reaches 0 or less stamina they have taken a fatal blow and are dead.
+Stamina is a measure of your ability to avoid life-threatening harm. Each time a creature takes *damage* they subtract the number from their *stamina*. When a non-retainer NPC reaches 0 or less stamina they have taken a fatal blow and are dead.
 
-If a PC’s stamina becomes 0 or lower, they are bleeding out and on Death’s door and must roll a d6. On a 1-3, they die. On a 4 or above, they fall unconscious and are dying. The dying PC must have their wounds treated by another character with a WIL save or magic within a turn, or they die. If a dying PC receives any damage, they die.
+If a PC’s or retainer's stamina becomes 0 or lower, they are bleeding out and on Death’s door and must roll a d6. On a 1-3, they die. On a 4 or above, they fall unconscious and are dying. The dying character must have their wounds treated by another character with a WIL save or magic within a turn, or they die. If a dying PC receives any damage, they die.
 
 If they survive, they wake up with 1 stamina and roll on the scars table.
 
