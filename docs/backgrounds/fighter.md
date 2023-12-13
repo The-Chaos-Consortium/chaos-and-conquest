@@ -5,8 +5,9 @@ Once you’ve seen the horrors of war you can never truly return to civilian lif
 
 *Equipment*
 1. Suit of Mail - medium armor, 2 slots
-1. Arming sword - d8 dmg, 2 slots
-1. Shield with the emblem of your last commission
+2. Arming sword - d8 dmg, 2 slots
+3. Short Spear - d6 dmg
+4. Shield with the emblem of your last commission
 
 *Talents*: Armor Master, Tactics, Endurance
 ## (6) Knight
@@ -14,9 +15,9 @@ You’re an elite, professional soldier, generally, but not always of noble bloo
 
 *Equipment*
 1. Heavy Plate Armor, 3 slots
-1. Longsword - d10 dmg, two hands, 3 slots
-1. Warhorse - 3 HD, 9 Skill, 9 ML. 5 Slots when ridden, 15 when not
-1. Squire - See retainer rules for generation. Armed with a spear and a desire to prove themself
+2. Longsword - d10 dmg, two hands, 3 slots
+3. Warhorse - 3 HD, 9 Skill, 9 ML. 5 Slots when ridden, 15 when not
+4. Squire - See retainer rules for generation. Armed with a spear and a desire to prove themself
 
 *Talents*: Armor Master, Influence, Brute Strength
 ## (7) Duelist
@@ -24,9 +25,9 @@ Few people know how to wield a sword or a pistol, yet all men have honor. And yo
 
 *Equipment*
 1. Rapier - d8 dmg, 2 slots
-1. Pistol - d6+1 dmg, loud, 2 slots total
-1. Ammo
-1. Light armor
+2. Pistol - d6+1 dmg, loud, 2 slots total
+3. Ammo
+4. Light armor
 
 *Talents*: Armor Master, Honor, Acrobatics
 ## (8) Slayer
@@ -34,7 +35,9 @@ Sure the nobles are bad, but you know what’s worse? Vampire nobles. Literal an
 
 *Equipment*
 1. Kickass hat - helmet
-1. A string of garlic or holy water
-1. A silver knife or a stake of hawthorn wood
+2. A string of garlic
+3. Holy water - undead take d8 dmg if doused in it, bypassing AV
+4. A silver knife - d6 dmg
+5. A stake of hawthorn wood
 
 *Talents*: Armor Master, Monster Lore, History
