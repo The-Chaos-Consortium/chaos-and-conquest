@@ -1,28 +1,29 @@
 # Equipment
 Most items take one slot to carry but some items, like weapons or armor, may take additional slots to carry. Some items like clothes or small trinkets are non-encumbering and do not take up inventory slots. These can be tracked in the notes section of your character sheet.
 ## Currency
-Money is based on a silver standard. When treasure is sold, it is converted into *silver shillings (s)*. These do not normally take up inventory slots. Characters are assumed to carry a small amount on their person to spend on small purchases and have the rest of their wealth stored somewhere else. Up to 500 coins may be carried on your person without taking up slots. If you wish to carry more coins, 1,000 coins of any denomination take up one slot. Coins are approximately 21mm in diameter - roughly the size of an American nickel.
+Money is minted in three denominations: *brass pennies (p)*, *silver shillings (s)*, and *gold marks (m)*. Coins are approximately 21mm in diameter - roughly the size of an American nickel. These do not normally take up inventory slots. Characters are assumed to carry a small amount on their person to spend on small purchases and have the rest of their wealth stored somewhere else. Up to 500 coins may be carried on your person without taking up slots. If you wish to carry more coins, 1,000 coins of any denomination take up one slot.
 
-You may also encounter *copper pennies (p)* and *gold guilders (g)* in the world. Peasants will make use of pennies, but players almost never will, unless found in a treasure hoard. The average peasant makes around 120 shillings a year. Guilders may be used in larger transactions among the nobility and wealthy. 10p are equal to 1s, and 10s are equal to 1g.
+Peasants will make use of pennies, and will likely never see a gold mark in their life. The middle class of merchants and tradesmen will use shillings for the bulk of transactions, using pennies for ale and marks for major purchases. The upper class of nobles and aristocrats will use marks, and will likely never see a penny in their life. 1 gold mark is equal to 20 silver shillings, and 20 silver shillings are equal to 240 brass pennies.
 
-<p style="text-align: center;">1g : 10s : 100p</p>
+<p style="text-align: center;">1m : 20s : 240p</p>
+<p style="text-align: center;">1s : 12p</p>
 
 ### Converting OSR Wealth
-Many other systems such as the early editions of D&D make use of a gold standard. When converting costs and treasure rewards from those systems simply divide by 10 to get an accurate reward. This means a treasure hoard of 4,000 GP would convert to 400g, and be easily carried by 1 PC.
+Many other systems such as the early editions of D&D make use of a gold standard. When converting treasure rewards from those systems simply convert 1 gold to 1 penny to get an accurate reward. This means a treasure hoard of 4,000 GP would convert to 4,000p.
 ## Standard of Living
-The table below illustrates the varying levels of comfort that can be achieved with different amounts of guilders. With just one guilder, a peasant can barely maintain a miserable standard of living. As adventurers begin their careers, they typically survive on a meager monthly income of a few guilders - just enough to cover basic expenses like food and lodging in an inn. The bulk of wealth in society is concentrated among the elite, while the majority of the population subsists on extremely meager means.
+The table below illustrates the varying levels of comfort that can be achieved with different amounts of income. With just one mark, a peasant can barely maintain a miserable standard of living. As adventurers begin their careers, they typically survive on a meager monthly income of a few marks - just enough to cover basic expenses like food and lodging in an inn. The bulk of wealth in society is concentrated among the elite, while the majority of the population subsists on extremely meager means.
 
-| Standard of Living |  Monthly Cost   |                                 Common Profession                                 |
-| :----------------: | :-------------: | :-------------------------------------------------------------------------------: |
-|     Miserable      |       1g        |                                Serfs and peasants                                 |
-|       Meager       |     1g - 2g     |                             Unskilled manual laborers                             |
-|      Adequate      |     2g - 4g     |          Skilled laborers or journeyman crafters, 1st level adventurers           |
-|    Comfortable     |    4g - 15g     |        Master craftsmen or yeoman farmer (85 acres), 2nd level adventurers        |
-|     Prosperous     |    15g - 50g    | Master professionals or landed patrician (200 acres), 3rd – 4th level adventurers |
-|      Affluent      |   50g - 200g    |             Barons or wealthy patricians, 5th – 7th level adventurers             |
-|     Sumptuous      |  200g - 1,200g  |                        Counts, 8th – 9th level adventurers                        |
-|     Luxuriant      | 1,200g - 8,000g |                  Dukes or princes, 10th – 12th level adventurers                  |
-|  Lavishly Opulent  |     8,000g+     |                 Kings or emperors, 13th – 14th level adventurers                  |
+| Standard of Living | Monthly Income |                  Common Profession                   |
+| :----------------: | :------------: | :--------------------------------------------------: |
+|     Miserable      |      18s       |                  Serfs and peasants                  |
+|       Meager       |      30s       |   Unskilled manual laborers, 1st level adventurers   |
+|      Adequate      |    40 - 60s    |  Skilled laborers, journeyman crafters, mercenaries  |
+|    Comfortable     |   70s - 100s   |     Master craftsmen or yeoman farmer (85 acres)     |
+|    Respectable     |      150s      | Master professionals or landed patrician (200 acres) |
+|      Wealthy       |      300s      |         Courtiers, Knights, Bishops, Gentry          |
+|    Minor Noble     |      600s      |                   Barons or Counts                   |
+|    Major Noble     |      760s      |                   Dukes or Princes                   |
+|       Royal        |    15,000s+    |                  Kings or Emperors                   |
 
 ## Supply
 *Supply* is an abstract item representing basic gear a PC brought with them and costs *10s*. At any time during a session a PC may trade a Supply they carry for any simple commonly available item, which they then note in their inventory. A list of suggestions is given below, but ultimately it is up to the arbiter which items can be acquired using Supply and which should be bought separately.
