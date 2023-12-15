@@ -1,4 +1,4 @@
-# Equipment
+# Items & Equipment
 Most items take one slot to carry but some items, like weapons or armor, may take additional slots to carry. Some items like clothes or small trinkets are non-encumbering and do not take up inventory slots. These can be tracked in the notes section of your character sheet.
 ## Currency
 Money is minted in three denominations: *brass pennies (p)*, *silver shillings (s)*, and *gold marks (m)*. Coins are approximately 21mm in diameter - roughly the size of an American nickel. These do not normally take up inventory slots. Characters are assumed to carry a small amount on their person to spend on small purchases and have the rest of their wealth stored somewhere else. Up to 500 coins may be carried on your person without taking up slots. If you wish to carry more coins, 1,000 coins of any denomination take up one slot.
@@ -26,7 +26,7 @@ The table below illustrates the varying levels of comfort that can be achieved w
 |       Royal        |    15,000s+    |                  Kings or Emperors                   |
 
 ## Supply
-*Supply* is an abstract item representing basic gear a PC brought with them and costs *10s*. At any time during a session a PC may trade a Supply they carry for any simple commonly available item, which they then note in their inventory. A list of suggestions is given below, but ultimately it is up to the arbiter which items can be acquired using Supply and which should be bought separately.
+*Supply* is an abstract item representing basic gear a PC brought with them and costs *7s*. At any time during a session a PC may trade a Supply they carry for any simple commonly available item, which they then note in their inventory. A list of suggestions is given below, but ultimately it is up to the arbiter which items can be acquired using Supply and which should be bought separately.
 
 Supply can also be used to *repair armor* and *restore worn weapons* during an expedition. One Supply can be used to restore 1 Armor Value or one worn weapon; this process takes one turn.
 
@@ -104,55 +104,55 @@ Specialists and some items have a rarity rating between 1 and 5, corresponding t
 
 Items and specialists of a higher rarity than the settlement type one is in may potentially still be bought, sold, or hired, though it will take time, effort, and money. Items will likely have to be commissioned or haggled for, and skilled specialists specifically sought after.
 ## Buildings
-|          Item          |  Price (s)  | Rarity |
-| :--------------------: | :---------: | :----: |
-|         Hovel          |     120     |   1    |
-|      Wood cottage      |     300     |   1    |
-|       Row house        |    1,200    |   2    |
-|   Craftsman’s house    |    2,400    |   3    |
-|    Merchant’s house    |    7,200    |   3    |
-|         Villa          |   21,600    |   3    |
-|       Guildhall        |   32,600    |   4    |
-|      Stone tower       |   48,000    |   4    |
-|         Temple         |   75,000    |   4    |
-|       Stronghold       |   100,000   |   4    |
-|       Cathedral        |   250,000   |   5    |
-|    Imperial palace     |   750,000   |   5    |
-|    Graded dirt road    | 1,000/mile  |   -    |
-|      Gravel road       | 2,500/mile  |   -    |
-| Paved Cobblestone Road | 4,000/mile  |   -    |
-|       Roman Road       | 6,000/mile  |   -    |
-|     Wooden bridge      | 3,000/mile  |   -    |
-|      Stone bridge      | 15,000/mile |   -    |
-|      Wooden wall       |  125/100'   |   -    |
-|       Stone wall       | 5,000/100'  |   -    |
+|          Item          |      Price      | in shillings  |  in pennies  | Rarity |
+| :--------------------: | :-------------: | :-----------: | :----------: | :----: |
+|         Hovel          |       10s       |      10s      |     120p     |   1    |
+|      Wood cottage      |      1m 5s      |      25s      |     300p     |   1    |
+|       Row house        |       5m        |     100s      |    1,200p    |   2    |
+|   Craftsman’s house    |       10m       |     200s      |    2,400p    |   3    |
+|    Merchant’s house    |       30m       |     600s      |    7,200p    |   3    |
+|         Villa          |       90m       |    1,800s     |   21,600p    |   3    |
+|       Guildhall        |   135m 16s 8p   |   2,716s 8p   |   32,600p    |   4    |
+|      Stone tower       |      200m       |    4,000s     |   48,000p    |   4    |
+|         Temple         |    312m 10s     |    6,250s     |   75,000p    |   4    |
+|       Stronghold       |   416m 13s 4p   |   8,333s 4p   |   100,000p   |   4    |
+|       Cathedral        |  1,041m 13s 4p  |  20,833s 4p   |   250,000p   |   5    |
+|    Imperial palace     |     3,125m      |    62,500s    |   750,000p   |   5    |
+|    Graded dirt road    |  4m 3s 4p/mile  |  83s 4p/mile  | 1,000p/mile  |   -    |
+|      Gravel road       | 10m 8s 4p/mile  | 208s 4p/mile  | 2,500p/mile  |   -    |
+| Paved Cobblestone Road | 16m 13s 4p/mile | 333s 4p/mile  | 4,000p/mile  |   -    |
+|       Roman Road       |    25m/mile     |   500s/mile   | 6,000p/mile  |   -    |
+|     Wooden bridge      |  12m 10s/mile   |   250s/mile   | 3,000p/mile  |   -    |
+|      Stone bridge      |  62m 10s/mile   | 1250s 0p/mile | 15,000p/mile |   -    |
+|      Wooden wall       |   10s 5p/100'   |  10s 5p/100'  |  125p/100'   |   -    |
+|       Stone wall       | 20m 16s 8p/100' | 416s 8p/100'  | 5,000p/100'  |   -    |
 
-Prices for buildings are the costs of construction. Prices to buy or rent may be more or less. Rarity for buildings is the settlement type in which they may be bought or rented; buildings can otherwise be built in any settlement type, provided land and labor is available. Buildings always carry their original worth for resale.
+Prices for buildings are the costs of construction. Prices to buy are usually 2-5x (a hovel would sell for 240p-600p) depending on location, while renting would cost 10% of the construction price each year (1s/year for a hovel, 1m/year for a craftsman's house). Rarity for buildings is the settlement type in which they may be bought or rented; buildings can otherwise be built in any settlement type, provided land and labor is available. Buildings always carry their original worth for resale.
 ## Mounts
-|    Animal    | Inventory Slots (Ridden/Not) | Hit Dice | Skill | Morale | Miles per Day | Price (s) |
-| :----------: | :--------------------------: | :------: | :---: | :----: | :-----------: | :-------: |
-| Draft Horse  |             5/30             |    3     |   8   |   6    |      18       |    40     |
-| Riding Horse |             5/15             |    2     |   8   |   7    |      30       |    75     |
-|  War Horse   |             5/15             |    3     |   9   |   9    |      24       |    250    |
-|     Mule     |             5/20             |    2     |   8   |   9    |      24       |    30     |
-|    Camel     |             5/20             |    2     |   9   |   8    |      30       |    100    |
+|    Animal    | Inventory Slots (Ridden/Not) | Miles per Day | Price  | in shillings | in pennies |
+| :----------: | :--------------------------: | :-----------: | :----: | :----------: | :--------: |
+| Riding Horse |            10/20             |      30       |   5m   |     100s     |   1,200p   |
+|  War Horse   |             5/15             |      24       |  42m   |     840s     |  10,000p   |
+|     Mule     |            10/40             |      24       | 2m 10s |     50s      |    600p    |
 
 ### Traits
-Draft Horse
-- Non-combatant: Flees if attacked.
-
 Riding Horse
+- Hit Dice: 2 HD
+- Skill: 9
+- Morale: 7
 - Grazing: Can survive purely on grass.
 
 War Horse
+- Hit Dice: 3 HD
+- Skill: 10
+- Morale: 9
 - Charge: When not in melee and running from nearby to close a lance does double damage.
 - Melee: When in melee the horse and rider can both attack.
 
 Mule
+- Hit Dice: 2 HD
+- Skill: 9
+- Morale: 9
 - Hardy: May be taken underground if the arbiter allows it.
 - Defensive: May attack in self-defense, but will never attack on command.
 - Grazing: Can survive purely on grass.
-
-Camel
-- Water: Can survive two weeks without water after drinking well.
-- Desert: Can move at full speed in desert and broken lands.
