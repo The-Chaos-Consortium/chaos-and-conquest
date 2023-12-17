@@ -1,18 +1,18 @@
 # Magic & Spellcasting
 ## Grimoire
-Grimoires are heavy books made by powerful arcanists to keep the secrets to their recurrent use of spells. They are usually worth *300s*, take up 2 slots, and may contain many spells.
+Grimoires are heavy books made by powerful arcanists to keep the secrets to their recurrent use of spells. They are usually worth *3m*, take up 2 slots, and may contain many spells.
 
 Grimoires will attract the attention of those who seek the arcane power within, and it is considered dangerous to display them openly.
 
-Only the person who created the Grimoire can use it without many weeks spent decoding it. *One week and 100s of inks per spell* must be spent to decode another’s Grimoire and make it your own. You spend this time and cost deciphering, re-writing, making annotations, etc.
+Only the person who created the Grimoire can use it without many weeks spent decoding it. *One week and 1m of inks per spell* must be spent to decode another’s Grimoire and make it your own. You spend this time and cost deciphering, re-writing, making annotations, etc.
 ## Scrolls
 A scroll is a spell infused in a piece of parchment and is destroyed after a single use. They are recovered from places like tombs, dungeons, manors, and can be copied permanently into a Grimoire.
 
-You may copy spells found in Scrolls to your Grimoire. It costs *50s* for the inks and takes a *day* to complete. The Scroll is destroyed in the process.
+You may copy spells found in Scrolls to your Grimoire. It costs *10s* for the inks and takes a *day* to complete. The Scroll is destroyed in the process.
 
-You can create a scroll of a spell you have in your Grimoire by spending *200s* and taking a *day* to create it.
+You can create a scroll of a spell you have in your Grimoire by spending *1m* and taking a *day* to create it.
 ## Creating a Grimoire
-It is time-consuming and expensive. You will need a single Scroll, *200s* in inks, as well as a blank book. It takes a *Watch* of undisturbed labor in the light of a full moon. Afterwards, you are exhausted and must take a full day of rest.
+It is time-consuming and expensive. You will need a single Scroll, *2m* in inks, as well as a blank book. It takes a *Watch* of undisturbed labor in the light of a full moon. Afterwards, you are exhausted and must take a full day of rest.
 
 The spell contained within the Scroll becomes the first recorded spell.
 ## Holy Book

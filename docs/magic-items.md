@@ -10,7 +10,7 @@ Enchanted weapons and armor grant the wearer a bonus ranging from +1 to +3 or so
 ## Scrolls
 A scroll is a spell infused in a piece of parchment and is destroyed after a single use. They are recovered from places like tombs, dungeons, manors, and can be copied permanently into a Grimoire.
 
-A PC can create a scroll of a spell they know by spending *200s* and taking a *Watch* to create it.
+A PC can create a scroll of a spell they know by spending *1m* and taking a *Watch* to create it.
 ## Some Magic Items
 Here are some examples you can use in your game. You are encouraged to make up your own or borrow from games you like.
 
