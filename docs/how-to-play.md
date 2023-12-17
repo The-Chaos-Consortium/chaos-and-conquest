@@ -179,8 +179,8 @@ A PC increases in Level by gaining XP, as shown in the table below.
 |  11+  | +250,000  |
 
 When a PC’s Level increases they:
-- Until Level 11, pick one attribute to increase by 1. No attribute score can be increased above 18.
-- Until Level 11, roll a number of d8s equal to your new level. If the rolled sum is greater than your current stamina max, take it as your new max. Otherwise, increase your max by 1. From Level 11 onwards you no longer roll, and instead gain 2 stamina per Level.
+- From Level 1 to 10, pick one attribute to increase by 1. No attribute score can be increased above 18.
+- From Level 1 to 10, roll a number of d8s equal to your new level. If the rolled sum is greater than your current stamina max, take it as your new max. Otherwise, increase your max by 1. From Level 11 onwards you no longer roll, and instead gain 2 stamina per Level.
   - E.g. Level 1 stamina is 3. Upon reaching Level 2, roll 2d8, and the sum is 7, which is now your new max stamina.
   - E.g. Level 10 stamina is 40. Upon reaching Level 11, add 2 stamina for a new max stamina of 42.
 
