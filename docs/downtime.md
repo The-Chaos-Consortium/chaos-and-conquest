@@ -32,7 +32,7 @@ As a general procedure, if an institution, infrastructure project, or domain suf
 ## Improving Attributes
 PCs can spend their downtime turns working to improve one of their attributes - *this takes one month per attempt*. To do so they roll 3d6, and if the result is higher than the attribute they are trying to improve, the attribute increases by 1. No attribute can be higher than 18.
 
-This initially costs *500s*, representing the cost of acquiring adequate trainers and material, *but doubles after each attempt*, regardless of which attribute is being worked on.
+This initially costs *500p*, representing the cost of acquiring adequate trainers and material, *but doubles after each attempt*, regardless of which attribute is being worked on.
 ## Learning a Talent
 PCs can spend their downtime turns to acquire a new talent. A tracker should be set depending on how narrowly defined the talent is:
 - Narrow Talent - 2 Successes (e.g. Foraging, Spelunking, House Blackmane History)
@@ -55,9 +55,9 @@ Before an expedition can be mounted, the area must be cleared, whether this is e
 
 Once the area has been cleared, an expedition can be sent to secure it via patrols. Attempting to secure one area, whether that is a hex or a dungeon level, takes one downtime turn.
 
-Mounting an expedition to secure an area requires at least one mercenary squad to be deployed.
+Mounting an expedition to secure an area requires at least one mercenary lance to be deployed.
 
-Once an expedition has been deployed, roll 2d6. Each additional mercenary squad deployed adds +1 to the roll, up to a maximum of +3 for fielding a full platoon.
+Once an expedition has been deployed, roll 2d6. Each additional mercenary lance deployed adds +1 to the roll, up to a maximum of +3 for fielding three lances.
 
 | 2d6 | Result                                                                                                                                                                                  |
 | :-: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -65,43 +65,43 @@ Once an expedition has been deployed, roll 2d6. Each additional mercenary squad 
 | 7-9 | The expedition runs into a complication that must be dealt with before the area can be secured, such as encountering a monster lair, dispute with the locals, or supply route collapse. |
 | 2-6 | The expedition fails to secure the area.                                                                                                                                                |
 
-When securing an area, mercenaries are paid battle wages. In addition, each squad needs 100 supplies a month, as well as a reliable supply route to transport said provisions.
+When securing an area, mercenaries are paid battle wages. In addition, each lance needs 50 supplies a month, as well as a reliable supply route to transport said provisions.
 
-Supplies cost 10 shillings for 3 day's worth of food, water, and other sundries.
+Supplies cost 3 shillings for 3 day's worth of food, water, and other sundries.
 
 Once an area is secured, mercenaries can set up and hold a base camp.
 
-While holding a base camp, mercenaries are paid regular wages, and only need 50 supplies per squad a month. A base camp can be held for six downtime turns, after which the mercenaries will begin making morale rolls each downtime turn to determine if they continue to hold the area.
+While holding a base camp, mercenaries are paid regular wages, and only need 25 supplies per lance a month. A base camp can be held for six downtime turns, after which the mercenaries will begin making morale rolls each downtime turn to determine if they continue to hold the area.
 
 Once a base camp has been established, the area can be surveyed, which requires a surveyor. Surveying an area takes one downtime turn and will reveal all the resources in an area, as well as any hidden features.
 
 Once an area has been surveyed, labor efforts such as extracting resources or building estates can occur, so long as the base camp continues to hold.
 
-One laborer can extract 100s of value of resources per downtime turn. They can construct buildings at the normal rate.
+One laborer can extract 30s of value of resources per downtime turn. They can construct buildings at the normal rate.
 
 Each surveyor, laborer, architect, and other retainers in a base camp need 6 supplies a month.
 ## Estates
-To build personal estates, the PC must acquire the land (via expedition or some other means), hire laborers, and pay for the construction of any buildings. One laborer is needed for every 250s of construction.
+To build personal estates, the PC must acquire the land (via expedition or some other means), hire laborers, and pay for the construction of any buildings. One laborer is needed for every 250p of construction.
 
-Construction time is determined by the costs of construction. Each day 500s of value can be constructed. An architect is needed for every 50,000s of construction, and the overall construction speed can be cut in half if the PC pays double the construction cost.
+Construction time is determined by the costs of construction. Each day 500p of value can be constructed. An architect is needed for every 50,000p of construction, and the overall construction speed can be cut in half if the PC pays double the construction cost.
 
-One laborer, therefore, could build a hovel (120s) in a day. Building a row house (1,200s) however, would require five laborers and take three days.
+One laborer, therefore, could build a hovel (120p) in a day. Building a row house (1,200p) however, would require five laborers and take three days.
 
 Each building comes with furnishings of appropriate value relative to the structure. If the PC wishes to improve the standard of construction and furnishings, they may pay double the cost of the building.
 
 They may do this as many times as they wish, each time doubling the cost further.
 
-The basic level of furnishing for a hovel, for example, would barely be furnished apart from the bare essentials, and those would be of a poor standard. The basic level of furnishing for a merchant's house would be quite comfortable, and for an imperial palace would be incredibly luxurious. A PC could pay double the cost of the palace, 5,000,000 shillings, to improve it, or pay double that value, 10,000,000, to improve it even further.
+The basic level of furnishing for a hovel, for example, would barely be furnished apart from the bare essentials, and those would be of a poor standard. The basic level of furnishing for a merchant's house would be quite comfortable, and for an imperial palace would be incredibly luxurious. A PC could pay double the cost of the palace, 5,000,000 pennies, to improve it, or pay double that value, 10,000,000, to improve it even further.
 
-If the PC wants to add anything into the structure that requires special craftsmanship, such as traps, secret doors or passageways, ornate decorations, etc. it adds 1,000 shillings to the cost of the structure per specific object.
+If the PC wants to add anything into the structure that requires special craftsmanship, such as traps, secret doors or passageways, ornate decorations, etc. it adds 1,000 pennies to the cost of the structure per specific object.
 
 Building special rooms, such as a library, laboratory, or shrine, each costs 5% of the base cost of the building, and are of a standard of appropriate value relative to the structure (e.g. a library in a merchant’s house is rather basic, whereas one in an imperial palace would be a famed repository of knowledge).
 ## Infrastructure
 PCs can found settlements or increase the size of existing settlements by making investments into infrastructure.
 
-To found a hamlet , the area it is to be built in must be secured and surveyed, and an estate of at least 2,000s in value built, around which the hamlet can be organized.
+To found a hamlet , the area it is to be built in must be secured and surveyed, and an estate of at least 2,000p in value built, around which the hamlet can be organized.
 
-Founding a hamlet requires it to be constructed using the same process as constructing an estate. The cost of construction for a hamlet is 5,000s.
+Founding a hamlet requires it to be constructed using the same process as constructing an estate. The cost of construction for a hamlet is 5,000p.
 
 To change the settlement type of an existing settlement, no laborers are required. However, the settlement in question must have a route, either by land, water, or some other method, between it and a given number of other settlements.
 
@@ -119,18 +119,18 @@ A PC only needs to pay the base investment cost (plus any bonus expenditures) du
 
 | Settlement Type | Base Investment Cost |                                                   Bonuses                                                    |             Prerequisites             |
 | :-------------: | :------------------: | :----------------------------------------------------------------------------------------------------------: | :-----------------------------------: |
-|   1 (hamlet)    |        5,000s        |                                              No roll necessary                                               | Must be located in a hamlet or larger |
-|   2 (village)   |       20,000s        |  +1 for each additional 5,000s spent. +1 for each tier 1 institution owned by the company in the settlement  |    Must be connected to 2 hamlets     |
-|    3 (town)     |       80,000s        | +1 for each additional 20,000s spent. +1 for each tier 2 institution owned by the company in the settlement  |    Must be connected to 2 villages    |
-|    4 (city)     |       320,000s       | +1 for each additional 80,000s spent. +1 for each tier 4 institution owned by the company in the settlement  |     Must be connected to 2 towns      |
-|  5 (big city)   |      1,280,000s      | +1 for each additional 320,000s spent. +1 for each tier 6 institution owned by the company in the settlement |     Must be connected to 2 cities     |
+|   1 (hamlet)    |        5,000p        |                                              No roll necessary                                               | Must be located in a hamlet or larger |
+|   2 (village)   |       20,000p        |  +1 for each additional 5,000p spent. +1 for each tier 1 institution owned by the company in the settlement  |    Must be connected to 2 hamlets     |
+|    3 (town)     |       80,000p        | +1 for each additional 20,000p spent. +1 for each tier 2 institution owned by the company in the settlement  |    Must be connected to 2 villages    |
+|    4 (city)     |       320,000p       | +1 for each additional 80,000p spent. +1 for each tier 4 institution owned by the company in the settlement  |     Must be connected to 2 towns      |
+|  5 (big city)   |      1,280,000p      | +1 for each additional 320,000p spent. +1 for each tier 6 institution owned by the company in the settlement |     Must be connected to 2 cities     |
 
 ## Institutions
 An institution is any kind of organization or long term enterprise. Examples would include a bar, teahouse, shop, theater troupe, garrison, mercenary outfit, gang, guild, orphanage, and so on.
 
 Institutions offer specific benefits to the characters who have invested in them. These are customized for each given institution. For example, investing in a stagecoach network might allow for more retainers to be available for hire, and for retainers of higher levels to appear in that settlement. Institutions also provide monthly profit based on their tier. This profit is considerably lower than what it would be if the PC worked full time for the institution; As PCs are primarily adventurers, they will profit roughly a 20-25%  return on investment annually.
 
-Institutions can be categorized into seven different tiers. To found a tier 1 institution, a PC must have some kind of resource available that would allow them to begin operations. For example, if they wish to found a cult, they should already have a few followers committed to the cause. As an action during a downtime turn, they can then spend 500s to establish that institution in the settlement they are in.
+Institutions can be categorized into seven different tiers. To found a tier 1 institution, a PC must have some kind of resource available that would allow them to begin operations. For example, if they wish to found a cult, they should already have a few followers committed to the cause. As an action during a downtime turn, they can then spend 500p to establish that institution in the settlement they are in.
 
 PCs can also invest, partner in, or assume ownership of pre-existing institutions. Purchasing an already established institution will normally cost 10x the base investment cost.
 
@@ -146,13 +146,13 @@ The base investment costs for each institution tier are listed below, as well as
 
 | Institution Tier | Base Investment Cost |               Bonuses                |             Prerequisites              | Monthly Profit |
 | :--------------: | :------------------: | :----------------------------------: | :------------------------------------: | :------------: |
-|        1         |         500s         |          No roll necessary           | Must be located in a hamlet or larger  |      10s       |
-|        2         |        1,000s        |  +1 for each additional 500s spent   | Must be located in a village or larger |      20s       |
-|        3         |        2,500s        | +1 for each additional 1,250s spent  | Must be located in a village or larger |      45s       |
-|        4         |        5,000s        | +1 for each additional 2,500s spent  |  Must be located in a town or larger   |      90s       |
-|        5         |       10,000s        | +1 for each additional 5,000s spent  |  Must be located in a town or larger   |      200s      |
-|        6         |       20,000s        | +1 for each additional 10,000s spent |  Must be located in a city or larger   |      400s      |
-|        7         |       40,000s        | +1 for each additional 20,000s spent |     Must be located in a big city      |      800s      |
+|        1         |         500p         |          No roll necessary           | Must be located in a hamlet or larger  |      10p       |
+|        2         |        1,000p        |  +1 for each additional 500p spent   | Must be located in a village or larger |      20p       |
+|        3         |        2,500p        | +1 for each additional 1,250p spent  | Must be located in a village or larger |      45p       |
+|        4         |        5,000p        | +1 for each additional 2,500p spent  |  Must be located in a town or larger   |      90p       |
+|        5         |       10,000p        | +1 for each additional 5,000p spent  |  Must be located in a town or larger   |      200p      |
+|        6         |       20,000p        | +1 for each additional 10,000p spent |  Must be located in a city or larger   |      400p      |
+|        7         |       40,000p        | +1 for each additional 20,000p spent |     Must be located in a big city      |      800p      |
 
 To relocate an institution to another settlement, treat it the same as attempting to advance the institution a tier. If the roll is successful, the institution is now headquartered in the new location. The PC and arbiter can determine if it has relocated entirely, or left some auxiliary or franchise branch behind in the old settlement.	
 

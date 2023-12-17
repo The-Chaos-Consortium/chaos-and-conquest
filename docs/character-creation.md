@@ -13,7 +13,7 @@ Note the number of *inventory slots* your PC has. PCs have slots equal to *their
 ## 3. Background & Belongings
 PCs start with *two Supplies* (see *Equipment*), a *torch*, and a *dagger*.
 
-*Roll 3d6* and multiply the result by 5 to determine your starting silver shillings. You may use this to buy additional equipment if you like.
+*Roll 4d10* to determine your starting silver shillings. You may use this to buy additional equipment if you like.
 
 Either, roll a *d20* to randomly [determine a background](backgrounds/README.md), or pick a specific background below from the archetype you wish to follow.
 ## 4. Name & Age

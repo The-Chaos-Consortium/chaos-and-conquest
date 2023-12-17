@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=IM+Fell+DW+Pica:ital@0;1&family=Pirata+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Book+Plus&family=Pirata+One&display=swap');
 
 :root {
     --base-background-color: #2b2a32;
     --base-color: #fff;
-    --base-font-family: 'IM Fell DW Pica', serif;
+    --base-font-family: 'Gentium Book Plus', serif;
     --base-font-size: 19px;
     --sidebar-name-font-family: var(--heading-font-family);
     --sidebar-name-font-size: 38px;

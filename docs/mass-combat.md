@@ -1,11 +1,10 @@
 # Mass Combat
 ## Detachments
-Large groups of combatants fighting together are treated as a detachment. *Detachments must be made up of similar troops*. The officers can be equipped differently or have more hit dice, but this will not affect the stats of the detachment. The four types of detachments ranked by size are:
+Large groups of combatants fighting together are treated as a detachment. *Detachments must be made up of similar troops*. The officers can be equipped differently or have more hit dice, but this will not affect the stats of the detachment. The three types of detachments ranked by size are:
 - Individuals
-- Small Detachments - usually squad size (10+)
-- Medium Detachments - usually section size (20+)
-- Large Detachments - usually platoon size (40+)
-- Huge Detachments - usually company size (80+)
+- Small Detachments - usually lance size (5)
+- Medium Detachments - usually multiple lances (15)
+- Large Detachments - usually contingent size (25)
 
 Detachments are described using the following statistics:
 - Skill - A detachment’s fighting capability distilled into one value. The arbiter uses this for any save the detachment needs to make. Skill can't be higher than 19. Skill is usually 10, but can be modified up or down depending on the detachment’s training, equipment, the WIL or Skill of the leader(s), etc.
@@ -18,26 +17,25 @@ Detachments are described using the following statistics:
 - Individuals make impaired attacks unless they do blast damage.
 - Detachments cause blast damage to individuals.
 - Equal sized detachments do normal weapon damage
-- When combatants of different size-classes fight, the larger combatant gains +2 AV and a +d12 bonus damage die for each step higher above their opponent's size.
-- After a detachment’s stamina is reduced to 0, they drop a size and must make a morale save. On a success the HD are re-rolled and the survivors stay in the fight. On a failure the survivors either flee or surrender. A small detachment reduced to 0 stamina is wiped out.
+- When combatants of different size-classes fight, the larger combatant gains +2 AV and a +d6 bonus damage die for each step higher above their opponent's size.
+- After a detachment’s stamina is reduced to 0, they drop a size and must make a morale save. On a success the HD are re-rolled and the survivors stay in the fight. On a failure the survivors either flee or surrender. A small detachment reduced to 0 stamina is wiped out. The leader must roll a d6 upon the detachment being reduced to 0 stamina. On a 1-3, the leader is killed.
 
 ## Mercenary Spoils and Loot
 Large groups of mercenaries will usually require the right to claim spoils of war. This means that the troops will lay claim to all treasure and loot after a battlefield. The spoils are usually broken up using shares, with the officers getting more shares than a basic soldier.
 
-|    Rank    | Shares |
-| :--------: | :----: |
-|  Soldier   |   1    |
-|  Sergeant  |   2    |
-| Lieutenant |   10   |
-|  Captain   |   20   |
-|  General   |   30   |
+|   Rank   | Shares |
+| :------: | :----: |
+| Soldier  |   1    |
+| Corporal |   10   |
+| Captain  |   20   |
+| General  |   30   |
 
-The overall leader of an army will normally get another 10 shares on top of the shares for their rank. If the leader is a Sergeant they will get 12 shares, a Lieutenant 20 shares, and so on.
+The overall leader of an army will normally get another 10 shares on top of the shares for their rank. If the leader is a Corporal they will get 20 shares, a Captain 30 shares, and so on.
 
 If the PCs and retainers outnumber the hired mercenaries, the mercenaries will generally not force shares of the spoils.
 
 ## Quick Mass Combat
-For smaller scale battles the arbiter can use the above detachment rules to handle mass combat. They are perfectly usable for large scale battles as well if the group would like to actively play out the fight; while the above detachment sizes are recommended, the arbiter can use whatever detachment sizes they feel comfortable with, with huge detachments being 5,000+ combatants in a Roman Legion for example.
+For smaller scale battles the arbiter can use the above detachment rules to handle mass combat. They are perfectly usable for large scale battles as well if the group would like to actively play out the fight; while the above detachment sizes are recommended, the arbiter can use whatever detachment sizes they feel comfortable with, with large detachments being 5,000+ combatants in a Roman Legion for example.
 
 A simplified system can be used though when the battle is too large to actively simulate, or when the arbiter wants to quickly resolve a battle. In such an engagement, each side rolls 1d6, and adds the following modifiers.
 - +1 if they outnumber the enemy at all; +2 if they outnumber the enemy 2 to one; +3 if they outnumber the enemy 3 to one, and so on.

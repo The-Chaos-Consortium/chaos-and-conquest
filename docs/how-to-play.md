@@ -120,9 +120,9 @@ If they survive, they wake up with 1 stamina and roll on the scars table.
 ## Rest & Healing
 *Short Rest*: A PC may spend a turn catching their breath to spend a single supply to repair a weapon or armor.
 
-*Night’s Rest*: After consuming a ration and a full night’s rest of two watches, PCs regain d8 lost stamina and 1 Stress. PCs may also spend any number of supplies to repair weapons and armor.
+*Night’s Rest*: After consuming a ration and a full night’s rest of two watches, PCs regain d8 lost stamina and remove 1 Stress. PCs may also spend any number of supplies to repair weapons and armor.
 
-*Full Rest*: Spending a full week resting in a safe location heals all stamina, restores any lowered attributes, removes all stress, repairs armor, and restores worn weapons.
+*Full Rest*: Spending a full week resting in a safe location regains all stamina, restores any lowered attributes, removes all stress, repairs armor, and restores worn weapons.
 ## Distance
 Measuring distance is handled abstractly, making it faster and easier.
 
@@ -173,25 +173,21 @@ A PC increases in Level by gaining XP, as shown in the table below.
 |   5   |  16,000   |
 |   6   |  32,000   |
 |   7   |  64,000   |
-|   8   |  120,000  |
-|   9   |  240,000  |
-|  10   |  360,000  |
-|  11   |  480,000  |
-|  12   |  600,000  |
-|  13   |  720,000  |
-|  14   |  840,000  |
-|  15+  | +120,000  |
+|   8   |  125,000  |
+|   9   |  250,000  |
+|  10   |  500,000  |
+|  11+  | +250,000  |
 
 When a PC’s Level increases they:
-- Until Level 10, pick one attribute to increase by 1. No attribute score can be increased above 18.
-- Until Level 10, roll a number of d8s equal to your new level. If the rolled sum is greater than your current stamina max, take it as your new max. Otherwise, increase your max by 1. From Level 10 onwards you no longer roll, and instead gain 2 stamina per Level.
+- From Level 1 to 10, pick one attribute to increase by 1. No attribute score can be increased above 18.
+- From Level 1 to 10, roll a number of d8s equal to your new level. If the rolled sum is greater than your current stamina max, take it as your new max. Otherwise, increase your max by 1. From Level 11 onwards you no longer roll, and instead gain 2 stamina per Level.
   - E.g. Level 1 stamina is 3. Upon reaching Level 2, roll 2d8, and the sum is 7, which is now your new max stamina.
-  - E.g. Level 9 stamina is 40. Upon reaching Level 10, add 2 stamina for a new max stamina of 42.
+  - E.g. Level 10 stamina is 40. Upon reaching Level 11, add 2 stamina for a new max stamina of 42.
 
 Talents are not earned by gaining Levels; they must be hunted for. This can be done via downtime turns or any other way the arbiter decides. 
 ### Rewarding XP
-At the end of each session the arbiter rewards each character XP based on their share of the silver value of the non-magical treasure they brought back safely from adventures (1s = 1 XP).
+At the end of each session the arbiter rewards each character XP based on their share of the value of the non-magical treasure they brought back safely from adventures (1p = 1 XP). This is specifically for treasure found or payments received due to completing dangerous tasks. Trading profits do not count, nor does robbing citizens. Unless stated otherwise in the downtime turns section, PCs do not gain XP for income made in downtime turns. Mundane equipment does not count as treasure if looted from a defeated foe or found in a dungeon. The characters never gain XP for fighting or killing - no matter how dangerous the foe. Treasure is the only way.
 
-A PC also gains 1 XP per 1s of treasure they waste. This must be done immediately after returning to town from an adventure. Income from ventures other than adventuring cannot be wasted for XP.
+A PC also gains 1 XP per 1p of treasure they waste. This must be done immediately after returning to town from an adventure. Income from ventures other than adventuring cannot be wasted for XP.
 
-Wasting is any monetary transaction which is not: an investment, something which will give a return on value, either financially or through use, or a necessity. A meal, for example, is not waste, but a lavish banquet is.
+Wasting is any monetary transaction which is not: an investment, something which will give a return on value, either financially or through use, or a necessity. A meal, for example, is not waste, but a lavish banquet is. Gilding your armor or weapons is waste, buying a fancy set of clothes, donating to an instituion annonymously, or buying a round of drinks are all examples of waste. Use this opportuniuty to flesh out your character and their personality based on how they throw their money around.
