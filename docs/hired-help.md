@@ -77,9 +77,9 @@ Specialists do not go on adventures, instead remaining in a settlement and perfo
 |      Retainer       | Wage (month) | Wage (day) | Rarity |
 | :-----------------: | :----------: | :--------: | :----: |
 |       Porter        |     30s      |    12p     |   1    |
-|       Laborer       |    22s 6p    |     9p     |   1    |
-|        Bard         |     200      |     -      |   2    |
-|      Explorer       |     300      |     -      |   2    |
+|       Laborer       |     25s      |    10p     |   1    |
+|        Bard         |     40s      |     -      |   2    |
+|      Explorer       |     40s      |     -      |   2    |
 |       Sailor        |     25s      |     -      |   2    |
 |   Sailor, Captain   |     100s     |     -      |   2    |
 |  Sailor, Navigator  |     50s      |     -      |   2    |
