@@ -69,7 +69,7 @@ Tallying up the LP a party has determines the party’s light level:
 - Darkness - LP less than half the number of party members. All attacks are impaired, saves are at disadvantage, and the party is always surprised.
 
 ## Basic Gear
-PCs can acquire specific items for cheaper prices than using *Supply*. Doing this 
+PCs can acquire specific items for cheaper prices than using *Supply*. Doing this loses the flexibility of supply, but will be cheaper if you know exactly what you need.
 
 |                     Item                     | Slots | Price | in shillings | in pennies | Rarity |
 | :------------------------------------------: | :---: | :---: | :----------: | :--------: | :----: |
