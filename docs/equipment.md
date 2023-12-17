@@ -25,6 +25,17 @@ The table below illustrates the varying levels of comfort that can be achieved w
 |    Major Noble     |      760s      |                   Dukes or Princes                   |
 |       Royal        |    15,000s+    |                  Kings or Emperors                   |
 
+## Settlement Types & Rarity
+The size of a given area’s economy influences that type of trade that can occur in a location, which is indicated by its *settlement type*. The criteria for determining settlement type is dependent on your campaign world and its relative level of population, but the following may serve as a general rubric:
+- Tier 1 (Hamlet) - 10 or so people
+- Tier 2 (Village) - 20 to 1,000 people, 50 to 300 is typical
+- Tier 3 (Town) - 1,000 to 8,000 people, average of 2,500
+- Tier 4 (City) - 8,000 to 12,000 people
+- Tier 5 (Big City) - 12,000 to 100,000 people
+
+Specialists and some items have a rarity rating between 1 and 5, corresponding to the settlement types. Items and specialists can be freely bought and hired in the settlement type they correspond to and all larger settlements (e.g. rarity 3 can be found in towns and above).
+
+Items and specialists of a higher rarity than the settlement type one is in may potentially still be bought, sold, or hired, though it will take time, effort, and money. Items will likely have to be commissioned or haggled for, and skilled specialists specifically sought after.
 ## Supply
 *Supply* is an abstract item representing basic gear a PC brought with them and costs *7s*. At any time during a session a PC may trade a Supply they carry for any simple commonly available item, which they then note in their inventory. A list of suggestions is given below, but ultimately it is up to the arbiter which items can be acquired using Supply and which should be bought separately.
 
@@ -57,52 +68,65 @@ Tallying up the LP a party has determines the party’s light level:
 - Dim - Less LP than the number of party members, but more LP than half the party size. Ranged attacks are impaired.
 - Darkness - LP less than half the number of party members. All attacks are impaired, saves are at disadvantage, and the party is always surprised.
 
-## Weapons & Armor
-|                 Weapon                 |                      Traits                       | Slots | Price (s) |
-| :------------------------------------: | :-----------------------------------------------: | :---: | :-------: |
-|          Improvised, Unarmed           |                      d4 dmg                       |   -   |     -     |
-| Dagger, Club, Staff, Short sword, etc. |                      d6 dmg                       |   1   |     5     |
-|     Sword, Axe, Flail, Lance, etc.     |                      d8 dmg                       |   2   |    10     |
-|  Longsword, Halberd, Warhammer, etc.   |             d10 dmg, two hands, reach             |   3   |    15     |
-|      Sling, Hand Crossbow, Thrown      |            d6 dmg, two hands to reload            |   2   |    35     |
-|             Bow, Crossbow              |           d8 dmg, two hands, long range           |   3   |    50     |
-|     Pistol (Flintlock, Wheellock)      |        d6+1 dmg, two hands to reload, loud        |   2   |    TBD    |
-|     Musket (Flintlock, Wheellock)      |        d8+1 dmg, two hands to reload, loud        |   3   |    TBD    |
-|                  Ammo                  |                     see Ammo                      |   1   |     5     |
-|              Flask of Oil              | d8 dmg for two rounds if target is doused and lit |   1   |  Supply   |
+## Basic Gear
+PCs can acquire specific items for cheaper prices than using *Supply*. Doing this 
 
-|        Armor         |                                  Traits                                  | Slots | Price (s) |
-| :------------------: | :----------------------------------------------------------------------: | :---: | :-------: |
-|        Helmet        |                                   1 AV                                   |   1   |    10     |
-| Light (Padded, etc.) |                                   1 AV                                   |   1   |    20     |
-| Medium (Mail, etc.)  | 2 AV, Disadvantage on DEX Saves, requires 12+ STR or Armor Master Talent |   2   |    50     |
-| Heavy (Plate, etc.)  | 3 AV, Disadvantage on DEX Saves, requires 14+ STR or Armor Master Talent |   3   |    200    |
-|        Shield        | Can be sundered to block the damage of 1 attack, but is then destroyed.  |   1   |    10     |
+|                     Item                     | Slots | Price | in shillings | in pennies | Rarity |
+| :------------------------------------------: | :---: | :---: | :----------: | :--------: | :----: |
+| Common Items (Rope, torch, saw, arrow, etc.) |   1   |  6p   |      6p      |     6p     |   1    |
+|  Uncommon Items (Lantern, bear trap, etc.)   |   1   |  2s   |      2s      |    24p     |   3    |
+|  Rare Items (Sextant, hourglass, astrolabe)  |   1   | 10s+  |     10s+     |   120p+    |   4    |
+|  Supply (see [supply](equipment.md#supply))  |   1   |  7s   |      7s      |    84p     |   2    |
+
+## Weapons & Armor
+|                 Weapon                 |                      Traits                       | Slots | Price  | in shillings | in pennies | Rarity |
+| :------------------------------------: | :-----------------------------------------------: | :---: | :----: | :----------: | :--------: | :----: |
+|          Improvised, Unarmed           |                      d4 dmg                       |   -   |   -    |      -       |     -      |   -    |
+| Dagger, Club, Staff, Short sword, etc. |                      d6 dmg                       |   1   |   5s   |      5s      |    60p     |   1    |
+|     Sword, Axe, Flail, Lance, etc.     |                      d8 dmg                       |   2   |   1m   |     20s      |    240p    |   2    |
+|  Longsword, Halberd, Warhammer, etc.   |             d10 dmg, two hands, reach             |   3   | 2m 10s |     50s      |    600p    |   3    |
+|      Sling, Hand Crossbow, Thrown      |            d6 dmg, two hands to reload            |   2   |  10s   |     10s      |    120p    |   2    |
+|             Bow, Crossbow              |           d8 dmg, two hands, long range           |   3   | 1m 15s |     35s      |    420p    |   3    |
+|     Pistol (Flintlock, Wheellock)      |        d6+1 dmg, two hands to reload, loud        |   2   |   2m   |     40s      |    480p    |   5    |
+|     Musket (Flintlock, Wheellock)      |        d8+1 dmg, two hands to reload, loud        |   3   |   5m   |     100s     |   1,200p   |   5    |
+|                  Ammo                  |                     see Ammo                      |   1   |   5s   |      5s      |    60p     |   2    |
+|              Flask of Oil              | d8 dmg for two rounds if target is doused and lit |   1   | Supply |      -       |     -      |   2    |
+
+|        Armor         |                                  Traits                                  | Slots | Price | in shillings | in pennies | Rarity |
+| :------------------: | :----------------------------------------------------------------------: | :---: | :---: | :----------: | :--------: | :----: |
+|        Helmet        |                                   1 AV                                   |   1   | 1m 5s |     25s      |    300p    |   2    |
+| Light (Padded, etc.) |                                   1 AV                                   |   1   |  10s  |     10s      |    120p    |   2    |
+| Medium (Mail, etc.)  | 2 AV, Disadvantage on DEX Saves, requires 12+ STR or Armor Master Talent |   2   |  10m  |     200s     |   2,400p   |   3    |
+| Heavy (Plate, etc.)  | 3 AV, Disadvantage on DEX Saves, requires 14+ STR or Armor Master Talent |   3   |  20m  |     400s     |   4,800p   |   4    |
+|        Shield        | Can be sundered to block the damage of 1 attack, but is then destroyed.  |   1   |  10s  |     10s      |    120p    |   2    |
 
 ### Silver Weapons
-Silver weapons cost 10 times its base cost. Silver ammo must be purchased separately at a cost of 5s per shot. Some monsters can only be harmed by magical or silver weapons. Silver weapons are much more easily worn, so they should not be used for normal combat. After every attack with a silver weapon you must roll to see if it becomes worn. Silver ammo is rendered useless after being shot.
+Silver weapons cost 10 times its base cost. Silver ammo must be purchased separately at a cost of 1s per shot. Some monsters can only be harmed by magical or silver weapons. Silver weapons are much more easily worn, so they should not be used for normal combat. After every attack with a silver weapon you must roll to see if it becomes worn. Silver ammo is rendered useless after being shot.
 ## Food & Lodging
-|            Name             | Slots |  Price   |
-| :-------------------------: | :---: | :------: |
-|    Animal Feed (7 days)     |   1   |   10s    |
-|     Night at inn, slum      |  n/a  |    1p    |
-|    Night at inn, normal     |  n/a  |    5p    |
-|    Night at inn, opulent    |  n/a  |   10s    |
-|      Rations (7 days)       |   1   |    5s    |
-|        Tavern drink         |  n/a  | 1p - 5s  |
-| Tavern meal (poor to feast) |  n/a  | 1p - 15s |
+|               Name                | Slots |  Price  | in shillings | in pennies |
+| :-------------------------------: | :---: | :-----: | :----------: | :--------: |
+|       Animal Feed (7 days)        |   1   |  3s 5p  |    3s 5p     |    42p     |
+|       Daily Horse Stabling        |  n/a  |   6p    |      6p      |     6p     |
+|   Daily Food and Lodging (poor)   |  n/a  |   8p    |      8p      |     8p     |
+|  Daily Food and Lodging (common)  |  n/a  |   1s    |      1s      |    12p     |
+|  Daily Food and Lodging (horse)   |  n/a  |  1s 6p  |    1s 6p     |    18p     |
+| Daily Food and Lodging (private)  |  n/a  |   2s    |      2s      |    24p     |
+|   Daily Food and Lodging (Rich)   |  n/a  |   4s    |      4s      |    48p     |
+| Daily Food and Lodging (Nobility) |  n/a  |   8s+   |     8s+      |    96p+    |
+|         Rations (7 days)          |   1   |   7s    |      7s      |    84p     |
+|           Tavern drink            |  n/a  | 1p - 3s |   1p - 3s    |  1p - 36p  |
+|    Tavern meal (poor to feast)    |  n/a  | 2p - 3s |   2p - 3s    |  2p - 36p  |
 
-## Settlement Types & Rarity
-The size of a given area’s economy influences that type of trade that can occur in a location, which is indicated by its *settlement type*. The criteria for determining settlement type is dependent on your campaign world and its relative level of population, but the following may serve as a general rubric:
-- Tier 1 (Hamlet) - 10 or so people
-- Tier 2 (Village) - 20 to 1,000 people, 50 to 300 is typical
-- Tier 3 (Town) - 1,000 to 8,000 people, average of 2,500
-- Tier 4 (City) - 8,000 to 12,000 people
-- Tier 5 (Big City) - 12,000 to 100,000 people
+## Travel Services
+|        Name        | Price  | in shillings | in pennies |
+| :----------------: | :----: | :----------: | :--------: |
+|   Cart or Wagon    | 1s 10p |    1s 10p    |    22p     |
+| Cart with 2 horses | 2s 10p |    2s 10p    |    34p     |
+|  Wagon, 3 horses   | 4s 6p  |    4s 6p     |    54p     |
+|       Coach        |   6s   |      6s      |    72p     |
+|  River Boat/Barge  | 1s 8p  |    1s 8p     |    20p     |
+|  Ships's Passage   |   4s   |      4s      |    48p     |
 
-Specialists and some items have a rarity rating between 1 and 5, corresponding to the settlement types. Items and specialists can be freely bought and hired in the settlement type they correspond to and all larger settlements (e.g. rarity 3 can be found in towns and above).
-
-Items and specialists of a higher rarity than the settlement type one is in may potentially still be bought, sold, or hired, though it will take time, effort, and money. Items will likely have to be commissioned or haggled for, and skilled specialists specifically sought after.
 ## Buildings
 |          Item          |      Price      | in shillings  |  in pennies  | Rarity |
 | :--------------------: | :-------------: | :-----------: | :----------: | :----: |
@@ -129,11 +153,11 @@ Items and specialists of a higher rarity than the settlement type one is in may 
 
 Prices for buildings are the costs of construction. Prices to buy are usually 2-5x (a hovel would sell for 240p-600p) depending on location, while renting would cost 10% of the construction price each year (1s/year for a hovel, 1m/year for a craftsman's house). Rarity for buildings is the settlement type in which they may be bought or rented; buildings can otherwise be built in any settlement type, provided land and labor is available. Buildings always carry their original worth for resale.
 ## Mounts
-|    Animal    | Inventory Slots (Ridden/Not) | Miles per Day | Price  | in shillings | in pennies |
-| :----------: | :--------------------------: | :-----------: | :----: | :----------: | :--------: |
-| Riding Horse |            10/20             |      30       |   5m   |     100s     |   1,200p   |
-|  War Horse   |             5/15             |      24       |  42m   |     840s     |  10,000p   |
-|     Mule     |            10/40             |      24       | 2m 10s |     50s      |    600p    |
+|    Animal    | Inventory Slots (Ridden/Not) | Miles per Day | Price  | in shillings | in pennies | Rarity |
+| :----------: | :--------------------------: | :-----------: | :----: | :----------: | :--------: | :----: |
+| Riding Horse |            10/20             |      30       |   5m   |     100s     |   1,200p   |   3    |
+|  War Horse   |             5/15             |      24       |  42m   |     840s     |  10,000p   |   4    |
+|     Mule     |            10/40             |      24       | 2m 10s |     50s      |    600p    |   1    |
 
 ### Traits
 Riding Horse
