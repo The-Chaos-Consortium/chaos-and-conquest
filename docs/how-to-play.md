@@ -6,7 +6,7 @@ You are not defined by your character sheet or abilities. They are just some of 
 ### Exploration
 Asking questions and paying attention to detail is more useful than anything on your character sheet. 
 
-Exploration is a crucial aspect of navigating perilous environments, and the most valuable asset at your disposal the ability to ask questions. Mastering this skill is the linchpin for survival and unearthing hidden treasures.
+Exploration is a crucial aspect of navigating perilous environments, and the most valuable asset at your disposal is the ability to ask questions. Mastering this skill is the linchpin for survival and unearthing hidden treasures.
 
 When the arbiter unveils details, it's a safe assumption that there's more valuable information to be uncovered. Pose targeted questions to extract the necessary details and guide yourself toward success.
 
