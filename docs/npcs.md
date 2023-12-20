@@ -1,6 +1,6 @@
 # Non Player Characters
 The allies and adversaries PCs can encounter are described using the following statistics:
-- *Skill* - An NPC’s Strength, Dexterity and Willpower distilled into one value. The arbiter uses this for any save the NPC needs to make. Skill can't be higher than 18. Hired help use the full 3 attributes like PCs.
+- *Skill* - An NPC’s Strength, Dexterity and Willpower distilled into one value. The arbiter uses this for any save the NPC needs to make. Skill can't be higher than 18. Retainers use the full 3 attributes like PCs.
 - *Hit Dice (HD)* - The amount of d8s rolled to determine stamina. Can multiply the number of Hit Dice by 4 to get an average number of stamina.
 - *Armor Value (AV)* - The amount of damage an NPC can take before it starts losing stamina. Humanoids can have a max of 4 AV.
 - *Morale (ML)* - An NPC’s odds of giving up during battle.
