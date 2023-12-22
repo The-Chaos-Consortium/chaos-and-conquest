@@ -8,7 +8,7 @@ Large groups of combatants fighting together are treated as a detachment. *Detac
 
 Detachments are described using the following statistics:
 - Skill - A detachment’s fighting capability distilled into one value. The arbiter uses this for any save the detachment needs to make. Skill can't be higher than 19. Skill is usually 10, but can be modified up or down depending on the detachment’s training, equipment, the WIL or Skill of the leader(s), etc.
-- Hit Dice (HD) - The amount of d8s rolled to determine stamina. Can multiply the number of Hit Dice by 4 to get an average number of stamina. Is equal to the HD of a single member.
+- Level - The amount of d6s rolled to determine stamina. Can multiply the Level by 3 to get an average number of stamina. Is equal to the Level of a single member.
 - Armor Value (AV) - The amount of damage a detachment can take before it starts losing stamina. Is equal to the lowest AV of a single member.
 - Morale (ML) - A detachment’s odds of giving up during battle.
 - Possible attacks and/or special abilities the detachment might have. Generally based on their equipment.
@@ -18,7 +18,7 @@ Detachments are described using the following statistics:
 - Detachments cause blast damage to individuals.
 - Equal sized detachments do normal weapon damage
 - When combatants of different size-classes fight, the larger combatant gains +2 AV and a +d6 bonus damage die for each step higher above their opponent's size.
-- After a detachment’s stamina is reduced to 0, they drop a size and must make a morale save. On a success the HD are re-rolled and the survivors stay in the fight. On a failure the survivors either flee or surrender. A small detachment reduced to 0 stamina is wiped out. The leader must roll a d6 upon the detachment being reduced to 0 stamina. On a 1-3, the leader is killed.
+- After a detachment’s stamina is reduced to 0, they drop a size and must make a morale save. On a success the stamina is re-rolled and the survivors stay in the fight. On a failure the survivors either flee or surrender. A small detachment reduced to 0 stamina is wiped out. The leader must roll a d6 upon the detachment being reduced to 0 stamina. On a 1-3, the leader is killed.
 
 ## Mercenary Spoils and Loot
 Large groups of mercenaries will usually require the right to claim spoils of war. This means that the troops will lay claim to all treasure and loot after a battlefield. The spoils are usually broken up using shares, with the officers getting more shares than a basic soldier.

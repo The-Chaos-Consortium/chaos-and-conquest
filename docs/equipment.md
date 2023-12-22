@@ -161,20 +161,20 @@ Prices for buildings are the costs of construction. Prices to buy are usually 2-
 
 ### Traits
 Riding Horse
-- Hit Dice: 2 HD
+- Level: 2
 - Skill: 9
 - Morale: 7
 - Grazing: Can survive purely on grass.
 
 War Horse
-- Hit Dice: 3 HD
+- Level: 3
 - Skill: 10
 - Morale: 9
 - Charge: When not in melee and running from nearby to close a lance does double damage.
 - Melee: When in melee the horse and rider can both attack.
 
 Mule
-- Hit Dice: 2 HD
+- Level: 2
 - Skill: 9
 - Morale: 9
 - Hardy: May be taken underground if the arbiter allows it.

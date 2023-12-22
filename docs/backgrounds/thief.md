@@ -5,7 +5,7 @@ It’s a truth universally acknowledged that a town with a rat problem must be i
 
 *Equipment*
 1. A staff adorned with dead rats, the mark of your trade - d6 dmg
-2. A dinky yet ferocious dog - 1 HD, 6 Skill, 8 ML, Bite d6 dmg
+2. A dinky yet ferocious dog - Level 1, 6 Skill, 8 ML, Bite d6 dmg
 3. Flute
 
 *Talents*: Stealth, Traps, Animals

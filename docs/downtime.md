@@ -224,7 +224,7 @@ An example of a Faction follows, containing all the elements described above.
 #### NPCs
 *Shaman*
 <table>
-<tr><td><b>Skill</b>: 12</td><td><b>HD</b>: 3</td></tr>
+<tr><td><b>Skill</b>: 12</td><td><b>Level</b>: 3</td></tr>
 <tr><td><b>Morale</b>: 9</td><td><b>AV</b>: 1</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Staff (d8), Spellcasting</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Goblins heavily tattooed across their whole bodies with blue ink, which channel the power of the moon.
@@ -241,7 +241,7 @@ Grimoire:
 
 *Miroslav*
 <table>
-<tr><td><b>Skill</b>: 12</td><td><b>HD</b>: 6</td></tr>
+<tr><td><b>Skill</b>: 12</td><td><b>Level</b>: 6</td></tr>
 <tr><td><b>Morale</b>: 9</td><td><b>AV</b>: 1</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Staff (d8), Spellcasting</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Enigmatic and mad human mage. Charismatic and persuasive at times, but also prone to sudden outbursts of rage or paranoia.
@@ -254,7 +254,7 @@ Grimoire:
     <li>Fear - [DICE] close creatures must WIL Save or try to flee.</li>
     <li>Command - One target that can hear and comprehend you must WIL Save or obey a command with up to [SUM] words that you give.</li>
     <li>Darkness - Create a [SUM] x 2ft. diameter sphere of pure darkness nearby for [DICE] Turns.
-    <li>Summon - Summon [DICE] 1HD creatures from the moon to fight for you.</li>
+    <li>Summon - Summon [DICE] Level 1 creatures from the moon to fight for you.</li>
 </ul>
 </td></tr>
 </table>
