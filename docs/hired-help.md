@@ -5,7 +5,7 @@ There are four different categories of hired help.
 ## Hirelings
 NPCs can be hired to help PC’s during their adventures. Hirelings will go on adventures with a PC, but will not participate in combat.
 
-Hirelings, unless otherwise noted, have a 8 in each attribute, 6 Morale, 1d8 stamina and 10 inventory slots. A hireling can be hired for the price listed in the table below.
+Hirelings, unless otherwise noted, have a 8 in each attribute, 6 Morale, 1d6 stamina and 10 inventory slots. A hireling can be hired for the price listed in the table below.
 1. ***Porter***: Will bear torches, shields, and any other equipment or luggage a PC chooses to saddle them with. They have 5 more inventory slots than normal.
 2. ***Teamster***: Drives vehicles in the wilderness and secures the load of pack animals. Pack animals that are not being ridden have an extra 20 inventory slots, and vehicles are less likely to be damaged. A teamster can manage up to 10 animals at once.
 3. ***Explorer***: When traveling with the party in an area with which they are familiar, the navigation check is skipped. They will also note any points of interest and answer questions about the area.
@@ -15,7 +15,7 @@ Retainers are NPCs who will delve into dungeons to adventure and engage in comba
 
 Upon leveling up they follow the same advancement rules as PCs. ***A retainer can never be a higher Level than you***. They will leave your service if they somehow become a higher Level.
 
-To create a retainer roll a 3d6 to determine each attribute, give them 1d8 stamina and a d6 dmg weapon. A retainer has 10 inventory slots. Experienced retainers might possess spells and higher attributes at the arbiter’s discretion. If they possess spells, they cast with the same system as the PC and can gain stress and roll a mishap. Retainers should have a background and talents that are applicable - they do not need to be the same ones as listed in the backgrounds section.
+To create a retainer roll a 3d6 to determine each attribute, give them 1d6 stamina and a d6 dmg weapon. A retainer has 10 inventory slots. Experienced retainers might possess spells and higher attributes at the arbiter’s discretion. If they possess spells, they cast with the same system as the PC and can gain stress and roll a mishap. Retainers should have a background and talents that are applicable - they do not need to be the same ones as listed in the backgrounds section.
 
 Each PC can hire a maximum number of retainers based on their WIL score, which is shown in the table below. Retainers also have a loyalty rating which is also determined by the PC's WIL score.
 ### Retainer Loyalty and Max Amount
