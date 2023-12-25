@@ -26,7 +26,7 @@ A Holy Book starts with 3 spells relevant to the Order and Faction of the priest
 ## Casting Spells
 ***Any character*** can cast spells through Grimoires, Scrolls, and Holy Books (if same Faction and faith). To cast a spell, your character must hold a Grimoire, Scroll, or Holy book in one hand and read it aloud.
 
-When your character attempts to cast a spell, decide on the Power to cast it with. Power ranges from 1 to a maximum of 5. ***Casting a spell costs stamina***, starting at a cost of 1 stamina. This cost doubles for each tier of Power you cast at - 1 stamina, 2 stamina, 4 stamina, 8 stamina, 16 stamina. Next you must make a WIL save; a success means the spell is cast and the chaos of magic is on your side; a failure means the spell is cast but the magic strains you and the PC gains ***stress***.
+When your character attempts to cast a spell, decide on the Power to cast it with. Power ranges from 1 to a maximum of 5. ***Casting a spell causes damage***, starting at 1 damage. This cost doubles for each tier of Power you cast at - 1 damage, 2 damage, 4 damage, 8 damage, 16 damage. Next you must make a WIL save; a success means the spell is cast and the chaos of magic is on your side; a failure means the spell is cast but the magic strains you and the PC gains ***stress***.
 
 A ***Scroll*** does not require a WIL save after casting - the codified chaos is easier to manage and cannot incur ***stress***.
 
@@ -34,7 +34,7 @@ A ***Scroll*** does not require a WIL save after casting - the codified chaos is
 
 If two or more [DICE] show the same number, ***something has gone very wrong***. Find out what happened looking at the spell’s [SUM] on the Mishaps Table.
 
-If you reduce yourself to 0 or less stamina, you ***die*** after the casting is completed. As you have burned your very essence in order to cast the spell, it is ***impossible*** for you to be resurrected - even by a god.
+If you reduce yourself to 0 or less stamina, you take WIL damage and must make a WIL save against critical damage. Failing the WIL save means you ***die*** after the casting is completed. As you have burned your very essence in order to cast the spell, it is ***impossible*** for you to be resurrected - even by a god.
 ## NPC Spellcasters
 Non retainer NPCs do not follow the above rules for spellcasting. Each NPC has a ***Power Budget*** that they can spend to cast spells. NPCs auto succeed on their spellcasting, and only spend from their Power Budget to cast. Once spent, a NPC regains their Power Budget after a full day’s rest.
 
