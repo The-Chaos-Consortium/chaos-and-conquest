@@ -1,5 +1,5 @@
 # Backgrounds <!-- {docsify-ignore-all} -->
-The five different archetypes and their backgrounds are listed below. Either, roll a *d20* to randomly determine a background, or pick a specific background below from the archetype you wish to follow.
+The five different archetypes and their backgrounds are listed below. Either, roll a ***d20*** to randomly determine a background, or pick a specific background below from the archetype you wish to follow.
 
 | d20 | Archetype                               | Background                                                          |
 | --- | --------------------------------------- | ------------------------------------------------------------------- |

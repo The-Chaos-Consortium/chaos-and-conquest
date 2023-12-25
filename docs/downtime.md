@@ -1,6 +1,6 @@
 # Downtime Turns - WIP
 ## Downtime Turn Actions
-During *Downtime Turns* the PCs specify which actions they are taking in the period of time between adventures, in addition to regular activities. A Downtime Turn usually takes *1 month* of time in-game, but this amount of time can vary depending on the circumstances or task. Depending on the activity a PC may be taken out of play while the activity is happening, e.g. learning a talent requires complete devotion and the PC cannot be played during this time. Other activities can be handled by a trusted retainer instead of the PC themself.
+During ***Downtime Turns*** the PCs specify which actions they are taking in the period of time between adventures, in addition to regular activities. A Downtime Turn usually takes ***1 month*** of time in-game, but this amount of time can vary depending on the circumstances or task. Depending on the activity a PC may be taken out of play while the activity is happening, e.g. learning a talent requires complete devotion and the PC cannot be played during this time. Other activities can be handled by a trusted retainer instead of the PC themself.
 
 Most activities that require progress to be tracked in some way during Downtime Turns use the following procedure.
 
@@ -30,9 +30,9 @@ A setback may also be dealt with by spending a downtime turn action. It is up to
 
 As a general procedure, if an institution, infrastructure project, or domain suffers a setback, it can be cleared with a downtime turn action and paying half the current base investment cost.
 ## Improving Attributes
-PCs can spend their downtime turns working to improve one of their attributes - *this takes one month per attempt*. To do so they roll 3d6, and if the result is higher than the attribute they are trying to improve, the attribute increases by 1. No attribute can be higher than 18.
+PCs can spend their downtime turns working to improve one of their attributes - ***this takes one month per attempt***. To do so they roll 3d6, and if the result is higher than the attribute they are trying to improve, the attribute increases by 1. No attribute can be higher than 18.
 
-This initially costs *500p*, representing the cost of acquiring adequate trainers and material, *but doubles after each attempt*, regardless of which attribute is being worked on.
+This initially costs ***500p***, representing the cost of acquiring adequate trainers and material, ***but doubles after each attempt***, regardless of which attribute is being worked on.
 ## Learning a Talent
 PCs can spend their downtime turns to acquire a new talent. A tracker should be set depending on how narrowly defined the talent is:
 - Narrow Talent - 2 Successes (e.g. Foraging, Spelunking, House Blackmane History)
@@ -179,29 +179,29 @@ Running an open-ended and living world requires a lot of moving parts. Factions 
 
 A Faction can be any kind of group: armies, adventuring guilds, religious orders, groups of scholars, etc. The arbiter manages their movement between sessions, adjusting their interests and actions based on the current landscape of the world around them.
 
-Each Faction is described by a summary of who they are and their interests, a couple of NPCs to represent their members, and their *Resources* and *Goals*.
+Each Faction is described by a summary of who they are and their interests, a couple of NPCs to represent their members, and their ***Resources*** and ***Goals***.
 ### Resources
 These represent the assets the Faction can employ to push its agenda: people, equipment, knowledge, etc. Each faction should start with 2-4 Resources, with 2 being a small group still building its power, and 4 being a well-established force to be respected. Factions with at least 3 Resources have enough numbers and/or assets to form Detachments.
 
 As the Faction furthers its Goals, it will acquire new Resources or empower its existing ones. At the same time, the Resources can be weakened or lost if the Faction is attacked.
 ### Goals
-These are the objectives the Faction is working towards at the moment: each of them requires a certain amount of *Progress* to be achieved, ranging from 4 to 12 depending on the complexity.
-- *4 Progress* - Goals that are quite simple and immediate to achieve, needing mostly time and effort to be applied.
-- *6 Progress* - Goals that are still simple, but might require some tricky steps to be completed.
-- *8 Progress* - Complex Goals, needing multiple steps, knowledge, and preparation to be achieved.
-- *12 Progress* - Goals truly difficult to achieve, requiring a long time, hard work, and caution. Once achieved, they cause major changes on the landscape around the Faction.
+These are the objectives the Faction is working towards at the moment: each of them requires a certain amount of ***Progress*** to be achieved, ranging from 4 to 12 depending on the complexity.
+- ***4 Progress*** - Goals that are quite simple and immediate to achieve, needing mostly time and effort to be applied.
+- ***6 Progress*** - Goals that are still simple, but might require some tricky steps to be completed.
+- ***8 Progress*** - Complex Goals, needing multiple steps, knowledge, and preparation to be achieved.
+- ***12 Progress*** - Goals truly difficult to achieve, requiring a long time, hard work, and caution. Once achieved, they cause major changes on the landscape around the Faction.
 
 ### The Faction Turn
 Between sessions, the arbiter will roll for the Progress of each Faction's Goals. It's up to you if that will happen after every session, depending on how fast you want things to change, but it's recommended that the Faction Turn should happen once every 1-2 weeks of in-game time.
 
-During the Faction Turn, a Faction will choose to focus on one of its Goals, and then gather a pool of *d6s*:
+During the Faction Turn, a Faction will choose to focus on one of its Goals, and then gather a pool of ***d6s***:
 - Add 1d6 to the pool for each Resource useful to achieve the Goal.
 - Add or subtract 1d6 if the Faction is on an advantageous or precarious position due to external reasons (e.g. the PCs are helping them, or their target is inaccessible).
 - If another Faction is the target of the Goal, subtract 1d6 for each Resource the target has to protect itself.
 
-Roll all dice gathered: *each dice that shows 4-6* marks 1 Progress towards the Goal.
+Roll all dice gathered: ***each dice that shows 4-6*** marks 1 Progress towards the Goal.
 
-*If a Faction has no dice to roll*, they fail to make Progress in this Faction Turn.
+***If a Faction has no dice to roll***, they fail to make Progress in this Faction Turn.
 ### Completing a Goal
 When a Faction completes a Goal, add a new Resource or rewrite an existing one to represent its increase in power. Equally, if it targeted another Faction, the target loses or rewrites a Resource to represent its losses.
 
@@ -209,7 +209,7 @@ Such changes should be noticed in the game, either through gossip, rumors, or vi
 
 An example of a Faction follows, containing all the elements described above.
 ### Children of the Moon
-*A tribe of goblins infesting an old abandoned mill, having repurposed the millstone as an altar. They are led by an enigmatic human mage named Miroslav, who believes the moon is the source of truth and power. The tribe will convert people to their faith through any means necessary.*
+***A tribe of goblins infesting an old abandoned mill, having repurposed the millstone as an altar. They are led by an enigmatic human mage named Miroslav, who believes the moon is the source of truth and power. The tribe will convert people to their faith through any means necessary.***
 
 #### Resources
 - Goblin shamans imbued with the power of the moon.
@@ -222,7 +222,7 @@ An example of a Faction follows, containing all the elements described above.
 - (0/12) - Sacrifice the entire populace of a local town to the moon.
 
 #### NPCs
-*Shaman*
+***Shaman***
 <table>
 <tr><td><b>Skill</b>: 12</td><td><b>Level</b>: 3</td></tr>
 <tr><td><b>Morale</b>: 9</td><td><b>AV</b>: 1</td></tr>
@@ -239,7 +239,7 @@ Grimoire:
 </td></tr>
 </table>
 
-*Miroslav*
+***Miroslav***
 <table>
 <tr><td><b>Skill</b>: 12</td><td><b>Level</b>: 6</td></tr>
 <tr><td><b>Morale</b>: 9</td><td><b>AV</b>: 1</td></tr>

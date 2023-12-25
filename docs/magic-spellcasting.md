@@ -1,42 +1,42 @@
 # Magic & Spellcasting
 ## Grimoire
-Grimoires are heavy books made by powerful arcanists to keep the secrets to their recurrent use of spells. They are usually worth *3m*, take up 2 slots, and may contain many spells.
+Grimoires are heavy books made by powerful arcanists to keep the secrets to their recurrent use of spells. They are usually worth ***3m***, take up 2 slots, and may contain many spells.
 
 Grimoires will attract the attention of those who seek the arcane power within, and it is considered dangerous to display them openly.
 
-Only the person who created the Grimoire can use it without many weeks spent decoding it. *One week and 1m of inks per spell* must be spent to decode another’s Grimoire and make it your own. You spend this time and cost deciphering, re-writing, making annotations, etc.
+Only the person who created the Grimoire can use it without many weeks spent decoding it. ***One week and 1m of inks per spell*** must be spent to decode another’s Grimoire and make it your own. You spend this time and cost deciphering, re-writing, making annotations, etc.
 ## Scrolls
 A scroll is a spell infused in a piece of parchment and is destroyed after a single use. They are recovered from places like tombs, dungeons, manors, and can be copied permanently into a Grimoire.
 
-You may copy spells found in Scrolls to your Grimoire. It costs *10s* for the inks and takes a *day* to complete. The Scroll is destroyed in the process.
+You may copy spells found in Scrolls to your Grimoire. It costs ***10s*** for the inks and takes a ***day*** to complete. The Scroll is destroyed in the process.
 
-You can create a scroll of a spell you have in your Grimoire by spending *1m* and taking a *day* to create it.
+You can create a scroll of a spell you have in your Grimoire by spending ***1m*** and taking a ***day*** to create it.
 ## Creating a Grimoire
-It is time-consuming and expensive. You will need a single Scroll, *2m* in inks, as well as a blank book. It takes a *Watch* of undisturbed labor in the light of a full moon. Afterwards, you are exhausted and must take a full day of rest.
+It is time-consuming and expensive. You will need a single Scroll, ***2m*** in inks, as well as a blank book. It takes a ***Watch*** of undisturbed labor in the light of a full moon. Afterwards, you are exhausted and must take a full day of rest.
 
 The spell contained within the Scroll becomes the first recorded spell.
 ## Holy Book
-Rather than creating a book of the arcane themselves, priests acquire a Holy Book from a Holy Order or Church that they are a member of. This Holy Book may not be acquired until *Level 3*, and the PC must be in good standing with their Order in order to receive this benefit. Any PC may join an Order, regardless of background. The Holy book is usually worthless to anyone other than the priest, takes up 2 slots, and may contain many spells.
+Rather than creating a book of the arcane themselves, priests acquire a Holy Book from a Holy Order or Church that they are a member of. This Holy Book may not be acquired until ***Level 3***, and the PC must be in good standing with their Order in order to receive this benefit. Any PC may join an Order, regardless of background. The Holy book is usually worthless to anyone other than the priest, takes up 2 slots, and may contain many spells.
 
 The priest may only acquire spells from their Order and/or god(s) - they are unable to copy spells found in Scrolls into their Holy Book. Open display of one’s Holy Book tells others the priest’s Faction, and what Order the priest is a member of.
 
 Only someone of the same Order and Faction may cast spells from a Holy Book. If a PC changes Faction or faith, their old Holy Book becomes useless.
 
-A Holy Book starts with 3 spells relevant to the Order and Faction of the priest - a good starting list for a Lawful Order would be: *Bless*, *Heal*, and *Spiritual Weapon*. Upon gaining further levels a priest may obtain more spells from their Order as the arbiter and setting allows.
+A Holy Book starts with 3 spells relevant to the Order and Faction of the priest - a good starting list for a Lawful Order would be: ***Bless***, ***Heal***, and ***Spiritual Weapon***. Upon gaining further levels a priest may obtain more spells from their Order as the arbiter and setting allows.
 ## Casting Spells
-*Any character* can cast spells through Grimoires, Scrolls, and Holy Books (if same Faction and faith). To cast a spell, your character must hold a Grimoire, Scroll, or Holy book in one hand and read it aloud.
+***Any character*** can cast spells through Grimoires, Scrolls, and Holy Books (if same Faction and faith). To cast a spell, your character must hold a Grimoire, Scroll, or Holy book in one hand and read it aloud.
 
-When your character attempts to cast a spell, decide on the Power to cast it with. Power ranges from 1 to a maximum of 5. *Casting a spell costs stamina*, starting at a cost of 1 stamina. This cost doubles for each tier of Power you cast at - 1 stamina, 2 stamina, 4 stamina, 8 stamina, 16 stamina. Next you must make a WIL save; a success means the spell is cast and the chaos of magic is on your side; a failure means the spell is cast but the magic strains you and the PC gains *stress*.
+When your character attempts to cast a spell, decide on the Power to cast it with. Power ranges from 1 to a maximum of 5. ***Casting a spell costs stamina***, starting at a cost of 1 stamina. This cost doubles for each tier of Power you cast at - 1 stamina, 2 stamina, 4 stamina, 8 stamina, 16 stamina. Next you must make a WIL save; a success means the spell is cast and the chaos of magic is on your side; a failure means the spell is cast but the magic strains you and the PC gains ***stress***.
 
-A *Scroll* does not require a WIL save after casting - the codified chaos is easier to manage and cannot incur *stress*.
+A ***Scroll*** does not require a WIL save after casting - the codified chaos is easier to manage and cannot incur ***stress***.
 
-*Roll a number of d6 equal to the Power chosen*. The spell has an effect, which varies depending on the number of *[DICE]* invested, and the *[SUM]* of the rolled dice. Armor is no match for the wild chaos of magic; *magic bypasses mundane armor*.
+***Roll a number of d6 equal to the Power chosen***. The spell has an effect, which varies depending on the number of ***[DICE]*** invested, and the ***[SUM]*** of the rolled dice. Armor is no match for the wild chaos of magic; ***magic bypasses mundane armor***.
 
-If two or more [DICE] show the same number, *something has gone very wrong*. Find out what happened looking at the spell’s [SUM] on the Mishaps Table.
+If two or more [DICE] show the same number, ***something has gone very wrong***. Find out what happened looking at the spell’s [SUM] on the Mishaps Table.
 
-If you reduce yourself to 0 or less stamina, you *die* after the casting is completed. As you have burned your very essence in order to cast the spell, it is *impossible* for you to be resurrected - even by a god.
+If you reduce yourself to 0 or less stamina, you ***die*** after the casting is completed. As you have burned your very essence in order to cast the spell, it is ***impossible*** for you to be resurrected - even by a god.
 ## NPC Spellcasters
-Non retainer NPCs do not follow the above rules for spellcasting. Each NPC has a *Power Budget* that they can spend to cast spells. NPCs auto succeed on their spellcasting, and only spend from their Power Budget to cast. Once spent, a NPC regains their Power Budget after a full day’s rest.
+Non retainer NPCs do not follow the above rules for spellcasting. Each NPC has a ***Power Budget*** that they can spend to cast spells. NPCs auto succeed on their spellcasting, and only spend from their Power Budget to cast. Once spent, a NPC regains their Power Budget after a full day’s rest.
 
 The size of the Power Budget should relate to how powerful of a spellcaster the NPC is: weak, inexperienced casters should have up to 3, more hardened ones can have around 6, and powerful mages can go all the way to 10.
 

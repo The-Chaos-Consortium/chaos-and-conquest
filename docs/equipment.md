@@ -1,7 +1,7 @@
 # Items & Equipment
 Most items take one slot to carry but some items, like weapons or armor, may take additional slots to carry. Some items like clothes or small trinkets are non-encumbering and do not take up inventory slots. These can be tracked in the notes section of your character sheet.
 ## Currency
-Money is minted in three denominations: *brass pennies (p)*, *silver shillings (s)*, and *gold marks (m)*. Coins are approximately 21mm in diameter - roughly the size of an American nickel. These do not normally take up inventory slots. Characters are assumed to carry a small amount on their person to spend on small purchases and have the rest of their wealth stored somewhere else. Up to 500 coins may be carried on your person without taking up slots. If you wish to carry more coins, 1,000 coins of any denomination take up one slot.
+Money is minted in three denominations: ***brass pennies (p)***, ***silver shillings (s)***, and ***gold marks (m)***. Coins are approximately 21mm in diameter - roughly the size of an American nickel. These do not normally take up inventory slots. Characters are assumed to carry a small amount on their person to spend on small purchases and have the rest of their wealth stored somewhere else. Up to 500 coins may be carried on your person without taking up slots. If you wish to carry more coins, 1,000 coins of any denomination take up one slot.
 
 Peasants will make use of pennies, and will likely never see a gold mark in their life. The middle class of merchants and tradesmen will use shillings for the bulk of transactions, using pennies for ale and marks for major purchases. The upper class of nobles and aristocrats will use marks, and will likely never see a penny in their life. 1 gold mark is equal to 20 silver shillings, and 20 silver shillings are equal to 240 brass pennies.
 
@@ -26,7 +26,7 @@ The table below illustrates the varying levels of comfort that can be achieved w
 |       Royal        |    15,000s+    |                  Kings or Emperors                   |
 
 ## Settlement Types & Rarity
-The size of a given area’s economy influences that type of trade that can occur in a location, which is indicated by its *settlement type*. The criteria for determining settlement type is dependent on your campaign world and its relative level of population, but the following may serve as a general rubric:
+The size of a given area’s economy influences that type of trade that can occur in a location, which is indicated by its ***settlement type***. The criteria for determining settlement type is dependent on your campaign world and its relative level of population, but the following may serve as a general rubric:
 - Tier 1 (Hamlet) - 10 or so people
 - Tier 2 (Village) - 20 to 1,000 people, 50 to 300 is typical
 - Tier 3 (Town) - 1,000 to 8,000 people, average of 2,500
@@ -37,9 +37,9 @@ Specialists and some items have a rarity rating between 1 and 5, corresponding t
 
 Items and specialists of a higher rarity than the settlement type one is in may potentially still be bought, sold, or hired, though it will take time, effort, and money. Items will likely have to be commissioned or haggled for, and skilled specialists specifically sought after.
 ## Supply
-*Supply* is an abstract item representing basic gear a PC brought with them and costs *7s*. At any time during a session a PC may trade a Supply they carry for any simple commonly available item, which they then note in their inventory. A list of suggestions is given below, but ultimately it is up to the arbiter which items can be acquired using Supply and which should be bought separately.
+***Supply*** is an abstract item representing basic gear a PC brought with them and costs ***7s***. At any time during a session a PC may trade a Supply they carry for any simple commonly available item, which they then note in their inventory. A list of suggestions is given below, but ultimately it is up to the arbiter which items can be acquired using Supply and which should be bought separately.
 
-Supply can also be used to *repair armor* and *restore worn weapons* during an expedition. One Supply can be used to restore 1 Armor Value or one worn weapon; this process takes one turn.
+Supply can also be used to ***repair armor*** and ***restore worn weapons*** during an expedition. One Supply can be used to restore 1 Armor Value or one worn weapon; this process takes one turn.
 
 |     Examples of Supply items     |          Examples of non-Supply items           |
 | :------------------------------: | :---------------------------------------------: |
@@ -57,7 +57,7 @@ Supply can also be used to *repair armor* and *restore worn weapons* during an e
 |            Waterskin             |                                                 |
 
 ## Ammo
-*Ammo* is an abstract item representing the ammunition a PC brought with them for their weapon. Players do not keep track of individual arrows or bullets, but must *roll a d6 at the end of combat* in which their PC used a ranged weapon. On a *result of 1*, they only have enough ammunition left for *one shot* after which the Ammo is removed from their inventory.
+***Ammo*** is an abstract item representing the ammunition a PC brought with them for their weapon. Players do not keep track of individual arrows or bullets, but must ***roll a d6 at the end of combat*** in which their PC used a ranged weapon. On a ***result of 1***, they only have enough ammunition left for ***one shot*** after which the Ammo is removed from their inventory.
 ## Light
 To light the way during the night or in dark places below the earth PCs need a light source. Each light source comes with a number of Light Points (LP) which determine how bright the light is.
 - Torch - Burns for 6 turns (1 hour), 2 LP.
@@ -69,7 +69,7 @@ Tallying up the LP a party has determines the party’s light level:
 - Darkness - LP less than half the number of party members. All attacks are impaired, saves are at disadvantage, and the party is always surprised.
 
 ## Basic Gear
-PCs can acquire specific items for cheaper prices than using *Supply*. Doing this loses the flexibility of supply, but will be cheaper if you know exactly what you need.
+PCs can acquire specific items for cheaper prices than using ***Supply***. Doing this loses the flexibility of supply, but will be cheaper if you know exactly what you need.
 
 |                     Item                     | Slots | Price | in shillings | in pennies | Rarity |
 | :------------------------------------------: | :---: | :---: | :----------: | :--------: | :----: |

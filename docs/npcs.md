@@ -1,10 +1,10 @@
 # Non Player Characters
 The allies and adversaries PCs can encounter are described using the following statistics:
-- *Skill* - An NPC’s Strength, Dexterity and Willpower distilled into one value. The arbiter uses this for any save the NPC needs to make. Skill can't be higher than 18. Retainers use the full 3 attributes like PCs.
-- *Level* - The amount of d6s rolled to determine stamina. Can multiply the Level by 3 to get an average number of stamina.
-- *Armor Value (AV)* - The amount of damage an NPC can take before it starts losing stamina. Humanoids can have a max of 4 AV.
-- *Morale (ML)* - An NPC’s odds of giving up during battle.
-- Possible *attacks* and/or *special abilities* the NPC might have. 
+- ***Skill*** - An NPC’s Strength, Dexterity and Willpower distilled into one value. The arbiter uses this for any save the NPC needs to make. Skill can't be higher than 18. Retainers use the full 3 attributes like PCs.
+- ***Level*** - The amount of d6s rolled to determine stamina. Can multiply the Level by 3 to get an average number of stamina.
+- ***Armor Value (AV)*** - The amount of damage an NPC can take before it starts losing stamina. Humanoids can have a max of 4 AV.
+- ***Morale (ML)*** - An NPC’s odds of giving up during battle.
+- Possible ***attacks*** and/or ***special abilities*** the NPC might have. 
 
 NPCs cannot push themselves and non-retainers cannot gain stress.
 

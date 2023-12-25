@@ -1,6 +1,6 @@
 # Mass Combat
 ## Detachments
-Large groups of combatants fighting together are treated as a detachment. *Detachments must be made up of similar troops*. The officers can be equipped differently or have more hit dice, but this will not affect the stats of the detachment. The three types of detachments ranked by size are:
+Large groups of combatants fighting together are treated as a detachment. ***Detachments must be made up of similar troops***. The officers can be equipped differently or have more hit dice, but this will not affect the stats of the detachment. The three types of detachments ranked by size are:
 - Individuals
 - Small Detachments - usually lance size (5)
 - Medium Detachments - usually multiple lances (15)
