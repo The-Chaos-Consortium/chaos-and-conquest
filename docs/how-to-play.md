@@ -63,12 +63,24 @@ Attacks that are *impaired*, such as firing through cover or fighting while grap
 Similarly, attacks that are enhanced by a risky stunt or a helpless or vulnerable target roll a *bonus damage die*. This is represented as +d6, +d8, etc. and is added to the normal damage dealt. Attacks against a completely helpless target always receive +d12. In other situations the arbiter will decide which die type to grant.
 - E.g. a bandit is being held down by two allies. The PC attacks with a longsword (d10) and is granted a +d12 bonus for the bandit being helpless. The PC rolls a 4 and a 7, for a total of 11 damage dealt.
 
+## Damage & Death
+When a character is damaged, they lose that amount of stamina. Stamina is a measure of your ability to avoid life-threatening harm. If they take more damage than remaining stamina, they are wounded, and the remaining damage is removed from their STR. When a non-retainer NPC reaches 0 or less stamina they remove the remaining damage from their Skill.
+
+When a PC or retainer takes STR damage they are wounded and must make a STR save against *critical damage*. If they pass, the character stays conscious. Failure means they fall unconscious and are dying, and must roll on the Scars table. The dying character must have their wounds treated by another character and have a *short rest* within an hour or they die. Other NPCs die immediately upon receiving critical damge.
+
+Some attacks can do DEX or WIL damage instead of STR damage, reducing those attributes after losing all stamina. Losing DEX or WIL requires a respective save against *critical damage*. *If any attribute is reduced to 0, the character dies*.
 ### Blast Damage
 Attacks suitably large enough to affect all targets in the appropriate area. Damage is rolled separately for each target. If there is any doubt as to how many targets can be affected, roll the attack’s die.
 ### Critical Hits
 Rolling *maximum damage* on a weapon’s damage dice is a *critical hit*. It bypasses all armor, and *decreases the target’s AV by 1*. This decrease happens at the end of the round.
 
 Any bonus damage dice do not count towards a critical hit check - only the original damage dice do, e.g. attacking with a longsword (d10) +d8 bonus die, the PC rolls a 10 on the d10 and a 2 on the +d8. This counts as a critical hit.
+### Armor
+If a creature takes damage while they’re wearing armor, the damage is *reduced* by their *Armor Value (AV)*. Any damage above the AV reduces stamina. Humanoids can have a *max of 4 AV* normally - with magic items this can go up to 6 AV.
+
+Some attacks or effects may deal damage directly and ignore a creature’s armor.
+### Shields
+Wielding a shield allows you to sunder it, breaking it beyond repair, in order to block all damage from *one* incoming attack. It must make sense for the shield to be able to block the incoming damage, e.g. a melee or ranged attack, not fall damage. A PC may carry a max of 1 spare shield on their person, assuming they are currently holding one.
 ### Dual Wielding
 If dual-wielding a set of weapons, roll damage for both and choose which result to keep.
 ### Mounted Combat
@@ -91,18 +103,7 @@ Movement within a zone is free - there are no restrictions on singular zone move
 If a PC wishes to move away when engaged in a melee with one or more enemies they must make a successful *DEX* save. If the save is failed, you must choose to either be stuck in melee and lose your movement, or the enemy is granted a free attack before your movement. If an ally is also engaged in the same melee, or an action is used to move away carefully, no *DEX* save is required.
 ### Retreat
 Running away from a dire situation always requires a successful *DEX* save, as well as a safe destination to run to.
-### Damage & Armor
-If a creature takes damage while they’re wearing armor, the damage is *reduced* by their *Armor Value (AV)*. Any damage above the AV reduces stamina. Humanoids can have a *max of 4 AV* normally - with magic items this can go up to 6 AV.
-
-Some attacks or effects may deal damage directly and ignore a creature’s armor.
-### Shields
-Wielding a shield allows you to sunder it, breaking it beyond repair, in order to block all damage from *one* incoming attack. It must make sense for the shield to be able to block the incoming damage, e.g. a melee or ranged attack, not fall damage. A PC may carry a max of 1 spare shield on their person, assuming they are currently holding one.
-## Stamina & Death
-Stamina is a measure of your ability to avoid life-threatening harm. Each time a creature takes *damage* they subtract the number from their *stamina*. When a non-retainer NPC reaches 0 or less stamina they have taken a fatal blow and are dead.
-
-If a PC’s or retainer's stamina becomes 0 or lower, they are bleeding out and on Death’s door and must roll a d6. On a 1-3, they die. On a 4 or above, they fall unconscious and are dying. The dying character must have their wounds treated by another character with a WIL save or magic within a turn, or they die. If a dying PC receives any damage, they die.
-
-If they survive, they wake up with 1 stamina and roll on the scars table.
+## Scars
 
 | d10 |                                                                           Scar                                                                            |
 | :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -115,14 +116,14 @@ If they survive, they wake up with 1 stamina and roll on the scars table.
 |  7  |                                                              Shattered Leg - You lose a leg.                                                              |
 |  8  |                                                        Lost Eye - All ranged attacks are impaired.                                                        |
 |  9  |                                                              Severed Arm - You lose an arm.                                                               |
-| 10  |                            Doomed - You were meant to die. The next time you are on Death’s door, you die on a result of 1-5.                             |
+| 10  |                        Doomed - You were meant to die. The next time you fail your save against critical damage you violently die.                        |
 
 ## Rest & Healing
-*Short Rest*: A PC may spend a turn catching their breath to spend a single supply to repair a weapon or armor.
+*Short Rest*: A PC may spend a turn catching their breath to regain d6 stamina, and spend a single supply to repair a weapon or armor.
 
-*Night’s Rest*: After consuming a ration and a full night’s rest of two watches, PCs regain d8 lost stamina and remove 1 Stress. PCs may also spend any number of supplies to repair weapons and armor.
+*Night’s Rest*: After consuming a ration and a full night’s rest of two watches, PCs regain all lost stamina and remove 1 Stress. PCs may also spend any number of supplies to repair weapons and armor.
 
-*Full Rest*: Spending a full week resting in a safe location regains all stamina, restores any lowered attributes, removes all stress, repairs armor, and restores worn weapons.
+*Full Rest*: Spending a full week resting in a safe location restores any temporarily lowered attributes, removes all stress, repairs armor, and restores worn weapons.
 ## Distance
 Measuring distance is handled abstractly, making it faster and easier.
 
@@ -180,8 +181,8 @@ A PC increases in Level by gaining XP, as shown in the table below.
 
 When a PC’s Level increases they:
 - From Level 1 to 10, pick one attribute to increase by 1. No attribute score can be increased above 18.
-- From Level 1 to 10, roll a number of d8s equal to your new level. If the rolled sum is greater than your current stamina max, take it as your new max. Otherwise, increase your max by 1. From Level 11 onwards you no longer roll, and instead gain 2 stamina per Level.
-  - E.g. Level 1 stamina is 3. Upon reaching Level 2, roll 2d8, and the sum is 7, which is now your new max stamina.
+- From Level 1 to 10, roll a number of d6s equal to your new level. If the rolled sum is greater than your current max stamina, take it as your new max. Otherwise, increase your max by 1. From Level 11 onwards you no longer roll, and instead gain 2 stamina per Level.
+  - E.g. Level 1 stamina is 3. Upon reaching Level 2, roll 2d6, and the sum is 7, which is now your new max stamina.
   - E.g. Level 10 stamina is 40. Upon reaching Level 11, add 2 stamina for a new max stamina of 42.
 
 Talents are not earned by gaining Levels; they must be hunted for. This can be done via downtime turns or any other way the arbiter decides. 
