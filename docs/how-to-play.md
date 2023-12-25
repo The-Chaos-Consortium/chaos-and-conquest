@@ -63,7 +63,7 @@ Attacks that are ***impaired***, such as firing through cover or fighting while 
 Similarly, attacks that are enhanced by a risky stunt or a helpless or vulnerable target roll a ***bonus damage die***. This is represented as +d6, +d8, etc. and is added to the normal damage dealt. Attacks against a completely helpless target always receive +d12. In other situations the arbiter will decide which die type to grant.
 - E.g. a bandit is being held down by two allies. The PC attacks with a longsword (d10) and is granted a +d12 bonus for the bandit being helpless. The PC rolls a 4 and a 7, for a total of 11 damage dealt.
 
-## Damage & Death
+### Damage & Death
 When a character is damaged, they lose that amount of stamina. Stamina is a measure of your ability to avoid life-threatening harm. If they take more damage than remaining stamina, they are wounded, and the remaining damage is removed from their STR. When a non-retainer NPC reaches 0 or less stamina they remove the remaining damage from their Skill.
 
 When a PC or retainer takes STR damage they are wounded and must make a STR save against ***critical damage***. If they pass, the character stays conscious. Failure means they fall unconscious and are dying, and must roll on the Scars table. The dying character must have their wounds treated by another character and have a ***short rest*** within an hour or they die. Other NPCs die immediately upon receiving critical damge.
@@ -103,7 +103,7 @@ Movement within a zone is free - there are no restrictions on singular zone move
 If a PC wishes to move away when engaged in a melee with one or more enemies they must make a successful ***DEX*** save. If the save is failed, you must choose to either be stuck in melee and lose your movement, or the enemy is granted a free attack before your movement. If an ally is also engaged in the same melee, or an action is used to move away carefully, no ***DEX*** save is required.
 ### Retreat
 Running away from a dire situation always requires a successful ***DEX*** save, as well as a safe destination to run to.
-## Scars
+### Scars
 
 | d10 |                                                                           Scar                                                                            |
 | :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------: |
