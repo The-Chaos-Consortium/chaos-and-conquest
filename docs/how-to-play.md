@@ -66,7 +66,7 @@ Similarly, attacks that are enhanced by a risky stunt or a helpless or vulnerabl
 ### Damage & Death
 When a character is damaged, they lose that amount of stamina. Stamina is a measure of your ability to avoid life-threatening harm. If they take more damage than remaining stamina, they are wounded, and the remaining damage is removed from their STR. When a non-retainer NPC reaches 0 or less stamina they remove the remaining damage from their Skill.
 
-When a PC or retainer takes STR damage they are wounded and must make a STR save against ***critical damage***. If they pass, the character stays conscious. Failure means they fall unconscious and are dying, and must roll on the Scars table. The dying character must have their wounds treated by another character and have a ***short rest*** within an hour or they die. Other NPCs die immediately upon receiving critical damge.
+When a PC or retainer takes STR damage they are wounded and must make a STR save against ***critical damage***. If they pass, the character stays conscious. Failure means they fall unconscious and are dying, and must roll on the Scars table. The dying character must have their wounds treated by another character and have a ***short rest*** within an hour or they die. Other NPCs die immediately upon receiving critical damge. Some enemies will have special abilities or effects that occur when their target fails a save against critical damage.
 
 Some attacks can do DEX or WIL damage instead of STR damage, reducing those attributes after losing all stamina. Losing DEX or WIL requires a respective save against ***critical damage***. ***If any attribute is reduced to 0, the character dies***.
 ### Blast Damage
