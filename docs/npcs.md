@@ -4,7 +4,7 @@ The allies and adversaries PCs can encounter are described using the following s
 - ***Level*** - The amount of d6s rolled to determine stamina. Can multiply the Level by 3 to get an average number of stamina.
 - ***Armor Value (AV)*** - The amount of damage an NPC can take before it starts losing stamina. Humanoids can have a max of 4 AV.
 - ***Morale (ML)*** - An NPC’s odds of giving up during battle.
-- Possible ***attacks*** and/or ***special abilities*** the NPC might have. 
+- Possible ***attacks*** and/or ***special abilities*** the NPC might have. Some may be triggered upon the target failing a save against critical damage.
 
 NPCs cannot push themselves and non-retainers cannot gain stress.
 
