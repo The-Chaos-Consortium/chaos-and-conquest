@@ -4,7 +4,7 @@ A Pathfinder is considered skilled at tasks related to surviving in the world, o
 The roads are the lifeblood of civilization, and your task is to keep them flowing. All manner of beasts and men threaten the flow, and you must stand against them all.
 
 ***Equipment***
-1. A horse - your best friend. Level 2, 9 Skill, 7 ML. 10 Slots when ridden, 20 when not
+1. A horse - your best friend. Level 2, 9 STR, DEX, WIL, 7 ML. 10 Slots when ridden, 20 when not
 2. Polearm - d10 dmg, two hands, 3 slots
 3. Crossbow - d8 dmg, two hands, 3 slots
 4. Ammo

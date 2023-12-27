@@ -29,7 +29,7 @@ When the PC is doing something ***risky*** where ***success*** of an action is *
 
 The arbiter can also ask a player to make a save to determine if a PC is able to resist an effect or react quickly enough to avoid harm.
 ### Opposed Saves
-Sometimes a PC’s action is counteracted or resisted by an NPC. In that case, both sides make a save (NPCs use their Skill score). The side with the ***highest successful roll*** wins and succeeds at what they are trying to attempt. If both sides fail the save, the situation gets worse and more complicated for both of them. In the case of a tie, the arbiter decides the outcome.
+Sometimes a PC’s action is counteracted or resisted by an NPC. In that case, both sides make a save. The side with the ***highest successful roll*** wins and succeeds at what they are trying to attempt. If both sides fail the save, the situation gets worse and more complicated for both of them. In the case of a tie, the arbiter decides the outcome.
 ### Party Saves
 Whenever the success of the entire party influences the outcome of a situation, a party save will be used. A common example of this is when the party attempts to sneak around as a group. To attempt a party save one PC must be chosen to lead the action. Then, each participating PC makes an appropriate save, with the best result among them counting as the result for the whole group. For each PC who failed their roll, the action leader takes stress as they push themselves to cover for the failures of the party members who don’t succeed.
 ### Advantage & Disadvantage
@@ -64,7 +64,7 @@ Similarly, attacks that are enhanced by a risky stunt or a helpless or vulnerabl
 - E.g. a bandit is being held down by two allies. The PC attacks with a longsword (d10) and is granted a +d12 bonus for the bandit being helpless. The PC rolls a 4 and a 7, for a total of 11 damage dealt.
 
 ### Damage & Death
-When a character is damaged, they lose that amount of stamina. Stamina is a measure of your ability to avoid life-threatening harm. If they take more damage than remaining stamina, they are wounded, and the remaining damage is removed from their STR. When a non-retainer NPC reaches 0 or less stamina they remove the remaining damage from their Skill.
+When a character is damaged, they lose that amount of stamina. Stamina is a measure of your ability to avoid life-threatening harm. If they take more damage than remaining stamina, they are wounded, and the remaining damage is removed from their STR.
 
 When a PC or retainer takes STR damage they are wounded and must make a STR save against ***critical damage***. If they pass, the character stays conscious. Failure means they fall unconscious and are dying, and must roll on the Scars table. The dying character must have their wounds treated by another character and have a ***short rest*** within an hour or they die. Other NPCs die immediately upon receiving critical damge. Some enemies will have special abilities or effects that occur when their target fails a save against critical damage.
 

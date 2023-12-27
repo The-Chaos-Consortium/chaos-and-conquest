@@ -224,7 +224,7 @@ An example of a Faction follows, containing all the elements described above.
 #### NPCs
 ***Shaman***
 <table>
-<tr><td><b>Skill</b>: 12</td><td><b>Level</b>: 3</td></tr>
+<tr><td><b>Attributes</b>: 12 STR, 14 WIL</td><td><b>Level</b>: 3</td></tr>
 <tr><td><b>Morale</b>: 9</td><td><b>AV</b>: 1</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Staff (d8), Spellcasting</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Goblins heavily tattooed across their whole bodies with blue ink, which channel the power of the moon.
@@ -241,7 +241,7 @@ Grimoire:
 
 ***Miroslav***
 <table>
-<tr><td><b>Skill</b>: 12</td><td><b>Level</b>: 6</td></tr>
+<tr><td><b>Attributes</b>: 12 STR, 16 WIL</td><td><b>Level</b>: 6</td></tr>
 <tr><td><b>Morale</b>: 9</td><td><b>AV</b>: 1</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Staff (d8), Spellcasting</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Enigmatic and mad human mage. Charismatic and persuasive at times, but also prone to sudden outbursts of rage or paranoia.

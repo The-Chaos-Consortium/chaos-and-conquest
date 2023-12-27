@@ -16,7 +16,7 @@ You’re an elite, professional soldier, generally, but not always of noble bloo
 ***Equipment***
 1. Heavy Plate Armor, 3 slots
 2. Longsword - d10 dmg, two hands, 3 slots
-3. Warhorse - Level 3, 10 Skill, 9 ML. 5 Slots when ridden, 15 when not
+3. Warhorse - Level 3, 10 STR, DEX, WIL, 9 ML. 5 Slots when ridden, 15 when not
 4. Squire - See retainer rules for generation. Armed with a spear and a desire to prove themself
 
 ***Talents***: Armor Master, Influence, Brute Strength

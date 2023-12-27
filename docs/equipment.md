@@ -162,20 +162,20 @@ Prices for buildings are the costs of construction. Prices to buy are usually 2-
 ### Traits
 Riding Horse
 - Level: 2
-- Skill: 9
+- Attributes: 9 STR, 9 DEX, 9 WIL
 - Morale: 7
 - Grazing: Can survive purely on grass.
 
 War Horse
 - Level: 3
-- Skill: 10
+- Attributes: 10 STR, 10 DEX, 10 WIL
 - Morale: 9
 - Charge: When not in melee and running from nearby to close a lance does double damage.
 - Melee: When in melee the horse and rider can both attack.
 
 Mule
 - Level: 2
-- Skill: 9
+- Attributes: 9 STR, 9 DEX, 9 WIL
 - Morale: 9
 - Hardy: May be taken underground if the arbiter allows it.
 - Defensive: May attack in self-defense, but will never attack on command.

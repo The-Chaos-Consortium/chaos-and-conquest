@@ -7,7 +7,7 @@ Large groups of combatants fighting together are treated as a detachment. ***Det
 - Large Detachments - usually contingent size (25)
 
 Detachments are described using the following statistics:
-- Skill - A detachment’s fighting capability distilled into one value. The arbiter uses this for any save the detachment needs to make. Skill can't be higher than 19. Skill is usually 10, but can be modified up or down depending on the detachment’s training, equipment, the WIL or Skill of the leader(s), etc.
+- Skill - A detachment’s fighting capability distilled into one value. The arbiter uses this for any save the detachment needs to make. Skill can't be higher than 19. Skill is usually 10, but can be modified up or down depending on the detachment’s training, equipment, the WIL or skill of the leader(s), etc.
 - Level - The amount of d6s rolled to determine stamina. Can multiply the Level by 3 to get an average number of stamina. Is equal to the Level of a single member.
 - Armor Value (AV) - The amount of damage a detachment can take before it starts losing stamina. Is equal to the lowest AV of a single member.
 - Morale (ML) - A detachment’s odds of giving up during battle.
