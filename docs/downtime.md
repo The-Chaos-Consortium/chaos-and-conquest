@@ -1,4 +1,4 @@
-# Downtime Turns - WIP
+# Downtime Turns
 ## Downtime Turn Actions
 During ***Downtime Turns*** the PCs specify which actions they are taking in the period of time between adventures, in addition to regular activities. A Downtime Turn usually takes ***1 month*** of time in-game, but this amount of time can vary depending on the circumstances or task. Depending on the activity a PC may be taken out of play while the activity is happening, e.g. learning a talent requires complete devotion and the PC cannot be played during this time. Other activities can be handled by a trusted retainer instead of the PC themself.
 
@@ -99,7 +99,7 @@ Building special rooms, such as a library, laboratory, or shrine, each costs 5% 
 ## Infrastructure
 PCs can found settlements or increase the size of existing settlements by making investments into infrastructure.
 
-To found a hamlet , the area it is to be built in must be secured and surveyed, and an estate of at least 2,000p in value built, around which the hamlet can be organized.
+To found a hamlet, the area it is to be built in must be secured and surveyed, and an estate of at least 2,000p in value built, around which the hamlet can be organized.
 
 Founding a hamlet requires it to be constructed using the same process as constructing an estate. The cost of construction for a hamlet is 5,000p.
 
@@ -117,13 +117,13 @@ A PC only needs to pay the base investment cost (plus any bonus expenditures) du
 | 7-9 | A setback occurs, which prevents further infrastructure progress until it is dealt with. This may be that the settlement may not have adequate resources, such as food or water, to expand, or the settlement's expansion infringes on settled territory, or the lair of a monster or a dungeon is uncovered. |
 | 2-6 |                                                                                                                                             No progress is made.                                                                                                                                              |
 
-| Settlement Type | Base Investment Cost |                                                   Bonuses                                                    |             Prerequisites             |
-| :-------------: | :------------------: | :----------------------------------------------------------------------------------------------------------: | :-----------------------------------: |
-|   1 (hamlet)    |        5,000p        |                                              No roll necessary                                               | Must be located in a hamlet or larger |
-|   2 (village)   |       20,000p        |  +1 for each additional 5,000p spent. +1 for each tier 1 institution owned by the company in the settlement  |    Must be connected to 2 hamlets     |
-|    3 (town)     |       80,000p        | +1 for each additional 20,000p spent. +1 for each tier 2 institution owned by the company in the settlement  |    Must be connected to 2 villages    |
-|    4 (city)     |       320,000p       | +1 for each additional 80,000p spent. +1 for each tier 4 institution owned by the company in the settlement  |     Must be connected to 2 towns      |
-|  5 (big city)   |      1,280,000p      | +1 for each additional 320,000p spent. +1 for each tier 6 institution owned by the company in the settlement |     Must be connected to 2 cities     |
+| Settlement Type | Base Investment Cost |                                                   Bonuses                                                    |                        Prerequisites                         |
+| :-------------: | :------------------: | :----------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------: |
+|   1 (hamlet)    |        5,000p        |                                              No roll necessary                                               | Area cleared and secured and an estate worth at least 2,000p |
+|   2 (village)   |       20,000p        |  +1 for each additional 5,000p spent. +1 for each tier 1 institution owned by the company in the settlement  |                Must be connected to 2 hamlets                |
+|    3 (town)     |       80,000p        | +1 for each additional 20,000p spent. +1 for each tier 2 institution owned by the company in the settlement  |               Must be connected to 2 villages                |
+|    4 (city)     |       320,000p       | +1 for each additional 80,000p spent. +1 for each tier 4 institution owned by the company in the settlement  |                 Must be connected to 2 towns                 |
+| 5 (metropolis)  |      1,280,000p      | +1 for each additional 320,000p spent. +1 for each tier 6 institution owned by the company in the settlement |                Must be connected to 2 cities                 |
 
 ## Institutions
 An institution is any kind of organization or long term enterprise. Examples would include a bar, teahouse, shop, theater troupe, garrison, mercenary outfit, gang, guild, orphanage, and so on.
@@ -152,7 +152,7 @@ The base investment costs for each institution tier are listed below, as well as
 |        4         |        5,000p        | +1 for each additional 2,500p spent  |  Must be located in a town or larger   |      90p       |
 |        5         |       10,000p        | +1 for each additional 5,000p spent  |  Must be located in a town or larger   |      200p      |
 |        6         |       20,000p        | +1 for each additional 10,000p spent |  Must be located in a city or larger   |      400p      |
-|        7         |       40,000p        | +1 for each additional 20,000p spent |     Must be located in a big city      |      800p      |
+|        7         |       40,000p        | +1 for each additional 20,000p spent |    Must be located in a metropolis     |      800p      |
 
 To relocate an institution to another settlement, treat it the same as attempting to advance the institution a tier. If the roll is successful, the institution is now headquartered in the new location. The PC and arbiter can determine if it has relocated entirely, or left some auxiliary or franchise branch behind in the old settlement.	
 
@@ -172,7 +172,50 @@ If the institution suffers a setback, the arbiter may roll on the following tabl
 | 11  |     Minor Supply Shortage     |
 | 12  |     Economic Opportunity      |
 
-## Domains - WIP
+## Domains
+Having accrued enough power, some rarefied few worthy individuals may find themselves rulers of a domain.
+
+This domain functions as any other polity in the game world, except for the important detail that the characters have direct control of it at the macro-level, being able to set the code of laws, appoint npcs to positions of power, and more.
+
+Domains can be categorised into 10 tiers. A tier 1 domain is immediately founded once a character has founded a hamlet. 
+
+This is the ***demense***, or ***personal domain***, of the character - meaning the lands they directly control. The hex ranges defined in the benefit section reference this personal domain, not the max size of the entire realm the character rules over. A character can only have one personal domain, and must rely on vassals to rule over other domains. A ruler can subinfeudate their realm to vassals, who can then subinfeudate their own domains to vassals, and so on. This nested hierarchy of vassals is known as ***feudalism***. There are no defined rules for how many vassals a ruler can have - but the ruler must be able to effectively rule over their realm, and if they have too many vassals, they may find themselves unable to do so, or find that their vassals are too powerful and can challenge them.
+
+Once a domain has been founded, it can be improved by investing money into it, so long as certain prerequisites are met.
+
+A tracker is set for the number of successes needed to advance a domain to the next tier. The number of successes is equal to the tier being advanced to (e.g. expanding a tier 2 domain to a tier 3 domain requires three successes).
+
+A character can attempt to improve a domain as an action during a downtime turn. To do so, a character pays the base investment cost for the domain tier they are attempting to advance to and rolls 2d6, with bonuses applying for extra expenditures. These bonuses cannot cumulatively exceed +3.
+
+A character only needs to pay the base investment cost (plus any bonus expenditures) during the first attempt they make. Successive attempts do not require payment.
+
+| 2d6 |                                                                                                   Result                                                                                                    |
+| :-: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| 10+ |                                                                                      Success is marked on the tracker                                                                                       |
+| 7-9 | A setback occurs, which prevents further domain progress until it is dealt with. This may be civil unrest, the looming threat of foreign invasion, or a powerful beast that has begun to terrorise the land |
+| 2-6 |                                                                                            No progress is made.                                                                                             |
+
+The base investment costs for each domain tier are listed below, as well as any prerequisites.
+
+| Domain Tier | Base Investment Cost |                Bonuses                |                          Prerequisites                          |                                                    Benefits                                                     | Monthly Income |
+| :---------: | :------------------: | :-----------------------------------: | :-------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: | :------------: |
+|      1      |          0p          |           No roll necessary           |      Automatically achieved when first hamlet is founded.       |                         Has a 1-in-6 chance of providing any mundane items & services.                          |      100s      |
+|      2      |       10,000p        |  +1 for each additional 2,500p spent  |   Domain must contain a ruler’s estate worth at least 5,000p.   |              Cleared hexes or areas up to 1 hex/6 miles adjacent can be made part of your domain.               |      270s      |
+|      3      |       20,000p        |  +1 for each additional 5,000p spent  |             Domain must contain at least 1 village              |     Has a 2-in-6 chance of providing any mundane items & services. Able to field an army of 50 men-at-arms.     |      350s      |
+|      4      |       40,000p        | +1 for each additional 10,000p spent  |  Domain must contain a ruler’s estate worth at least 20,000p.   |             Cleared hexes or areas up to 2 hexes/12 miles adjacent can be made part of your domain.             |      450s      |
+|      5      |       80,000p        | +1 for each additional 20,000p spent  |               Domain must contain at least 1 town               |  Has a 3-in-6 chance of providing any mundane items & services. Able to field an army of d4 x 100 men-at-arms.  |      600s      |
+|      6      |       160,000p       | +1 for each additional 40,000p spent  |  Domain must contain a ruler’s estate worth at least 80,000p.   |             Cleared hexes or areas up to 3 hexes/18 miles adjacent can be made part of your domain.             |      760s      |
+|      7      |       320,000p       | +1 for each additional 80,000p spent  |               Domain must contain at least 1 city               |  Has a 4-in-6 chance of providing any mundane items & services. Able to field an army of d4 x 500 men-at-arms.  |     1,500s     |
+|      8      |       640,000p       | +1 for each additional 160,000p spent |  Domain must contain a ruler’s estate worth at least 320,000p.  |             Cleared hexes or areas up to 4 hexes/24 miles adjacent can be made part of your domain.             |     4,000s     |
+|      9      |      1,280,000p      | +1 for each additional 320,000p spent |            Domain must contain at least 1 metropolis            | Has a 5-in-6 chance of providing any mundane items & services. Able to field an army of d4 x 2,000 men-at-arms. |    10,000s     |
+|     10      |      2,560,000p      | +1 for each additional 640,000p spent | Domain must contain a ruler’s estate worth at least 1,280,000p. |             Cleared hexes or areas up to 5 hexes/30 miles adjacent can be made part of your domain.             |    20,000s     |
+
+Mundane items & services refers to the chance that the domain can furnish specific goods and services. Basic goods & services, like food or simple blacksmithing, can be assumed since these are necessities, but specialty items such as, say, siege weaponry or spices will require a roll.
+
+If the roll is successful, the domain will always be able to provide that item or service. If the roll is unsuccessful, then that item or service cannot be obtained until either the direct action is taken to make it available (e.g. by recruiting a skilled engineer, or establishing a trading route for spices), or until the domain increases in tier, whereupon it may be tested for again.
+
+Domain armies are made up of citizens who will take up arms to protect their home, not career soldiers. They can be kept out in the field for a number of months equal to the domain’s tier plus two.
+### Vassals & Titles - WIP
 
 ## Factions
 Running an open-ended and living world requires a lot of moving parts. Factions are a way to keep track of the various groups and organizations that exist in the world, and how they interact with the PCs and each other.
