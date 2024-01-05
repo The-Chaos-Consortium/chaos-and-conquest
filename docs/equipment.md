@@ -88,7 +88,8 @@ PCs can acquire specific items for cheaper prices than using ***Supply***. Doing
 |      Sling, Hand Crossbow, Thrown      |            d6 dmg, two hands to reload            |   2   |  10s   |     10s      |    120p    |   2    |
 |             Bow, Crossbow              |           d8 dmg, two hands, long range           |   3   | 1m 15s |     35s      |    420p    |   3    |
 |     Pistol (Flintlock, Wheellock)      |        d6+1 dmg, two hands to reload, loud        |   2   |   2m   |     40s      |    480p    |   5    |
-|     Musket (Flintlock, Wheellock)      |        d8+1 dmg, two hands to reload, loud        |   3   |   5m   |     100s     |   1,200p   |   5    |
+|     Musket (Flintlock, Wheellock)      |             d8+1 dmg, two hands, loud             |   3   |   5m   |     100s     |   1,200p   |   5    |
+|    Scattergun (Flintlock, Wheelock)    |           d6 blast dmg, two hands, loud           |   3   |  10m   |     200s     |   2,400p   |   5    |
 |                  Ammo                  |                     see Ammo                      |   1   |   5s   |      5s      |    60p     |   2    |
 |              Flask of Oil              | d8 dmg for two rounds if target is doused and lit |   1   | Supply |      -       |     -      |   2    |
 
