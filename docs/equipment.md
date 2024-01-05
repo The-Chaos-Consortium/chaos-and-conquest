@@ -31,7 +31,7 @@ The size of a given area’s economy influences that type of trade that can occu
 - Tier 2 (Village) - 20 to 1,000 people, 50 to 300 is typical
 - Tier 3 (Town) - 1,000 to 8,000 people, average of 2,500
 - Tier 4 (City) - 8,000 to 12,000 people
-- Tier 5 (Big City) - 12,000 to 100,000 people
+- Tier 5 (Metropolis) - 12,000 to 100,000 people
 
 Specialists and some items have a rarity rating between 1 and 5, corresponding to the settlement types. Items and specialists can be freely bought and hired in the settlement type they correspond to and all larger settlements (e.g. rarity 3 can be found in towns and above).
 
