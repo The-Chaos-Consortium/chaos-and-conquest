@@ -175,7 +175,7 @@ If the institution suffers a setback, the arbiter may roll on the following tabl
 ## Domains
 Having accrued enough power, some rarefied few worthy individuals may find themselves rulers of a domain.
 
-This domain functions as any other polity in the game world, except for the important detail that the characters have direct control of it at the macro-level, being able to set the code of laws, appoint npcs to positions of power, and more.
+This domain functions as any other polity in the game world, except for the important detail that the characters have direct control of it at the macro-level, being able to set the code of laws, appoint NPCs to positions of power, and more.
 
 Domains can be categorised into 10 tiers. A tier 1 domain is immediately founded once a character has founded a hamlet. 
 
@@ -215,8 +215,14 @@ Mundane items & services refers to the chance that the domain can furnish specif
 If the roll is successful, the domain will always be able to provide that item or service. If the roll is unsuccessful, then that item or service cannot be obtained until either the direct action is taken to make it available (e.g. by recruiting a skilled engineer, or establishing a trading route for spices), or until the domain increases in tier, whereupon it may be tested for again.
 
 Domain armies are made up of citizens who will take up arms to protect their home, not career soldiers. They can be kept out in the field for a number of months equal to the domain’s tier plus two.
-### Vassals & Titles - WIP
+### Vassals & Titles
+A vassal is a person who has sworn fealty to a ruler, and in return is granted a fiefdom, or domain, to rule over. The vassal is expected to provide military service to their lord, and in return the lord is expected to provide protection and justice to their vassal.
 
+This process involves the ceremonies of homage and fealty, in which the vassal swears an oath of loyalty to their lord during which they become "their man". Generally speaking the vassal does not pay any monetary taxes, but is required to provide military service to their lord, and to provide hospitality to their lord and their retinue when they visit. Depending on the specific terms of the oath, the vassal may have a specific number of knights they are required to provide when called upon, or they may be required to provide a certain number of days of service per year. For example, a baron may be required to provide 10 knights to their lord's army, with each knight being required to serve for 40 days per year accompanied by their retainers and esquires numbering 3-10. An average knight would have a Tier 1 domain.
+
+A ruler or vassal may have multiple vassals, and a vassal may have multiple vassals of their own. This nested hierarchy of vassals is known as ***feudalism***. The vassal will be given a title by their lord which is of a lesser rank than their lord's title. For example, a king may have a duke as a vassal, who in turn has a count as a vassal, who in turn has a baron as a vassal, and so on. An individual may be a vassal to multiple lords at the same time if they hold multiple titles, but they may only have one liege lord to whom they owe military service. For example a king may be the ruler of their own realm, but also hold the title of Duke in another realm, and be a vassal to that realm's king. In this case, the king would owe military service to their liege lord for their lands in the duchy, but their sovereign lands would be exempt from this.
+
+The following are an example of titles from highest to lowest ranking in a feudal hierarchy: Emperor/High King, King/Grand Duke/Archduke, Prince/Duke, Margrave/Landgrave, Count/Earl, Baron, Knight. Only some of these titles may be present in a given realm, and some realms may have additional titles not listed here.
 ## Factions
 Running an open-ended and living world requires a lot of moving parts. Factions are a way to keep track of the various groups and organizations that exist in the world, and how they interact with the PCs and each other.
 
