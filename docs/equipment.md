@@ -159,7 +159,6 @@ Prices for buildings are the costs of construction. Prices to buy are usually 2-
 |  War Horse   |             5/15             |      24       |  42m   |     840s     |  10,000p   |   4    |
 |     Mule     |            10/40             |      24       | 2m 10s |     50s      |    600p    |   1    |
 
-### Traits
 Riding Horse
 - Level: 2
 - Attributes: 9 STR, 9 DEX, 9 WIL
@@ -180,3 +179,47 @@ Mule
 - Hardy: May be taken underground if the arbiter allows it.
 - Defensive: May attack in self-defense, but will never attack on command.
 - Grazing: Can survive purely on grass.
+
+## Vehicles
+|       Vehicle       |  Miles per Day  |   Crew or Animals   | Slots |    Price     | in shillings | in pennies | Rarity |
+| :-----------------: | :-------------: | :-----------------: | :---: | :----------: | :----------: | :--------: | :----: |
+|        Cart         |       12        | 1 horse or 2 mules  |  100  |      1m      |     20s      |    240p    |   2    |
+|        Wagon        |       18        | 2 horses or 4 mules |  250  |    6m 10s    |     130s     |   1,560p   |   2    |
+|        Coach        |       60        |      4 horses       |  50   |     20m      |     400s     |   4,800p   |   3    |
+|        Raft         |       12        |          1          |  10   |     10s      |     10s      |    120p    |   2    |
+|    Fishing Boat     |       72        |          1          |  100  |      5m      |     100s     |   1,200p   |   2    |
+|      Riverboat      |       36        |          8          |  300  |     135m     |    2,700s    |  32,400p   |   3    |
+| Sailing Ship, Small |       90        |         10          | 1,000 |  833m 6s 8p  |  16,666s 8p  |  200,000p  |   3    |
+| Sailing Ship, Large |       72        |         20          | 3,000 | 3,333m 6s 8p |  66,666s 8p  |  800,000p  |   4    |
+|      Longship       | 18 row, 90 sail |        60/75        |  400  |    2,500m    |   50,000s    |  600,000p  |   4    |
+|       Warship       |       72        |         20          | 1,000 |   25,000m    |   500,000s   | 6,000,000p |   5    |
+
+Cart
+- A two-wheeled vehicle drawn by a single horse or two mules. Can carry 4 passengers.
+
+Wagon
+- A four-wheeled, open vehicle drawn by two horses or four mules. Can carry 12 passengers.
+
+Coach
+- A four-wheeled, enclosed vehicle drawn by four horses. Can carry 9 passengers. Requires horse changes every 2 hours in order to maintain speed. Without a change of horses, the coach can only travel 18 miles per day at 6 miles per hour.
+
+Raft
+- A simple raft made of logs lashed together. Can carry 4 passengers.
+
+Fishing Boat
+- A small boat with a single mast and a sail. Typically used for fishing or short trips along the coast. Can carry 4 passengers.
+
+Riverboat
+- A boat that is either rowed, pushed with poles, or towed by a horse. Can carry 16 passengers.
+
+Sailing Ship, Small
+- A small, seafaring vessel with a single mast and a sail. Can carry 20 passengers.
+
+Saliling Ship, Large
+- A large, seafaring vessel with two or more masts and sails. Usually has multiple decks. Can carry 40 passengers.
+
+Longship
+- A slender vessel suitable for navigating rivers, coastal waters, or the vast open seas. Depending on the prevailing conditions, a longship can be propelled by rowing or sailing. The crew members typically multitask as rowers, sailors, and warriors, adapting to the demands of the situation.
+
+Warship
+- While similar in appearance to normal sailing ships, they are designed for combat, and to carry mercenaries and war gear. Can carry 50 mercenaries.
