@@ -60,8 +60,8 @@ Supply can also be used to ***repair armor*** and ***restore worn weapons*** dur
 ***Ammo*** is an abstract item representing the ammunition a PC brought with them for their weapon. Players do not keep track of individual arrows or bullets, but must ***roll a d6 at the end of combat*** in which their PC used a ranged weapon. On a ***result of 1***, they only have enough ammunition left for ***one shot*** after which the Ammo is removed from their inventory.
 ## Light
 To light the way during the night or in dark places below the earth PCs need a light source. Each light source comes with a number of Light Points (LP) which determine how bright the light is.
-- Torch - Burns for 6 turns (1 hour), 5 LP.
-- Lantern - Burns for 24 turns (4 hours) but requires a separate flask of oil, 2 LP.
+- Torch - Burns for 6 turns (1 hour), 5 LP. Is more vulnerable to wind and rain, but can be used to light things.
+- Lantern - Burns for 24 turns (4 hours) but requires a separate flask of oil, 2 LP. Cannot be used to easily light things, but is more resilient to wind and rain.
 
 Tallying up the LP a party has determines the party’s light level:
 - Bright - LP equal to or greater than the number of party members. The party has advantage on surprise, but cannot surprise their enemies.
