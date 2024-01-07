@@ -63,6 +63,10 @@ Attacks that are ***impaired***, such as firing through cover or fighting while 
 Similarly, attacks that are enhanced by a risky stunt or a helpless or vulnerable target roll a ***bonus damage die***. This is represented as +d6, +d8, etc. and is added to the normal damage dealt. Attacks against a completely helpless target always receive +d12. In other situations the arbiter will decide which die type to grant.
 - E.g. a bandit is being held down by two allies. The PC attacks with a longsword (d10) and is granted a +d12 bonus for the bandit being helpless. The PC rolls a 4 and a 7, for a total of 11 damage dealt.
 
+### Combat Maneuvers
+Any action that is not a simple action, attack, or spellcasting is a combat maneuver. Combat maneuvers are always risky, and the arbiter may ask for a save, opposed or not, to determine the outcome. Some examples are disarming or tripping an opponent, pushing them off a ledge, or attempting to grapple them. Depending on the maneuver, the PC doing the maneuver may grant their allies bonus damage against the foe. For example, if the PC successfully knocks an enemy prone, their allies may receive a +d6 bonus damage die against that enemy until they stand up.
+
+Other than blast damage attacks, combat maneuvers are generally the only way a group of individuals have a chance at damaging a detachment.
 ### Damage & Death
 When a character is damaged, they lose that amount of stamina. Stamina is a measure of your ability to avoid life-threatening harm. If they take more damage than remaining stamina, they are wounded, and the remaining damage is removed from their STR.
 
