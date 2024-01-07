@@ -39,7 +39,7 @@ For smaller scale battles the arbiter can use the above detachment rules to hand
 
 A simplified system can be used though when the battle is too large to actively simulate, or when the arbiter wants to quickly resolve a battle. In such an engagement, each side rolls 1d6, and adds the following modifiers.
 - +1 if they outnumber the enemy at all; +2 if they outnumber the enemy 2 to one; +3 if they outnumber the enemy 3 to one, and so on.
-- Add the level of the highest level PC on that side, or the hit dice of the highest threat npc.
+- Add the level of the highest level PC on that side, or the level of the highest threat npc.
 - +1 for each significant tactical advantage, such as: cover, high ground, unbreakable formation, ambush, superior armaments, relevant magic, traps, superior training or morale, and so on.
 
 The side that rolls the highest wins the engagement. Ties are treated as a draw.
