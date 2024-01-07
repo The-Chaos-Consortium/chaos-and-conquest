@@ -50,4 +50,4 @@ The number rolled by the losing side multiplied by 10 represents the percentage 
 
 Any PCs involved in the engagement make a save with their best attribute if they win or draw. If they succeed, they are unharmed; if they fail, they take damage equal to the amount they failed by.
 
-If they lost, PCs use their worst attribute for the check. If they pass, they take damage equal to the difference between the result of each side’s roll; if they fail, they die.
+If they lost, PCs use their worst attribute for the save. If they pass, they take damage equal to the difference between the result of each side’s roll; if they fail, they die.
