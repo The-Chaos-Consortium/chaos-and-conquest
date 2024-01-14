@@ -77,7 +77,7 @@ Once a base camp has been established, the area can be surveyed, which requires 
 
 Once an area has been surveyed, labor efforts such as extracting resources or building estates can occur, so long as the base camp continues to hold.
 
-One laborer can extract 50s of value of resources per downtime turn. They can construct buildings at the normal rate.
+One laborer can extract 50s of value of resources per downtime turn. They can construct buildings at the normal rate. A hex can support 3d3 laborers at a time, which represents the amount of resources available in the area.
 
 Each surveyor, laborer, architect, and other retainers in a base camp need 6 supplies a month.
 ## Estates
