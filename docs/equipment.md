@@ -17,7 +17,7 @@ The table below illustrates the varying levels of comfort that can be achieved w
 | :----------------: | :------------: | :--------------------------------------------------: |
 |     Miserable      |      18s       |                  Serfs and peasants                  |
 |       Meager       |      30s       |   Unskilled manual laborers, 1st level adventurers   |
-|      Adequate      |    40 - 60s    |  Skilled laborers, journeyman crafters, mercenaries  |
+|      Adequate      |    40 - 60s    |  Skilled laborers, journeyman craftsmen, mercenaries  |
 |    Comfortable     |   70s - 100s   |     Master craftsmen or yeoman farmer (85 acres)     |
 |    Respectable     |      150s      | Master professionals or landed patrician (200 acres) |
 |      Wealthy       |      300s      |         Courtiers, Knights, Bishops, Gentry          |
@@ -89,7 +89,7 @@ PCs can acquire specific items for cheaper prices than using ***Supply***. Doing
 |             Bow, Crossbow              |           d8 dmg, two hands, long range           |   3   | 1m 15s |     35s      |    420p    |   3    |
 |     Pistol (Flintlock, Wheellock)      |        d6+1 dmg, two hands to reload, loud        |   2   |   2m   |     40s      |    480p    |   5    |
 |     Musket (Flintlock, Wheellock)      |             d8+1 dmg, two hands, loud             |   3   |   5m   |     100s     |   1,200p   |   5    |
-|    Scattergun (Flintlock, Wheelock)    |           d6 blast dmg, two hands, loud           |   3   |  10m   |     200s     |   2,400p   |   5    |
+|    Scattergun (Flintlock, Wheellock)    |           d6 blast dmg, two hands, loud           |   3   |  10m   |     200s     |   2,400p   |   5    |
 |                  Ammo                  |                     see Ammo                      |   1   |   5s   |      5s      |    60p     |   2    |
 |              Flask of Oil              | d8 dmg for two rounds if target is doused and lit |   1   | Supply |      -       |     -      |   2    |
 
@@ -216,7 +216,7 @@ Riverboat
 Sailing Ship, Small
 - A small, seafaring vessel with a single mast and a sail. Can carry 20 passengers.
 
-Saliling Ship, Large
+Sailing Ship, Large
 - A large, seafaring vessel with two or more masts and sails. Usually has multiple decks. Can carry 40 passengers.
 
 Longship

@@ -18,7 +18,7 @@ Here are some examples you can use in your game. You are encouraged to make up y
 Drinking this tonic magically heals d12 stamina, d4 STR, and any physical affliction.
 ### Whispercloak
 A spider silk cloak that grants the wearer advantage on attempts to sneak or hide.
-### Dream Fluet
+### Dream Flute
 Playing this flute deals d4 STR damage to each sleeping creature that can hear it and wakes them.
 ### Eye of Edna
 A mummified eye that, when put into the empty eye socket of a dead humanoid, animates the remains and makes it a semi-sentient servant to the creature who put the eye in.

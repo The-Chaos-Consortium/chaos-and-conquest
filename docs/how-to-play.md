@@ -70,7 +70,7 @@ Other than blast damage attacks, combat maneuvers are generally the only way a g
 ### Damage & Death
 When a character is damaged, they lose that amount of stamina. Stamina is a measure of your ability to avoid life-threatening harm. If they take more damage than remaining stamina, they are wounded, and the remaining damage is removed from their STR.
 
-When a PC or retainer takes STR damage they are wounded and must make a STR save against ***critical damage***. If they pass, the character stays conscious. Failure means they fall unconscious and are dying, and must roll on the Scars table. The dying character must have their wounds treated by another character and have a ***short rest*** within an hour or they die. Other NPCs die immediately upon receiving critical damge. Some enemies will have special abilities or effects that occur when their target fails a save against critical damage.
+When a PC or retainer takes STR damage they are wounded and must make a STR save against ***critical damage***. If they pass, the character stays conscious. Failure means they fall unconscious and are dying, and must roll on the Scars table. The dying character must have their wounds treated by another character and have a ***short rest*** within an hour or they die. Other NPCs die immediately upon receiving critical damage. Some enemies will have special abilities or effects that occur when their target fails a save against critical damage.
 
 Some attacks can do DEX or WIL damage instead of STR damage, reducing those attributes after losing all stamina. Losing DEX or WIL requires a respective save against ***critical damage***. ***If any attribute is reduced to 0, the character dies***.
 ### Blast Damage
@@ -111,7 +111,7 @@ Running away from a dire situation always requires a successful ***DEX*** save, 
 
 | d10 |                                                                           Scar                                                                            |
 | :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  1  |                       "Scarred - A part of you is violently marked. Roll 1d6; 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear.                       |
+|  1  |                       Scarred - A part of you is violently marked. Roll 1d6; 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear.                        |
 |  2  |                                                                 Sickly - You lose 1 STR.                                                                  |
 |  3  |                                                 Hobbled - Reduced to a limp until fixed. Also lose 1 DEX.                                                 |
 |  4  |                                                                  Dazed - You lose 1 WIL.                                                                  |
@@ -195,4 +195,4 @@ At the end of each session the arbiter rewards each character XP based on their 
 
 A PC also gains 1 XP per 1p of treasure they waste. Income from ventures other than adventuring cannot be wasted for XP.
 
-Wasting is any monetary transaction which is not: an investment, something which will give a return on value, either financially or through use, or a necessity. A meal, for example, is not waste, but a lavish banquet is. Gilding your armor or weapons is waste, buying a fancy set of clothes, donating to an instituion annonymously, or buying a round of drinks are all examples of waste. Use this opportuniuty to flesh out your character and their personality based on how they throw their money around. The threshold for waste should also be determined based on the character's social class. A noble would need those fancy clothes to maintain their status, but a peasant would be wasting their money on them. The arbiter will decide what counts as waste for each character.
+Wasting is any monetary transaction which is not: an investment, something which will give a return on value, either financially or through use, or a necessity. A meal, for example, is not waste, but a lavish banquet is. Gilding your armor or weapons is waste, buying a fancy set of clothes, donating to an institution anonymously, or buying a round of drinks are all examples of waste. Use this opportunity to flesh out your character and their personality based on how they throw their money around. The threshold for waste should also be determined based on the character's social class. A noble would need those fancy clothes to maintain their status, but a peasant would be wasting their money on them. The arbiter will decide what counts as waste for each character.
