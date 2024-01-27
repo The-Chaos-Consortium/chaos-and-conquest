@@ -34,7 +34,7 @@ Some idiot is always trying to run and some other idiot is always willing to pay
 
 ***Talents***: Survival, Dirty Fighting, Rumors
 ## (4) Outlaw
-More than a common thief or burglar, you’re a romantic figure, a dashing rogue with a reputation to uphold...and perhaps a greater ambition than mere silver.
+More than a common thief or burglar, you’re a romantic figure, a dashing rogue with a reputation to uphold... and perhaps a greater ambition than mere silver.
 
 ***Equipment***
 - Hooded cloak or hat and mask - 0 slots
