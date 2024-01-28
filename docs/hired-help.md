@@ -53,7 +53,7 @@ Mercenaries are hired soldiers who will form detachments, go to battle, and serv
 - A dedicated ***armorer*** is required per 50 troops.
 - Mercenaries usually have weapons and armor already when hired. Their employer can provide additional gear.
 - Their wages cover upkeep costs.
-- When properly stationed in a settlement, institution, estate, or domain, mercenaries cost half as much as normal. This is because their upkeep is covered by the settlement, institution, estate, or domain.
+- When properly stationed in a settlement, institution, estate, or domain - any of which must be owned by the PC employing them - mercenaries cost half as much as normal. This is because their upkeep is covered by the settlement, institution, estate, or domain.
 
 ## Specialists
 Specialists do not go on adventures, instead remaining in a settlement and performing specific functions. ***Unlike other retainers, there is no limit on the number of specialists a character may employ***. Specialists are listed in order of rarity, in order to facilitate random determination when necessary.
