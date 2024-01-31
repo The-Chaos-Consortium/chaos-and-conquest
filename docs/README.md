@@ -17,4 +17,6 @@ Chaos & Conquest is made to be hacked, pulled apart and built on top of. The tex
 
 ***Based on*** Errant by Ava Islam and Kill Jester Publishing, LLP. Errant is published under Creative Commons (CC-BY-SA 4.0).
 
+***Based on*** Knave by Ben Milton. Knave is published under Creative Commons (CC-BY 4.0).
+
 Copyright © 2023 The Chaos Consortium LLC, Alexander Gomez
