@@ -15,7 +15,7 @@ Retainers are NPCs who will delve into dungeons to adventure and engage in comba
 
 Upon leveling up they follow the same advancement rules as PCs. ***A retainer can never be a higher Level than you***. They will leave your service if they somehow become a higher Level.
 
-To create a retainer roll a 3d6 to determine each attribute, give them 1d6 stamina and a d6 dmg weapon. A retainer has 10 inventory slots. Experienced retainers might possess spells and higher attributes at the arbiter’s discretion. If they possess spells, they cast with the same system as the PC and can gain stress and roll a mishap. Retainers should have a background and talents that are applicable - they do not need to be the same ones as listed in the backgrounds section.
+To create a retainer roll a 3d6 to determine each attribute, give them 1d6 stamina and a d6 dmg weapon. A retainer has 10 inventory slots. Experienced retainers might possess spells and higher attributes at the arbiter’s discretion. If they possess spells, they cast with the same system as the PC and can gain stress and roll a mishap. Retainers should have a background and talents that are applicable - they do not need to be the same ones as listed in the backgrounds section. Your arbiter may have a pool of pre-existing retainers to choose from, or you can roll up your own using the customization rules from the character creation section if the arbiter allows it.
 
 Each PC can hire a maximum number of retainers based on their WIL score, which is shown in the table below. Retainers also have a loyalty rating which is also determined by the PC's WIL score.
 ### Retainer Loyalty and Max Amount
