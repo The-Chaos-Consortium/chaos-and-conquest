@@ -60,8 +60,8 @@ Combat is played in ***rounds***. Each round:
 
 Attacks that are ***impaired***, such as firing through cover or fighting while grappled, roll damage twice and deal the ***lowest result***.
 
-Similarly, attacks that are enhanced by a risky stunt or a helpless or vulnerable target roll a ***bonus damage die***. This is represented as +d6, +d8, etc. and is added to the normal damage dealt. Attacks against a completely helpless target always receive +d12. In other situations the arbiter will decide which die type to grant.
-- E.g. a bandit is being held down by two allies. The PC attacks with a longsword (d10) and is granted a +d12 bonus for the bandit being helpless. The PC rolls a 4 and a 7, for a total of 11 damage dealt.
+Similarly, attacks that are enhanced by a risky stunt or a vulnerable target roll a ***bonus damage die***. This is an extra d6, represented as +d6, and is added to the normal damage dealt. Attacks against a completely helpless target do not roll damage, and instead kill the target outright.
+- E.g. a bandit is being held down by an ally. The PC attacks with a longsword (d10) and is granted a +d6 for the bandit being grappled. The PC rolls a 4 and a 6, for a total of 10 damage dealt.
 
 ### Combat Maneuvers
 Any action that is not a simple action, attack, or spellcasting is a combat maneuver. Combat maneuvers are always risky, and the arbiter may ask for a save, opposed or not, to determine the outcome. Some examples are disarming or tripping an opponent, pushing them off a ledge, or attempting to grapple them. Depending on the maneuver, the PC doing the maneuver may grant their allies bonus damage against the foe. For example, if the PC successfully knocks an enemy prone, their allies may receive a +d6 bonus damage die against that enemy until they stand up.
@@ -78,7 +78,7 @@ Attacks suitably large enough to affect all targets in the appropriate area. Dam
 ### Critical Hits
 Rolling ***maximum damage*** on a weapon’s damage dice is a ***critical hit***. It bypasses all armor, and ***decreases the target’s AV by 1***. This decrease happens at the end of the round.
 
-Any bonus damage dice do not count towards a critical hit check - only the original damage dice do, e.g. attacking with a longsword (d10) +d8 bonus die, the PC rolls a 10 on the d10 and a 2 on the +d8. This counts as a critical hit.
+Any bonus damage dice do not count towards a critical hit check - only the original damage dice do, e.g. attacking with a longsword (d10) +d6 bonus die, the PC rolls a 10 on the d10 and a 2 on the +d6. This counts as a critical hit.
 ### Armor
 If a creature takes damage while they’re wearing armor, the damage is ***reduced*** by their ***Armor Value (AV)***. Any damage above the AV reduces stamina. Humanoids can have a ***max of 4 AV*** normally - with magic items this can go up to 6 AV.
 
