@@ -9,7 +9,7 @@ Enchanted weapons and armor grant the wearer a bonus ranging from +1 to +3 or so
 ## Some Magic Items
 Here are some examples you can use in your game. You are encouraged to make up your own or borrow from games you like.
 ### Tonic of Health
-Drinking this tonic magically heals d12 stamina, d4 STR, and any physical affliction.
+Drinking this tonic magically heals d6 stamina, d4 STR, and any physical affliction.
 ### Whispercloak
 A spider silk cloak that grants the wearer advantage on attempts to sneak or hide.
 ### Dream Flute
