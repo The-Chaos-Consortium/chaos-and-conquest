@@ -121,7 +121,7 @@ Running away from a dire situation always requires a successful ***DEX*** save, 
 | 10  |                        Doomed - You were meant to die. The next time you fail your save against critical damage you violently die.                        |
 
 ## Rest & Healing
-***Short Rest***: A PC may spend a turn catching their breath to regain d6 stamina, and spend a single supply to repair a weapon or armor.
+***Short Rest***: Immediately following a battle, a PC may spend a turn catching their breath to regain d6 stamina, and spend a single supply to repair a weapon or armor. This can only happen once after each battle.
 
 ***Night’s Rest***: After consuming a ration and a full night’s rest of two watches, PCs regain all lost stamina and remove 1 Stress. PCs may also spend any number of supplies to repair weapons and armor.
 
