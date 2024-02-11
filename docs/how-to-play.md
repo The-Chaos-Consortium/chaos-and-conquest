@@ -165,32 +165,14 @@ The party interacts with a location/feature. Dungeon delving, town/village adven
 ### Fatigue
 For each night the party skips making camp, each PC gains ***stress***. A party can travel or explore for three watches a day without getting fatigued. Each watch past three spent traveling or exploring results in a ***stress***.
 ## Advancement
-A PC increases in Level by gaining XP, as shown in the table below.
+As there are no levels, PCs advance in a more diegetic way. They can invest their coin in training to increase their stamina, purchase new equipment, find trainers and opportunities for new talents, partake in downtime activities, create new spells, and more. Some mechanical benefits are gained through these advancements, but the main focus is on the narrative and the world. The arbiter should work with the players to make sure that the advancements are meaningful and interesting. Below are some specific methods of advancement.
+### Increasing Stamina
+PCs can spend a week to increase their stamina by spending coin to pay teachers, schools, guilds, libraries, churches, etc. for training. This initially costs 1,000p and increases your stamina by 1d6. This cost ***doubles*** for each subsequent increase, and ***you cannot have more than 30 stamina***. Make sure to track how many times you have increased your stamina so you don't forget how much it costs to increase it again.
+### New Talents
+Talents are not earned easily; they must be hunted for. This can be done via downtime turns or any other way the arbiter decides. [Learning a Talent](downtime.md#learning-a-talent) covers the process in detail on how to learn a talent in downtime. The max amount of talents a PC can have is ***6*** - if you wish to learn a new talent after reaching this limit, you must first forget one of your current talents.
+### Improving Attributes
+PCs can spend a week trying to improve one of their attributes by tapping into the aether - the realm outside the mortal, where Chaos and Law fight their eternal war. To do so they permanently re-roll one attribute score using 3d6, keeping the result whether higher or lower. No attribute can be higher than 18.
 
-| Level | XP Needed |
-| :---: | :-------: |
-|   1   |     0     |
-|   2   |   2,000   |
-|   3   |   4,000   |
-|   4   |   8,000   |
-|   5   |  16,000   |
-|   6   |  32,000   |
-|   7   |  64,000   |
-|   8   |  125,000  |
-|   9   |  250,000  |
-|  10   |  500,000  |
-|  11+  | +250,000  |
-
-When a PC’s Level increases they:
-- From Level 1 to 10, pick one attribute to increase by 1. No attribute score can be increased above 18.
-- From Level 1 to 10, roll a number of d6s equal to your new level. If the rolled sum is greater than your current max stamina, take it as your new max. Otherwise, increase your max by 1. From Level 11 onwards you no longer roll, and instead gain 2 stamina per Level.
-  - E.g. Level 1 stamina is 3. Upon reaching Level 2, roll 2d6, and the sum is 7, which is now your new max stamina.
-  - E.g. Level 10 stamina is 40. Upon reaching Level 11, add 2 stamina for a new max stamina of 42.
-
-Talents are not earned by gaining Levels; they must be hunted for. This can be done via downtime turns or any other way the arbiter decides. 
-### Rewarding XP
-At the end of each session the arbiter rewards each character XP based on their share of the value of the non-magical treasure they brought back safely from adventures (1p = 1 XP). This is specifically for treasure found or payments received due to completing dangerous tasks. Trading profits do not count, nor does robbing citizens. Unless stated otherwise in the downtime turns section, PCs do not gain XP for income made in downtime turns. Mundane equipment does not count as treasure if looted from a defeated foe or found in a dungeon. The characters never gain XP for fighting or killing - no matter how dangerous the foe. Treasure is the only way.
-
-A PC also gains 1 XP per 1p of treasure they waste. Income from ventures other than adventuring cannot be wasted for XP.
-
-Wasting is any monetary transaction which is not: an investment, something which will give a return on value, either financially or through use, or a necessity. A meal, for example, is not waste, but a lavish banquet is. Gilding your armor or weapons is waste, buying a fancy set of clothes, donating to an institution anonymously, or buying a round of drinks are all examples of waste. Use this opportunity to flesh out your character and their personality based on how they throw their money around. The threshold for waste should also be determined based on the character's social class. A noble would need those fancy clothes to maintain their status, but a peasant would be wasting their money on them. The arbiter will decide what counts as waste for each character.
+This costs 2,000p per attempt, and represents the cost of materials and time spent attempting to navigate the aether.
+### New Spells
+The process for creating a new spell is detailed in [Magic & Spellcasting](magic-spellcasting.md#spell-creation).

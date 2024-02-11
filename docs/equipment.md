@@ -16,8 +16,8 @@ The table below illustrates the varying levels of comfort that can be achieved w
 | Standard of Living | Monthly Income |                  Common Profession                   |
 | :----------------: | :------------: | :--------------------------------------------------: |
 |     Miserable      |      18s       |                  Serfs and peasants                  |
-|       Meager       |      30s       |   Unskilled manual laborers, 1st level adventurers   |
-|      Adequate      |    40 - 60s    |  Skilled laborers, journeyman craftsmen, mercenaries  |
+|       Meager       |      30s       |     Unskilled manual laborers, basic adventurers     |
+|      Adequate      |    40 - 60s    | Skilled laborers, journeyman craftsmen, mercenaries  |
 |    Comfortable     |   70s - 100s   |     Master craftsmen or yeoman farmer (85 acres)     |
 |    Respectable     |      150s      | Master professionals or landed patrician (200 acres) |
 |      Wealthy       |      300s      |         Courtiers, Knights, Bishops, Gentry          |
@@ -161,20 +161,20 @@ Prices for buildings are the costs of construction. Prices to buy are usually 2-
 |     Mule     |            10/40             |      24       | 2m 10s |     50s      |    600p    |   1    |
 
 Riding Horse
-- Level: 2
+- Stamina: 2d6
 - Attributes: 9 STR, 9 DEX, 9 WIL
 - Morale: 7
 - Grazing: Can survive purely on grass.
 
 War Horse
-- Level: 3
+- Stamina: 3d6
 - Attributes: 10 STR, 10 DEX, 10 WIL
 - Morale: 9
 - Charge: When not in melee and running from nearby to close a lance does double damage.
 - Melee: When in melee the horse and rider can both attack.
 
 Mule
-- Level: 2
+- Stamina: 2d6
 - Attributes: 9 STR, 9 DEX, 9 WIL
 - Morale: 9
 - Hardy: May be taken underground if the arbiter allows it.

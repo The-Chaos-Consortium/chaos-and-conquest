@@ -33,7 +33,7 @@ You hold the wisdom that has been passed down through generations to aid and pro
 
 ***Equipment***
 - Candles, herbs, chalk, needles
-- An animal familiar with an ironic or absurd name - Level 1, 6 STR, 10 DEX, 10 WIL, 7 ML
+- An animal familiar with an ironic or absurd name - 1d6 stamina, 6 STR, 10 DEX, 10 WIL, 7 ML
 - Grimoire - 2 slots, 1 random spell
 
 ***Talents***: Arcane, Potions, Divination

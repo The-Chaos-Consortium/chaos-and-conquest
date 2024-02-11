@@ -7,7 +7,7 @@ Each player character (PC) has three attributes.
 
 For each of these ***roll 3d6*** to determine each of your PC’s attribute scores. This will give a range of ***3 to 18*** for each attribute, with ***10*** being average. You may swap two attribute scores of your choice.
 ## 2. Stamina & Inventory Slots
-Each PC starts at ***Level 1*** with ***1d6 stamina***, a measure of your ability to avoid life-threatening harm.
+Each PC starts with ***1d6 stamina***, a measure of your ability to avoid life-threatening harm.
 
 Note the number of ***inventory slots*** your PC has. PCs have slots equal to ***their STR or 10, whichever is higher***. Inventory slots are used to carry items and to track the amount of ***stress*** a PC accumulates.
 ## 3. Background & Belongings

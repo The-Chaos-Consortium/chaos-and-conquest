@@ -1,6 +1,6 @@
 # Mass Combat
 ## Detachments
-Large groups of combatants fighting together are treated as a detachment. ***Detachments must be made up of similar troops***. The officers can be equipped differently or be a higher level, but this will not affect the stats of the detachment. The three types of detachments ranked by size are:
+Large groups of combatants fighting together are treated as a detachment. ***Detachments must be made up of similar troops***. The officers can be equipped differently or be stronger, but this will not affect the stats of the detachment. The three types of detachments ranked by size are:
 - Individuals
 - Small Detachments - usually lance size (5)
 - Medium Detachments - usually multiple lances (15)
@@ -8,7 +8,7 @@ Large groups of combatants fighting together are treated as a detachment. ***Det
 
 Detachments are described using the following statistics:
 - ***Attributes*** - A detachment's Strength, Dexterity and Willpower. When not explicitly defined, assume a score of 10. The arbiter uses these for any save the detachment needs to make. Attributes can't be higher than 18. 3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, and 18 is legendary. Adjust as necessary, and they can be modified up or down depending on the detachment’s training, equipment, the WIL or skill of the leader(s), etc.
-- ***Level*** - The amount of d6s rolled to determine stamina. Can multiply the Level by 3 to get an average number of stamina. Is equal to the lowest Level of a single member.
+- ***Stamina*** - Shown as the amount of d6s rolled to determine stamina. Max stamina is 60, and the value should be based on the makeup of the detachment. A fresh detachment of conscripts might have 1d6, while the elite guard of a king might have 5d6.
 - ***Armor Value (AV)*** - The amount of damage a detachment can take before it starts losing stamina. Is equal to the lowest AV of a single member.
 - ***Morale (ML)*** - A detachment’s odds of giving up during battle.
 - Possible ***attacks*** and/or ***special abilities*** the detachment might have. Generally based on their equipment.
@@ -25,7 +25,7 @@ For smaller scale battles the arbiter can use the above detachment rules to hand
 
 A simplified system can be used though when the battle is too large to actively simulate, or when the arbiter wants to quickly resolve a battle. In such an engagement, each side rolls 1d6, and adds the following modifiers.
 - +1 if they outnumber the enemy at all; +2 if they outnumber the enemy 2 to one; +3 if they outnumber the enemy 3 to one, and so on.
-- Add the level of the highest level PC on that side, or the level of the highest threat npc.
+- Add the WIL divided 4, rounding down, of the main leader on each side. A leader with a WIL of 7 would add +1, a leader with a WIL of 11 would add +2, and so on, to a max of +4 at WIL 16 or higher.
 - +1 for each significant tactical advantage, such as: cover, high ground, unbreakable formation, ambush, superior armaments, relevant magic, traps, superior training or morale, and so on.
 
 The side that rolls the highest wins the engagement. Ties are treated as a draw.
