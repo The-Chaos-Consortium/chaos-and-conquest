@@ -29,10 +29,6 @@ A setback can be cleared by dealing with it directly in play.
 A setback may also be dealt with by spending a downtime turn action. It is up to the arbiter’s discretion depending on the specific nature of the setback whether simply taking the action will suffice to deal with it, if a save is required, or whether expenditures of resources are necessary; a arbiter may also rule that due to the nature of the setback, it cannot be dealt with abstractly through a downtime turn action and must be handled by the PC directly.
 
 As a general procedure, if an institution, infrastructure project, or domain suffers a setback, it can be cleared with a downtime turn action and paying half the current base investment cost.
-## Improving Attributes
-PCs can spend their downtime turns working to improve one of their attributes - ***this takes one month per attempt***. To do so they roll 3d6, and if the result is higher than the attribute they are trying to improve, the attribute increases by 1. No attribute can be higher than 18.
-
-This initially costs ***500p***, representing the cost of acquiring adequate trainers and material, ***but doubles after each attempt***, regardless of which attribute is being worked on.
 ## Learning a Talent
 PCs can spend their downtime turns to acquire a new talent. A tracker should be set depending on how narrowly defined the talent is:
 - Narrow Talent - 2 Successes (e.g. Foraging, Spelunking, House Blackmane History)
@@ -40,11 +36,33 @@ PCs can spend their downtime turns to acquire a new talent. A tracker should be 
 
 To be able to learn a talent, the PC must have access to the proper resources needed to learn it. For example, a character cannot learn the Swimming talent without access to a body of water.
 
-| 2d6 | Result                                                                       |
-| :-: | :---------------------------------------------------------------------------: |
-| 10+ | Progress is made towards the new talent.                                     |
+The base cost of learning a talent is dependent on how many talents the PC already has, and whether the talent is narrow or broad. Remember that if you already have 6 talents, you must forget one to learn a new one. The cost can decrease or increase depending on the circumstances, such as if the PC is a member of a guild that teaches the talent, or if the talent is a closely guarded secret.
+
+| Current Number of Talents | Narrow Talent | Broad Talent |
+| :-----------------------: | :-----------: | :----------: |
+|             3             |    5,000p     |   10,000p    |
+|             4             |    15,000p    |   30,000p    |
+|             5             |    30,000p    |   60,000p    |
+|             6             |    50,000p    |   100,000p   |
+
+Roll 2d6. For every sizeable benefit the PC has, add +1 to the roll for a max of +3. For example, if the PC has a masterwork smithy, a mentor, and an apprentice, they would add +3 to the roll to learn Blacksmithing.
+
+| 2d6 |                                    Result                                    |
+| :-: | :--------------------------------------------------------------------------: |
+| 10+ |                   Progress is made towards the new talent.                   |
 | 7-9 | Partial progress has been made. The next attempt will automatically succeed. |
-| 2-6 | No progress has been made.                                                   |
+| 2-6 |                          No progress has been made.                          |
+
+## Adding a spell to a spellbook
+PCs can spend their downtime turns to add a spell to an existing spellbook. A tracker should be set for one success, and the cost paid as mentioned in [Spell Creation](magic-spellcasting.md#spell-creation). The cost is only paid on the first attempt, and any successive attempts do not require payment.
+
+Roll 2d6. Each spellcaster apprentice (up to a maximum of 3) adds +1 to the roll, and having a proper workshop (wizard's tower, witch's den, alchemist's lab, etc.) adds +1 to the roll.
+
+| 2d6 |                                                     Result                                                     |
+| :-: | :------------------------------------------------------------------------------------------------------------: |
+| 10+ |                                        New spell is added to spellbook.                                        |
+| 7-9 | The process requires some sort of new material, offering, or completion of a task, before it can be continued. |
+| 2-6 |                                           No progress has been made.                                           |
 
 ## Expeditions
 An expedition is used to extract resources from or settle an area.
@@ -128,7 +146,7 @@ A PC only needs to pay the base investment cost (plus any bonus expenditures) du
 ## Institutions
 An institution is any kind of organization or long term enterprise. Examples would include a bar, teahouse, shop, theater troupe, garrison, mercenary outfit, gang, guild, orphanage, and so on.
 
-Institutions offer specific benefits to the characters who have invested in them. These are customized for each given institution. For example, investing in a stagecoach network might allow for more retainers to be available for hire, and for retainers of higher levels to appear in that settlement. Institutions also provide monthly profit based on their tier. This profit is considerably lower than what it would be if the PC worked full time for the institution; As PCs are primarily adventurers, they will profit roughly a 20-25%  return on investment annually.
+Institutions offer specific benefits to the characters who have invested in them. These are customized for each given institution. For example, investing in a stagecoach network might allow for more retainers to be available for hire, and for retainers of higher status to appear in that settlement. Institutions also provide monthly profit based on their tier. This profit is considerably lower than what it would be if the PC worked full time for the institution; As PCs are primarily adventurers, they will profit roughly a 20-25%  return on investment annually.
 
 Institutions can be categorized into seven different tiers. To found a tier 1 institution, a PC must have some kind of resource available that would allow them to begin operations. For example, if they wish to found a cult, they should already have a few followers committed to the cause. As an action during a downtime turn, they can then spend 500p to establish that institution in the settlement they are in.
 
@@ -273,7 +291,7 @@ An example of a Faction follows, containing all the elements described above.
 #### NPCs
 ***Shaman***
 <table>
-<tr><td><b>Attributes</b>: 12 STR, 14 WIL</td><td><b>Level</b>: 3</td></tr>
+<tr><td><b>Attributes</b>: 12 STR, 14 WIL</td><td><b>Stamina</b>: 3d6 (9)</td></tr>
 <tr><td><b>Morale</b>: 9</td><td><b>AV</b>: 1</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Staff (d8), Spellcasting</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Goblins heavily tattooed across their whole bodies with blue ink, which channel the power of the moon.
@@ -282,15 +300,15 @@ Spellcasting, Power Budget: 4
 <br />
 Grimoire:
 <ul>
-    <li>Bolt - Throw [DICE] bolts of magical energy dealing d6 damage each.</li>
-    <li>Fear - [DICE] close creatures must WIL Save or try to flee.</li>
+    <li>Bolt of Lightning</li>
+    <li>Fear</li>
 </ul>
 </td></tr>
 </table>
 
 ***Miroslav***
 <table>
-<tr><td><b>Attributes</b>: 12 STR, 16 WIL</td><td><b>Level</b>: 6</td></tr>
+<tr><td><b>Attributes</b>: 12 STR, 16 WIL</td><td><b>Stamina</b>: 6d6 (18)</td></tr>
 <tr><td><b>Morale</b>: 9</td><td><b>AV</b>: 1</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Staff (d8), Spellcasting</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Enigmatic and mad human mage. Charismatic and persuasive at times, but also prone to sudden outbursts of rage or paranoia.
@@ -299,11 +317,11 @@ Spellcasting, Power Budget: 7
 <br />
 Grimoire:
 <ul>
-    <li>Bolt - Throw [DICE] bolts of magical energy dealing d6 damage each.</li>
-    <li>Fear - [DICE] close creatures must WIL Save or try to flee.</li>
-    <li>Command - One target that can hear and comprehend you must WIL Save or obey a command with up to [SUM] words that you give.</li>
-    <li>Darkness - Create a [SUM] x 2ft. diameter sphere of pure darkness nearby for [DICE] Turns.
-    <li>Summon - Summon [DICE] Level 1 creatures from the moon to fight for you.</li>
+    <li>Bolt</li>
+    <li>Fear</li>
+    <li>Obey my Command</li>
+    <li>Sphere of Darkness>
+    <li>Summon Moonspawn</li>
 </ul>
 </td></tr>
 </table>

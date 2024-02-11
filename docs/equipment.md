@@ -16,8 +16,8 @@ The table below illustrates the varying levels of comfort that can be achieved w
 | Standard of Living | Monthly Income |                  Common Profession                   |
 | :----------------: | :------------: | :--------------------------------------------------: |
 |     Miserable      |      18s       |                  Serfs and peasants                  |
-|       Meager       |      30s       |   Unskilled manual laborers, 1st level adventurers   |
-|      Adequate      |    40 - 60s    |  Skilled laborers, journeyman craftsmen, mercenaries  |
+|       Meager       |      30s       |     Unskilled manual laborers, basic adventurers     |
+|      Adequate      |    40 - 60s    | Skilled laborers, journeyman craftsmen, mercenaries  |
 |    Comfortable     |   70s - 100s   |     Master craftsmen or yeoman farmer (85 acres)     |
 |    Respectable     |      150s      | Master professionals or landed patrician (200 acres) |
 |      Wealthy       |      300s      |         Courtiers, Knights, Bishops, Gentry          |
@@ -65,8 +65,8 @@ To light the way during the night or in dark places below the earth PCs need a l
 
 Tallying up the LP a party has determines the party’s light level:
 - Bright - LP equal to or greater than the number of party members. The party has advantage on surprise, but cannot surprise their enemies.
-- Dim - Less LP than the number of party members, but more LP than half the party size. Ranged attacks are impaired.
-- Darkness - LP less than half the number of party members. All attacks are impaired, saves are at disadvantage, and the party is always surprised.
+- Dim - Less LP than the number of party members, but more LP than half the party size. Ranged attacks are at disadvantage.
+- Darkness - LP less than half the number of party members. All attacks are at disadvantage, saves are at disadvantage, and the party is always surprised.
 
 ## Basic Gear
 PCs can acquire specific items for cheaper prices than using ***Supply***. Doing this loses the flexibility of supply, but will be cheaper if you know exactly what you need.
@@ -89,7 +89,7 @@ PCs can acquire specific items for cheaper prices than using ***Supply***. Doing
 |             Bow, Crossbow              |           d8 dmg, two hands, long range           |   3   | 1m 15s |     35s      |    420p    |   3    |
 |     Pistol (Flintlock, Wheellock)      |        d6+1 dmg, two hands to reload, loud        |   2   |   2m   |     40s      |    480p    |   5    |
 |     Musket (Flintlock, Wheellock)      |             d8+1 dmg, two hands, loud             |   3   |   5m   |     100s     |   1,200p   |   5    |
-|    Scattergun (Flintlock, Wheellock)    |           d6 blast dmg, two hands, loud           |   3   |  10m   |     200s     |   2,400p   |   5    |
+|   Scattergun (Flintlock, Wheellock)    |          d6 dmg, blast, two hands, loud           |   3   |  10m   |     200s     |   2,400p   |   5    |
 |                  Ammo                  |                     see Ammo                      |   1   |   5s   |      5s      |    60p     |   2    |
 |              Flask of Oil              | d8 dmg for two rounds if target is doused and lit |   1   | Supply |      -       |     -      |   2    |
 
@@ -161,20 +161,20 @@ Prices for buildings are the costs of construction. Prices to buy are usually 2-
 |     Mule     |            10/40             |      24       | 2m 10s |     50s      |    600p    |   1    |
 
 Riding Horse
-- Level: 2
+- Stamina: 2d6
 - Attributes: 9 STR, 9 DEX, 9 WIL
 - Morale: 7
 - Grazing: Can survive purely on grass.
 
 War Horse
-- Level: 3
+- Stamina: 3d6
 - Attributes: 10 STR, 10 DEX, 10 WIL
 - Morale: 9
 - Charge: When not in melee and running from nearby to close a lance does double damage.
 - Melee: When in melee the horse and rider can both attack.
 
 Mule
-- Level: 2
+- Stamina: 2d6
 - Attributes: 9 STR, 9 DEX, 9 WIL
 - Morale: 9
 - Hardy: May be taken underground if the arbiter allows it.

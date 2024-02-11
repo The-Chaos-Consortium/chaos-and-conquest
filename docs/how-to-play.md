@@ -58,13 +58,13 @@ Combat is played in ***rounds***. Each round:
 ### Attacks
 ***Attacks always hit***. Roll your weapon’s die and do that much damage to an opponent ***minus their Armor Value (AV)***. Ranged weapons cannot be used in melee.
 
-Attacks that are ***impaired***, such as firing through cover or fighting while grappled, roll damage twice and deal the ***lowest result***.
+Attacks that are ***disadvantaged***, such as firing through cover or fighting while grappled, roll damage twice and deal the ***lowest result***.
 
-Similarly, attacks that are enhanced by a risky stunt or a helpless or vulnerable target roll a ***bonus damage die***. This is represented as +d6, +d8, etc. and is added to the normal damage dealt. Attacks against a completely helpless target always receive +d12. In other situations the arbiter will decide which die type to grant.
-- E.g. a bandit is being held down by two allies. The PC attacks with a longsword (d10) and is granted a +d12 bonus for the bandit being helpless. The PC rolls a 4 and a 7, for a total of 11 damage dealt.
+Similarly, attacks that are ***advantaged*** by a risky stunt or a vulnerable target roll damage twice and deal the ***highest result***. Attacks against a completely helpless target do not roll damage, and instead kill the target outright.
+- E.g. a bandit is being held down by an ally. The PC attacks with a longsword (d10) and is granted advantage for the bandit being grappled. The PC rolls a 4 and a 6, for a total of 6 damage dealt.
 
 ### Combat Maneuvers
-Any action that is not a simple action, attack, or spellcasting is a combat maneuver. Combat maneuvers are always risky, and the arbiter may ask for a save, opposed or not, to determine the outcome. Some examples are disarming or tripping an opponent, pushing them off a ledge, or attempting to grapple them. Depending on the maneuver, the PC doing the maneuver may grant their allies bonus damage against the foe. For example, if the PC successfully knocks an enemy prone, their allies may receive a +d6 bonus damage die against that enemy until they stand up.
+Any action that is not a simple action, attack, or spellcasting is a combat maneuver. Combat maneuvers are always risky, and the arbiter may ask for a save, opposed or not, to determine the outcome. Some examples are disarming or tripping an opponent, pushing them off a ledge, or attempting to grapple them. Depending on the maneuver, the PC doing the maneuver may grant their allies advantage against the foe. For example, if the PC successfully knocks an enemy prone, their allies may receive an advantaged attack against that enemy until they stand up.
 
 Other than blast damage attacks, combat maneuvers are generally the only way a group of individuals have a chance at damaging a detachment.
 ### Damage & Death
@@ -77,8 +77,6 @@ Some attacks can do DEX or WIL damage instead of STR damage, reducing those attr
 Attacks suitably large enough to affect all targets in the appropriate area. Damage is rolled separately for each target. If there is any doubt as to how many targets can be affected, roll the attack’s die.
 ### Critical Hits
 Rolling ***maximum damage*** on a weapon’s damage dice is a ***critical hit***. It bypasses all armor, and ***decreases the target’s AV by 1***. This decrease happens at the end of the round.
-
-Any bonus damage dice do not count towards a critical hit check - only the original damage dice do, e.g. attacking with a longsword (d10) +d8 bonus die, the PC rolls a 10 on the d10 and a 2 on the +d8. This counts as a critical hit.
 ### Armor
 If a creature takes damage while they’re wearing armor, the damage is ***reduced*** by their ***Armor Value (AV)***. Any damage above the AV reduces stamina. Humanoids can have a ***max of 4 AV*** normally - with magic items this can go up to 6 AV.
 
@@ -88,7 +86,7 @@ Wielding a shield allows you to sunder it, breaking it beyond repair, in order t
 ### Dual Wielding
 If dual-wielding a set of weapons, roll damage for both and choose which result to keep.
 ### Mounted Combat
-When mounted a PC gains a bonus damage die equal to their base weapon damage when in melee combat against a foe smaller than them. A flail wielding PC will do 2d8 total damage in melee. If a magic weapon does more than the standard d6 - d10 damage, the bonus damage die is equal to the damage of a basic similar weapon.
+When mounted a PC attacks with advantage when in melee combat against a foe smaller than them.
 
 A horse or similar mount is required to have this benefit.
 ### Worn Weapons
@@ -118,7 +116,7 @@ Running away from a dire situation always requires a successful ***DEX*** save, 
 |  5  | Reorienting Head Wound - Roll 1d6; 1-2: STR, 3-4: DEX, 5-6: WIL. Roll 3d6. If the total is higher than your current attribute score, take the new result. |
 |  6  |                                   Chronic Wound - Your wound seems to never heal. Permanently lose 2 stamina and 2 STR.                                   |
 |  7  |                                                              Shattered Leg - You lose a leg.                                                              |
-|  8  |                                                        Lost Eye - All ranged attacks are impaired.                                                        |
+|  8  |                                                    Lost Eye - All ranged attacks are at disadvantage.                                                     |
 |  9  |                                                              Severed Arm - You lose an arm.                                                               |
 | 10  |                        Doomed - You were meant to die. The next time you fail your save against critical damage you violently die.                        |
 
@@ -167,32 +165,14 @@ The party interacts with a location/feature. Dungeon delving, town/village adven
 ### Fatigue
 For each night the party skips making camp, each PC gains ***stress***. A party can travel or explore for three watches a day without getting fatigued. Each watch past three spent traveling or exploring results in a ***stress***.
 ## Advancement
-A PC increases in Level by gaining XP, as shown in the table below.
+As there are no levels, PCs advance in a more diegetic way. They can invest their coin in training to increase their stamina, purchase new equipment, find trainers and opportunities for new talents, partake in downtime activities, create new spells, and more. Some mechanical benefits are gained through these advancements, but the main focus is on the narrative and the world. The arbiter should work with the players to make sure that the advancements are meaningful and interesting. Below are some specific methods of advancement.
+### Increasing Stamina
+PCs can spend a week to increase their stamina by spending coin to pay teachers, schools, guilds, libraries, churches, etc. for training. This initially costs 1,000p and increases your stamina by 1d6. This cost ***doubles*** for each subsequent increase, and ***you cannot have more than 30 stamina***. Make sure to track how many times you have increased your stamina so you don't forget how much it costs to increase it again.
+### New Talents
+Talents are not earned easily; they must be hunted for. This can be done via downtime turns or any other way the arbiter decides. [Learning a Talent](downtime.md#learning-a-talent) covers the process in detail on how to learn a talent in downtime. The max amount of talents a PC can have is ***6*** - if you wish to learn a new talent after reaching this limit, you must first forget one of your current talents.
+### Improving Attributes
+PCs can spend a week trying to improve one of their attributes by tapping into the aether - the realm outside the mortal, where Chaos and Law fight their eternal war. To do so they permanently re-roll one attribute score using 3d6, keeping the result whether higher or lower. No attribute can be higher than 18.
 
-| Level | XP Needed |
-| :---: | :-------: |
-|   1   |     0     |
-|   2   |   2,000   |
-|   3   |   4,000   |
-|   4   |   8,000   |
-|   5   |  16,000   |
-|   6   |  32,000   |
-|   7   |  64,000   |
-|   8   |  125,000  |
-|   9   |  250,000  |
-|  10   |  500,000  |
-|  11+  | +250,000  |
-
-When a PC’s Level increases they:
-- From Level 1 to 10, pick one attribute to increase by 1. No attribute score can be increased above 18.
-- From Level 1 to 10, roll a number of d6s equal to your new level. If the rolled sum is greater than your current max stamina, take it as your new max. Otherwise, increase your max by 1. From Level 11 onwards you no longer roll, and instead gain 2 stamina per Level.
-  - E.g. Level 1 stamina is 3. Upon reaching Level 2, roll 2d6, and the sum is 7, which is now your new max stamina.
-  - E.g. Level 10 stamina is 40. Upon reaching Level 11, add 2 stamina for a new max stamina of 42.
-
-Talents are not earned by gaining Levels; they must be hunted for. This can be done via downtime turns or any other way the arbiter decides. 
-### Rewarding XP
-At the end of each session the arbiter rewards each character XP based on their share of the value of the non-magical treasure they brought back safely from adventures (1p = 1 XP). This is specifically for treasure found or payments received due to completing dangerous tasks. Trading profits do not count, nor does robbing citizens. Unless stated otherwise in the downtime turns section, PCs do not gain XP for income made in downtime turns. Mundane equipment does not count as treasure if looted from a defeated foe or found in a dungeon. The characters never gain XP for fighting or killing - no matter how dangerous the foe. Treasure is the only way.
-
-A PC also gains 1 XP per 1p of treasure they waste. Income from ventures other than adventuring cannot be wasted for XP.
-
-Wasting is any monetary transaction which is not: an investment, something which will give a return on value, either financially or through use, or a necessity. A meal, for example, is not waste, but a lavish banquet is. Gilding your armor or weapons is waste, buying a fancy set of clothes, donating to an institution anonymously, or buying a round of drinks are all examples of waste. Use this opportunity to flesh out your character and their personality based on how they throw their money around. The threshold for waste should also be determined based on the character's social class. A noble would need those fancy clothes to maintain their status, but a peasant would be wasting their money on them. The arbiter will decide what counts as waste for each character.
+This costs 2,000p per attempt, and represents the cost of materials and time spent attempting to navigate the aether.
+### New Spells
+The process for creating a new spell is detailed in [Magic & Spellcasting](magic-spellcasting.md#spell-creation).
