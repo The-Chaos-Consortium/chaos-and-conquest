@@ -58,13 +58,13 @@ Combat is played in ***rounds***. Each round:
 ### Attacks
 ***Attacks always hit***. Roll your weapon’s die and do that much damage to an opponent ***minus their Armor Value (AV)***. Ranged weapons cannot be used in melee.
 
-Attacks that are ***impaired***, such as firing through cover or fighting while grappled, roll damage twice and deal the ***lowest result***.
+Attacks that are ***disadvantaged***, such as firing through cover or fighting while grappled, roll damage twice and deal the ***lowest result***.
 
-Similarly, attacks that are enhanced by a risky stunt or a vulnerable target roll a ***bonus damage die***. This is an extra d6, represented as +d6, and is added to the normal damage dealt. Attacks against a completely helpless target do not roll damage, and instead kill the target outright.
-- E.g. a bandit is being held down by an ally. The PC attacks with a longsword (d10) and is granted a +d6 for the bandit being grappled. The PC rolls a 4 and a 6, for a total of 10 damage dealt.
+Similarly, attacks that are ***advantaged*** by a risky stunt or a vulnerable target roll damage twice and deal the ***highest result***. Attacks against a completely helpless target do not roll damage, and instead kill the target outright.
+- E.g. a bandit is being held down by an ally. The PC attacks with a longsword (d10) and is granted advantage for the bandit being grappled. The PC rolls a 4 and a 6, for a total of 6 damage dealt.
 
 ### Combat Maneuvers
-Any action that is not a simple action, attack, or spellcasting is a combat maneuver. Combat maneuvers are always risky, and the arbiter may ask for a save, opposed or not, to determine the outcome. Some examples are disarming or tripping an opponent, pushing them off a ledge, or attempting to grapple them. Depending on the maneuver, the PC doing the maneuver may grant their allies bonus damage against the foe. For example, if the PC successfully knocks an enemy prone, their allies may receive a +d6 bonus damage die against that enemy until they stand up.
+Any action that is not a simple action, attack, or spellcasting is a combat maneuver. Combat maneuvers are always risky, and the arbiter may ask for a save, opposed or not, to determine the outcome. Some examples are disarming or tripping an opponent, pushing them off a ledge, or attempting to grapple them. Depending on the maneuver, the PC doing the maneuver may grant their allies advantage against the foe. For example, if the PC successfully knocks an enemy prone, their allies may receive an advantaged attack against that enemy until they stand up.
 
 Other than blast damage attacks, combat maneuvers are generally the only way a group of individuals have a chance at damaging a detachment.
 ### Damage & Death
@@ -77,8 +77,6 @@ Some attacks can do DEX or WIL damage instead of STR damage, reducing those attr
 Attacks suitably large enough to affect all targets in the appropriate area. Damage is rolled separately for each target. If there is any doubt as to how many targets can be affected, roll the attack’s die.
 ### Critical Hits
 Rolling ***maximum damage*** on a weapon’s damage dice is a ***critical hit***. It bypasses all armor, and ***decreases the target’s AV by 1***. This decrease happens at the end of the round.
-
-Any bonus damage dice do not count towards a critical hit check - only the original damage dice do, e.g. attacking with a longsword (d10) +d6 bonus die, the PC rolls a 10 on the d10 and a 2 on the +d6. This counts as a critical hit.
 ### Armor
 If a creature takes damage while they’re wearing armor, the damage is ***reduced*** by their ***Armor Value (AV)***. Any damage above the AV reduces stamina. Humanoids can have a ***max of 4 AV*** normally - with magic items this can go up to 6 AV.
 
@@ -88,7 +86,7 @@ Wielding a shield allows you to sunder it, breaking it beyond repair, in order t
 ### Dual Wielding
 If dual-wielding a set of weapons, roll damage for both and choose which result to keep.
 ### Mounted Combat
-When mounted a PC gains a bonus damage die equal to their base weapon damage when in melee combat against a foe smaller than them. A flail wielding PC will do 2d8 total damage in melee. If a magic weapon does more than the standard d6 - d10 damage, the bonus damage die is equal to the damage of a basic similar weapon.
+When mounted a PC attacks with advantage when in melee combat against a foe smaller than them.
 
 A horse or similar mount is required to have this benefit.
 ### Worn Weapons
@@ -118,7 +116,7 @@ Running away from a dire situation always requires a successful ***DEX*** save, 
 |  5  | Reorienting Head Wound - Roll 1d6; 1-2: STR, 3-4: DEX, 5-6: WIL. Roll 3d6. If the total is higher than your current attribute score, take the new result. |
 |  6  |                                   Chronic Wound - Your wound seems to never heal. Permanently lose 2 stamina and 2 STR.                                   |
 |  7  |                                                              Shattered Leg - You lose a leg.                                                              |
-|  8  |                                                        Lost Eye - All ranged attacks are impaired.                                                        |
+|  8  |                                                    Lost Eye - All ranged attacks are at disadvantage.                                                     |
 |  9  |                                                              Severed Arm - You lose an arm.                                                               |
 | 10  |                        Doomed - You were meant to die. The next time you fail your save against critical damage you violently die.                        |
 

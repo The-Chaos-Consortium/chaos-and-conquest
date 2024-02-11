@@ -14,11 +14,11 @@ Detachments are described using the following statistics:
 - Possible ***attacks*** and/or ***special abilities*** the detachment might have. Generally based on their equipment.
 
 ### Attacks vs. Detachments
-- Individuals make impaired attacks unless they do blast damage.
+- Individuals make disadvantaged attacks unless they do blast damage.
 - Detachments cause blast damage to individuals.
 - Equal sized detachments do normal weapon damage
-- When combatants of different size-classes fight, the larger combatant gains +2 AV and a +d6 bonus damage die for each step higher above their opponent's size.
-- After a detachment’s stamina is reduced to 0, they take any remaining damage to their STR and must make a STR save. On a success the stamina is re-rolled, the detachment drops a size, and the survivors stay in the fight. On a failure the survivors must make a morale save - failure leading them to either flee or surrender. A detachment reduced to 0 STR is wiped out. The leader must roll a DEX save upon the detachment being reduced to 0 STR. If failed, the leader is killed.
+- When combatants of different size-classes fight, the larger combatant gains +2 AV and +d6 stamina for each step higher above their opponent's size. The larger combatant also attacks with advantage.
+- After a detachment’s stamina is reduced to 0, they take any remaining damage to their STR and must make a STR save. On a success the the detachment drops a size, the stamina is re-rolled and AV re-calculated with a lower bonus, and the survivors stay in the fight. On a failure the survivors must make a morale save - failure leading them to either flee or surrender. A detachment reduced to 0 STR is wiped out. The leader must roll a DEX save upon the detachment being reduced to 0 STR. If failed, the leader is killed.
 
 ## Quick Mass Combat
 For smaller scale battles the arbiter can use the above detachment rules to handle mass combat. They are perfectly usable for large scale battles as well if the group would like to actively play out the fight; while the above detachment sizes are recommended, the arbiter can use whatever detachment sizes they feel comfortable with, with large detachments being 5,000+ combatants in a Roman Legion for example.
