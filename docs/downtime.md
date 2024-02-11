@@ -46,6 +46,17 @@ To be able to learn a talent, the PC must have access to the proper resources ne
 | 7-9 | Partial progress has been made. The next attempt will automatically succeed. |
 | 2-6 | No progress has been made.                                                   |
 
+## Adding a spell to a spellbook
+PCs can spend their downtime turns to add a spell to an existing spellbook. A tracker should be set for one success, and the cost paid as mentioned in [Spell Creation](magic-spellcasting.md#spell-creation). The cost is only paid on the first attempt, and any successive attempts do not require payment.
+
+Roll 2d6. Each spellcaster apprentice (up to a maximum of 3) adds +1 to the roll, and having a proper workshop (wizard's tower, witch's den, alchemist's lab, etc.) adds +1 to the roll.
+
+| 2d6 |                                                     Result                                                     |
+| :-: | :------------------------------------------------------------------------------------------------------------: |
+| 10+ |                                        New spell is added to spellbook.                                        |
+| 7-9 | The process requires some sort of new material, offering, or completion of a task, before it can be continued. |
+| 2-6 |                                           No progress has been made.                                           |
+
 ## Expeditions
 An expedition is used to extract resources from or settle an area.
 

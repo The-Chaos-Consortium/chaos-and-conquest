@@ -1,112 +1,157 @@
 # Magic & Spellcasting
-## Grimoire
-Grimoires are heavy books made by powerful arcanists to keep the secrets to their recurrent use of spells. They are usually worth ***3m***, take up 2 slots, and may contain many spells.
+At its rawest form, magic is unbridled chaos. It is the manipulation of the very fabric of reality, and it can never be completely controlled. Individuals harness this chaos in many different ways - harnessing it through the power of their faith, the study of ancient tomes, the manipulation of the elements themselves, via a pact with an otherworldly being or daemon, or any other number of ways. These individuals are known by many titles - mages, wizards, sorcerers, warlocks, witches, priests, druids, alchemists, and many others.
 
-Grimoires will attract the attention of those who seek the arcane power within, and it is considered dangerous to display them openly.
+A spell is a specific descriptive or evocative wording, often accompanied by gestures, that harnesses the chaos of magic to produce an array of effects. Spells are often recorded in grimoires, scrolls, or holy books, and are cast by reading the words and performing the gestures.
+## Spellbooks
+Spellbooks are heavy tomes made by powerful spellcasters to keep the secrets to their recurrent use of spells. They are usually worth ***15m***, take up 2 slots, and may store ***6 spells***. These spellbooks are sometimes referred to as grimoires or holy books, depending on the caster’s background.
 
-Only the person who created the Grimoire can use it without many weeks spent decoding it. ***One week and 1m of inks per spell*** must be spent to decode another’s Grimoire and make it your own. You spend this time and cost deciphering, re-writing, making annotations, etc.
-## Scrolls
-A scroll is a spell infused in a piece of parchment and is destroyed after a single use. They are recovered from places like tombs, dungeons, manors, and can be copied permanently into a Grimoire.
+Spellbooks will attract the attention of those who seek the arcane power within, and it is considered dangerous to display them openly.
 
-You may copy spells found in Scrolls to your Grimoire. It costs ***10s*** for the inks and takes a ***day*** to complete. The Scroll is destroyed in the process.
+Only the person who created the spellbook can use it without many weeks spent decoding it. ***One week and 1m of inks per spell*** must be spent to decode another’s spellbook and make it your own. You spend this time and cost deciphering, re-writing, making annotations, etc.
+### Creating a Spellbook
+It is time-consuming and expensive. You will need a spell wording, ***10m*** in inks, as well as a blank book. It takes a ***month*** of undisturbed labor to create a spellbook.
+### Receiving a Spellbook
+Rather than creating a book of the arcane themselves, some individuals acquire their book from an institution - such as a Holy Order, Church, or Mage's Guild - that they are a member of. A PC must be in good standing with their institution in order to receive a spellbook, and will be expected to return it if they leave the institution. A spellbook received in this way will come with at least one spell, and may have more. The spells in the book will be determined by the institution and the PC's relationship with it.
+### Spell Creation
+All spellcasters are capable of creating new spells. This is a time intensive process fraught with danger, but the payoff can be immense. To learn a new spell, a character must first create the wording of the spell. A spell wording can be anything from a single word, like "Bolt", or a long and eloquent wording, such as "Blackmane's Cleansing Flame of Purity". The wording of the spell, the caster's talents, and the desired effect are used to determine a stamina cost for the spell. This means that the wording can be broad and costly but useful more frequently, like "Flames", or specific and cheaper but useful less frequently, like "Summon Arg, Daemon of the Aether". This process can be summarized as follows:
+1. Decide on a specific sphere of influence for the spells, such as: Summoning, Elemental Control, Necromancy, Protection and Banishment, Illusions, Information, Material Alterations, Mind Influence, or any other sphere that the player and arbiter agree on.
+2. Choose whether the wording is broad or specific.
+3. The wording can be the name and title of a summoned creature ("Baal, the Blood Drinker"), a description of its main use ("Identify Item"), or something named after the caster ("Blackmane's Fireball"). You could choose the name of an item or body part, or even after a main ingredient ("Dragon's Blood").
+4. Use the following wording oracle for inspiration if you are stuck, or the example spells list.
+5. Once you have the wording, eyeball it and make sure it feels right.
 
-You can create a scroll of a spell you have in your Grimoire by spending ***1m*** and taking a ***day*** to create it.
-## Creating a Grimoire
-It is time-consuming and expensive. You will need a single Scroll, ***2m*** in inks, as well as a blank book. It takes a ***Watch*** of undisturbed labor in the light of a full moon. Afterwards, you are exhausted and must take a full day of rest.
+After the wording is created, you can either create a new spellbook as described above, or add the spell to an existing spellbook. The cost to add to an existing spellbook is equal to 20m multiplied by the number of spells currently in the book (for example adding your 3rd spell would cost 40m). The process for adding a spell to a spellbook is described in the [downtime section](downtime.md#adding-a-spell-to-a-spellbook).
+### Spell Wording Oracle
+Roll four times on the below table, once per column, to use for either inspiration, an indication of the spell's purpose, or even directly as the spell's wording.
 
-The spell contained within the Scroll becomes the first recorded spell.
-## Holy Book
-Rather than creating a book of the arcane themselves, priests acquire a Holy Book from a Holy Order or Church that they are a member of. This Holy Book may not be acquired until ***Level 3***, and the PC must be in good standing with their Order in order to receive this benefit. Any PC may join an Order, regardless of background. The Holy book is usually worthless to anyone other than the priest, takes up 2 slots, and may contain many spells.
+| d20 | Forces and Forms | Elements and Essences | Constructs and Conduits | Mystical Actions |
+| :-: | :--------------: | :-------------------: | :---------------------: | :--------------: |
+|  1  |     Enthrall     |       Spiritus        |          Bolt           |     Perceive     |
+|  2  |    Transform     |        Gateway        |         Divine          |     Conjure      |
+|  3  |      Revive      |         Frost         |        Mystique         |     Discern      |
+|  4  |     Phantom      |         Terra         |         Potion          |     Manifest     |
+|  5  |       Bind       |         Soil          |          Dart           |     Deceive      |
+|  6  |      Bestow      |          End          |         Mantle          |      Imbue       |
+|  7  |      Globe       |         Fauna         |         Shroud          |    Transform     |
+|  8  |      Dream       |         Flora         |         Minion          |       Mend       |
+|  9  |      Burst       |         Alloy         |          Aegis          |      Forge       |
+| 10  |       Tide       |         Spark         |          Snare          |     Sanctify     |
+| 11  |       Beam       |       Detonate        |         Aquatic         |      Locate      |
+| 12  |      Remedy      |         Scar          |         Elixir          |     Conceal      |
+| 13  |      Drain       |      Manuscript       |         Insight         |      Defend      |
+| 14  |       Link       |         Vital         |         Emblem          |    Articulate    |
+| 15  |      Chant       |       Behemoth        |         Tongue          |     Extract      |
+| 16  |      Shield      |        Arcane         |         Ascent          |    Neutralize    |
+| 17  |      Origin      |        Eclipse        |          Lasso          |       Grip       |
+| 18  |      Aether      |         Swarm         |         Cavern          |      Morph       |
+| 19  |      Invoke      |        Essence        |         Sapling         |       Veil       |
+| 20  |       Fog        |          Gem          |         Terrain         |     Initiate     |
 
-The priest may only acquire spells from their Order and/or god(s) - they are unable to copy spells found in Scrolls into their Holy Book. Open display of one’s Holy Book tells others the priest’s Faction, and what Order the priest is a member of.
-
-Only someone of the same Order and Faction may cast spells from a Holy Book. If a PC changes Faction or faith, their old Holy Book becomes useless.
-
-A Holy Book starts with 3 spells relevant to the Order and Faction of the priest - a good starting list for a Lawful Order would be: ***Bless***, ***Heal***, and ***Spiritual Weapon***. Upon gaining further levels a priest may obtain more spells from their Order as the arbiter and setting allows.
-## Casting Spells
-***Any character*** can cast spells through Grimoires, Scrolls, and Holy Books (if same Faction and faith). To cast a spell, your character must hold a Grimoire, Scroll, or Holy book in one hand and read it aloud.
-
-When your character attempts to cast a spell, decide on the Power to cast it with. Power ranges from 1 to a maximum of 5. ***Casting a spell causes damage***, starting at 1 damage. This cost doubles for each tier of Power you cast at - 1 damage, 2 damage, 4 damage, 8 damage, 16 damage. Next you must make a WIL save; a success means the spell is cast and the chaos of magic is on your side; a failure means the spell is cast but the magic strains you and the PC gains ***stress***.
-
-A ***Scroll*** does not require a WIL save after casting - the codified chaos is easier to manage and cannot incur ***stress***.
-
-***Roll a number of d6 equal to the Power chosen***. The spell has an effect, which varies depending on the number of ***[DICE]*** invested, and the ***[SUM]*** of the rolled dice. Armor is no match for the wild chaos of magic; ***magic bypasses mundane armor***.
-
-If two or more [DICE] show the same number, ***something has gone very wrong***. Find out what happened looking at the spell’s [SUM] on the Mishaps Table.
-
-If you reduce yourself to 0 or less stamina, you take WIL damage and must make a WIL save against critical damage. Failing the WIL save means you ***die*** after the casting is completed. As you have burned your very essence in order to cast the spell, it is ***impossible*** for you to be resurrected - even by a god.
-## NPC Spellcasters
-Non retainer NPCs do not follow the above rules for spellcasting. Each NPC has a ***Power Budget*** that they can spend to cast spells. NPCs auto succeed on their spellcasting, and only spend from their Power Budget to cast. Once spent, a NPC regains their Power Budget after a full day’s rest.
-
-The size of the Power Budget should relate to how powerful of a spellcaster the NPC is: weak, inexperienced casters should have up to 3, more hardened ones can have around 6, and powerful mages can go all the way to 10.
-
-Truly legendary spellcasters might go above that or even have an unlimited Power Budget. Be mindful that they are still susceptible to Mishaps, so even careless NPCs will keep most castings to 1 or 2 Power, only going above if truly in need.
-## Mishaps Table
-The arbiter can and should adapt these results according to the spell and character’s Background, adding color to the mechanical effects.
-
-| Sum |                                                                                                                                                                                  Description                                                                                                                                                                                  |
-| :-: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  2  |                                                                                                                                           You cannot Cast Spells for [DICE] hours, and any attempts to manipulate magic will fail.                                                                                                                                            |
-|  3  |                                                                                                                                                   For the next 24 hours, when Casting Spells you gain stress on every cast.                                                                                                                                                   |
-|  4  |                                                                                                                                                There is a chain reaction to the spell; the arbiter will tell how. Gain stress.                                                                                                                                                |
-|  5  |                                                                                                                                                 The Spell’s effects are reversed; the arbiter will tell you how. Gain stress.                                                                                                                                                 |
-|  6  |                                                                                                                       Any objects in your Inventory that are not made of metal instantly combust. From now on you are immune to fire for short bursts.                                                                                                                        |
-|  7  |                                                                                                                                                         Caster cannot lie and thinks out loud until the next sunrise.                                                                                                                                                         |
-|  8  |                                                                                                                                                             Caster and the target(s) of the spell switch places.                                                                                                                                                              |
-|  9  |                                                                                                                 The spell turns your skin a dark shade of purple, and makes you invisible in the moonlight. Your eyes however glow a bright yellow at night.                                                                                                                  |
-| 10  |                                                                           You become insubstantial for [DICE] hours as your spirit leaves your body, which remains unconscious. You can fly and pass through walls, but not touch anything. Also, no one can see or hear you through mundane means.                                                                           |
-| 11  |                                                                                                    You suffer horrible arcane burns; lose [DICE] WIL. From now on you can add +1 Power to a Spell (use a die of a different color). If it results in a 4-6 you lose 1 WIL.                                                                                                    |
-| 12  | The spell backfires; you lose 1 Inventory Slot and permanently fill it with a magical aura that surrounds you and provides 1 AV. You may choose to have the aura active or not. When active it is visible to the naked eye. It can only be regained after a full day’s rest if lost due to receiving a critical hit, and takes priority over normal armor when AV is reduced. |
-| 13  |                                                                                                                             Your Grimoire is damaged and unusable. Creating a new Grimoire from its remains restores the original spells as well.                                                                                                                             |
-| 14  |                                                                                                                           The spell causes [DICE] magical tumors to fill their respective Slots. They can only be removed by a specialized healer.                                                                                                                            |
-| 15  |                                                     Arcane energies wreck your body as a piece of your soul is transferred into your Grimoire. You lose half your WIL (rounded down). Your Grimoire now appears in any form you wish and takes no Slots. It cannot be destroyed except by your own death, and vice-versa.                                                     |
-| 16  |                                       You permanently lose [DICE] STR as the spell interacts with nearby plant life, which rips out of the earth and fuses against your skin. You have +1 AV which can only be regained after a full day’s rest, although fire does +d6 Bonus Damage against you. You can only feed by photosynthesis.                                        |
-| 17  |                                                                                          Large hideous wings sprout from your back, ripping through whatever you are wearing. You gain [DICE] STR and can fly. You cannot wear armor or a backpack, and have 5 less Inventory Slots.                                                                                          |
-| 18  |                                                        One of your hands becomes fused with your Grimoire. You can never let go of it, however it only takes up 1 Inventory Slot. You can fire a bolt of arcane energy from that hand that deals d6 Damage. If your hand is cut off, you can never Cast Spells again.                                                         |
-| 19  |                                                                                 An extra-planar deity senses your arcane power (ask the arbiter which deity). You are now linked, and can call on it for aid. It can likewise ask you for help, and punish you for non-compliance. Good luck.                                                                                 |
-| 20  |                                                                                                                         Caster becomes under review by the Council of Numbers. A temporal scribe will follow them for a week, silently taking notes.                                                                                                                          |
-| 21+ |                                                                                                       Your body wracks with arcane power. Unable to control it, you explode in a burst of energy, dying and dealing [SUM] damage to everything close, within your zone.                                                                                                       |
-
-## List of Spells
+### Example Spells
 Here are some example spells you can use in your game, but players and arbiters are encouraged to come up with their own spells.
 
-Example spells. Roll d66 on this table for a random Scroll as loot. If the spell isn’t instant and it doesn’t have a specified duration, it lasts 1 Turn.
+Example spells. Roll d66 on this table for a random Scroll as loot.
 
-| d66&nbsp;&nbsp; |    Spell Name     |                                                                                                                Effect                                                                                                                 |
-| :-------------: | :---------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|      1 • 1      |   Animate Dead    |                                                                                [DICE] Nearby skeletons rise and follow your commands for [DICE] Turns.                                                                                |
-|      1 • 2      |    Arcane Eye     |                                                                  You can see through a magical floating eyeball that flies around at your command for [DICE] Turns.                                                                   |
-|      1 • 3      | Auditory Illusion |                                                                      You create up to [DICE] illusory sounds that seem to come from a direction of your choice.                                                                       |
-|      1 • 4      |   Be Understood   |                                                                           Make your meaning clear to [DICE] creatures of another species for [DICE] Turns.                                                                            |
-|      1 • 5      |    Beast Form     |                                          You and your possessions transform into a mundane animal. You can perform [DICE] actions intrinsically related to the chosen animal during a Watch.                                          |
-|      1 • 6      |       Bless       |                                                                                      [DICE] Close targets receive advantage on their next save.                                                                                       |
-|      2 • 1      |       Bolt        |                                                                                          Deal [SUM] + [DICE] damage to a Far Away creature.                                                                                           |
-|      2 • 2      |       Charm       |                                                                                A nearby target must WIL Save or treat you as a friend for [SUM] Turns.                                                                                |
-|      2 • 3      |   Clairvoyance    |                                                          Once per day you can see through the eyes of a creature you touched since your last night’s rest for [DICE] Turns.                                                           |
-|      2 • 4      |      Command      |                                                           One target that can hear and comprehend you must WIL Save or obey a command with up to [SUM] words that you give.                                                           |
-|      2 • 5      |  Control Weather  |                                                                       You may alter the type of weather for [SUM] minutes, but you do not otherwise control it.                                                                       |
-|      2 • 6      |    Create Pit     |            A pit 3x [SUM]ft. deep and 9ft. in diameter appears at the point you touch for [DICE] hours. The sides are smooth and difficult to climb. Anything in the pit when the duration expires is summarily disgorged.            |
-|      3 • 1      |     Darkness      |                                                                            Create a [SUM] x 2ft. diameter sphere of pure darkness nearby for [DICE] Turns.                                                                            |
-|      3 • 2      |   Detect Magic    |                                                                                         Detect and understand [DICE] nearby magical effects.                                                                                          |
-|      3 • 3      |    Earthquake     |                                                                     The ground begins shaking violently for [DICE] Turns. Structures may be damaged or collapse.                                                                      |
-|      3 • 4      |       Fear        |                                                                                         [DICE] close creatures must WIL Save or try to flee.                                                                                          |
-|      3 • 5      |     Fireball      |                                                                        Shoot a fireball nearby. Deal [SUM] blast damage to all creatures close to the impact.                                                                         |
-|      3 • 6      |  Freezing Touch   |                                                                    Your hands are charged with negative energy. The next target you touch suffers 2x[SUM] damage.                                                                     |
-|      4 • 1      |      Grease       |                                                                               Cover a Close area in slippery, flammable grease. STR Save or fall prone.                                                                               |
-|      4 • 2      |       Greed       |                                                               [DICE] creatures must WIL Save or develop an overwhelming urge to possess a visible item of your choice.                                                                |
-|      4 • 3      |       Grow        |                                              Grow a close creature to [DICE] + 1 times its original size for 1 Turn. If the target is unwilling they must STR save to avoid the effect.                                               |
-|      4 • 4      |       Haste       |                                                                           [DICE] Close targets can make an additional move and action in their next Round.                                                                            |
-|      4 • 5      |       Heal        |                                          A close creature may regain [SUM] STR or stamina - STR being regained first, heal any physical affliction, and remove one stress. A creature can only be healed once per day this way.                                          |
-|      4 • 6      |   Invisibility    |                                              Make a close creature invisible for [DICE] Turns. Any movement reduces the duration by 1 Turn. Any offensive action ends the invisibility.                                               |
-|      5 • 1      |       Leap        |                                                                               For [DICE] Rounds a Close target can jump up to 10ft. high as their move.                                                                               |
-|      5 • 2      |       Light       | Force [DICE] close creatures to make a WIL Save or become stunned for d4 rounds. Alternately, create light as bright as a torch for [SUM] Turns. The spell may be cast upon an object, in which case the light moves with the object. |
-|      5 • 3      |    Magic Rope     |                                                                        You summon a magic rope of 2x [SUM]ft. long. It obeys one command and lasts for 1 Turn.                                                                        |
-|      5 • 4      |    Miniaturize    |                                               [DICE] Close targets are reduced to the size of a mouse for 1 Turn. If the targets are unwilling they must STR save to avoid the effect.                                                |
-|      5 • 5      |   Mirror Image    |                                                                                   [DICE] illusory duplicates of yourself appear under your control.                                                                                   |
-|      5 • 6      |      Pacify       |                                                                                [DICE] creatures nearby must WIL Save or have an aversion to violence.                                                                                 |
-|      6 • 1      |     Read Mind     |                                                                               You can hear [SUM] surface thoughts of nearby creatures for [DICE] Turns.                                                                               |
-|      6 • 2      |      Shield       |                                                                                A close creature is protected against [SUM] mundane Damage for 1 Turn.                                                                                 |
-|      6 • 3      |       Sleep       |                                                                                  [DICE] Nearby creatures make a WIL Save or fall into a light sleep.                                                                                  |
-|      6 • 4      | Spiritual Weapon  |          A weapon you’re holding shines like a torch for [DICE] Turns. The first attack made with it receives +d12 Bonus Damage, and the weapon is considered magical when fighting creatures resistant to mundane weapons.           |
-|      6 • 5      |       Ward        |                                                      A silver 50ft. ring appears on the ground nearby. [SUM] creatures of a chosen species cannot cross it during [DICE] Turns.                                                       |
-|      6 • 6      |        Web        |                                                                       Fills a close area with sticky web for [DICE] Turns. DEX Save or get caught in the webs.                                                                        |
+|  d66  | Spell Name        |
+| :---: | ----------------- |
+| 1 • 1 | Animate Dead      |
+| 1 • 2 | Arcane Eye        |
+| 1 • 3 | Auditory Illusion |
+| 1 • 4 | Be Understood     |
+| 1 • 5 | Beast Form        |
+| 1 • 6 | Bless             |
+| 2 • 1 | Bolt              |
+| 2 • 2 | Charm             |
+| 2 • 3 | Clairvoyance      |
+| 2 • 4 | Command           |
+| 2 • 5 | Control Weather   |
+| 2 • 6 | Create Pit        |
+| 3 • 1 | Darkness          |
+| 3 • 2 | Detect Magic      |
+| 3 • 3 | Earthquake        |
+| 3 • 4 | Fear              |
+| 3 • 5 | Fireball          |
+| 3 • 6 | Freezing Touch    |
+| 4 • 1 | Grease            |
+| 4 • 2 | Greed             |
+| 4 • 3 | Grow              |
+| 4 • 4 | Haste             |
+| 4 • 5 | Heal              |
+| 4 • 6 | Invisibility      |
+| 5 • 1 | Leap              |
+| 5 • 2 | Light             |
+| 5 • 3 | Magic Rope        |
+| 5 • 4 | Miniaturize       |
+| 5 • 5 | Mirror Image      |
+| 5 • 6 | Pacify            |
+| 6 • 1 | Read Mind         |
+| 6 • 2 | Shield            |
+| 6 • 3 | Sleep             |
+| 6 • 4 | Spiritual Weapon  |
+| 6 • 5 | Ward              |
+| 6 • 6 | Web               |
+
+## Scrolls
+A scroll is a spell infused in a piece of parchment and is destroyed after a single use. They are a formalized way of casting spells, and are often used by those who cannot cast spells themselves. With a scroll everything is set - the effect, its parameters, and the cost. They are recovered from places like tombs, dungeons, manors, and can be made by a spellcaster.
+
+You can create a scroll of a spell you have in your spellbook by spending ***2m*** and taking a ***day*** to create it. You must define the spell's specific effect, parameters, and cost to cast. Creating a scroll incurs a cost of double the spell’s cost to cast, and you cannot create a scroll if you do not have the stamina equal to the maximum cost of the spell.
+## Casting Spells
+***Any character*** can cast spells through spellbooks or scrolls. To cast a spell, your character must hold a spellbook or scroll in one hand and read it aloud.
+
+Spells are cast through a negotiation between the caster and the arbiter. The wording of the spell, the caster's talents, and the desired effect are used to determine a stamina cost for the spell. The PC says what they want the spell to do, and the arbiter suggests the cost. This cost can be lowered via drawbacks and/or ingredients. The further away the desired effect is from the wording, the higher the cost. A precisely worded spell will have a lower cost when used appropriately. The arbiter has the final say on the cost of the spell.
+
+A spellcaster cannot attempt a spell with an ***initial*** maximum cost higher than their total stamina. If the cost of a spell is d6 or higher, the caster must make a WIL save or have the cost doubled (which could damage their STR and be potentially lethal). The below table shows cost guidelines based on magnitude of the effect.
+### Spell Cost
+| Cost | Magnitude                                                                                                                                                                                 |
+| :--: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  0   | **Zero**, trivial effect, any simple effect boosted by a limiting condition.                                                                                                              |
+|  1   | **Minor**, can be achieved without magic. Example: minor harming or healing (d6), illumination, unlocking, reading a foreign language.                                                    |
+|  2   | **Standard**, just beyond what is possible without magic. Example: generating a protective force field, breathing water, light telekinesis, invisibility.                                 |
+|  d6  | **Major**, a major breach of natural law. Example: teleporting, animating skeletons, locating lost things/beings, dispelling, removing an affliction.                                     |
+| 2d6  | **Potent**, involving significant manipulation of natural forces or extraordinary abilities beyond conventional limits. Example: regenerating a lost limb, modifying a creature's traits. |
+| 3d6  | **Mythic**, use of raw power altering the word or its inhabitants in a god-like way. Example: resurrection, changing the weather, stopping time, petrification, cloning.                  |
+|  +   | **Costly**. Peripheral to talent or wording. Extra duration, range, effect area, victims, damage. No save.                                                                                |
+|  −   | **Cheaper**. Very close to talent and/or wording. Rare/costly ingredients. Bad side effects for the caster. WIL save (fail negates). Extra casting time. Time or place requirements.      |
+
+### Magic Interference & Healing
+Magic interference is caused when healing is used to replenish what it expends, like casting a Heal spell on yourself. The caster must make a WIL save for nothing to happen. Failure requires gaining d6 corruption, and then a roll on the corruption table.
+
+Habitual casters of spells - those with spellbooks of their own - are more susceptible to magical interference. Anytime they are healed by magic, regardless of who casts the spell or whether it is a potion or another form of magical healing, they must make a WIL save as described above.
+### Corruption
+Corruption is the influence of chaos made manifest within an individual. This can be represented by physical mutations, madness, despair, or any other number of effects. Characters track their current corruption level, which starts at 0, on their character sheet. There are many ways in which a character can gain corruption, but the most common is through the casting of spells. When a character gains corruption they have the ***option*** of making a WIL save. A failure means that the character's corruption has had an effect on them, the gravity of which is determined by a roll on the corruption table. The character's corruption level is then reset to 0. A successful save means there is no effect, and the character's corruption level is reduced by d6. The character can also choose to not make the save, provided their corruption level is not too high. The character can then not make a save until their corruption has increased further.
+
+At a corruption level of ***7 or higher***, the character is required to make a WIL save. If a character's corruption level is greater than their WIL+3, they are considered to have been lost to corruption. Roll a new character.
+
+A high corruption can possibly be beneficial, as some creatures, objects, or places react to high corruption.
+### Corrupting Magic
+A spellcaster has the option to pay for spells in corruption instead of stamina. The cost of the spell must be randomized, meaning a d6 or higher. The same rules apply for when a caster must make a WIL save. A spellcaster who is caught using corrupting magic will be treated as an aberration by all but the most corrupted of individuals, or followers of Chaos. The caster should expect to be hunted by witchfinders, inquisitors, and other such individuals. Some creatures and entities of Chaos may seek out corrupted individuals for their own purposes.
+### Corruption Table
+Roll a d6 + your current corruption level to determine the effect. Max corruption level before being lost to corruption is equal to WIL+3.
+
+| Sum | Corruption Effect                                                                                                                                                                      |
+| :-: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  2  | Temporary confusion and disorientation, lasting for a few hours.                                                                                                                       |
+|  3  | Strange whispers and hallucinations plague you for 24 hours, causing distraction and paranoia.                                                                                         |
+|  4  | Uncontrollable outbursts of chaotic energy surge through your body, causing random minor magical effects. Lasts 24 hours.                                                              |
+|  5  | Your physical appearance briefly distorts and shifts, causing you to appear monstrous or grotesque for a short period of time. Lasts 24 hours.                                         |
+|  6  | A surge of chaotic energy causes minor mutations, such as odd growths or changes in skin color. These mutations are painful but temporary, lasting for a few days before disappearing. |
+|  7  | You experience vivid nightmares and disturbing visions every time you sleep, making rest difficult and leaving them fatigued upon waking. These nightmares persist for d6 weeks.       |
+|  8  | Your mind becomes fragmented, causing sporadic episodes of amnesia and disassociation. You may forget recent events or even entire days of your life. Lasts d6 weeks.                  |
+|  9  | Strange magical fluctuations surround you, causing minor disturbances in nearby magic and technology. These disturbances persist for d6 weeks.                                         |
+| 10  | Your body undergoes a significant physical transformation, resulting in a permanent alteration of your appearance or physiology. This transformation may be unsettling or disabling.   |
+| 11  | Chaotic energy seeps into your mind, causing you to experience erratic mood swings and irrational behavior. These mental disturbances are permanent and may lead to social alienation. |
+| 12  | Chaotic energy infuses your voice, allowing you to cast spells through sheer force of will without the need for verbal incantations. Permanent.                                        |
+| 13  | You becomes a magnet for malevolent entities and dark forces, attracting the attention of powerful beings from beyond the mortal realm. Permanent.                                     |
+| 14  | Your soul becomes tainted by chaotic energies, granting you the ability to perceive and manipulate the flow of magic with greater ease. Permanent.                                     |
+| 15  | You gain the ability to temporarily channel chaotic energies, allowing you to unleash devastating bursts of raw magical power. Permanent.                                              |
+| 16  | Your body becomes infused with chaotic energy, granting you increased resilience and vitality. Permanent.                                                                              |
+| 17  | Your connection to the realm of chaos deepens, granting you insight into its mysteries and secrets. Permanent.                                                                         |
+| 18  | You gain the ability to manipulate chaos magic with finesse, allowing you to bend reality to your will with greater precision. Permanent.                                              |
+| 19  | Your chaotic aura becomes so potent that it disrupts the flow of magic around you, causing spells cast nearby to become unstable and unpredictable. Permanent.                         |
+| 20  | You becomes a beacon of chaos, drawing chaotic beings and phenomena to you like moths to a flame. Permanent.                                                                           |
+| 21  | You gains resistance to chaotic influences, allowing you to maintain your sanity and free will in the face of overwhelming chaos. Permanent.                                           |
+| 22+ | You have become a daemon prince of chaos, and have been lost to the aether. You will reek havoc on the mortal plain... You have damned us all.                                         |
+
+The arbiter should feel free to modify the effects of corruption to better fit the campaign and the character's background, or even create your own corruption effects table.
+## NPC Spellcasters
+NPC spellcasters follow the same rules as PCs. The arbiter should give them one or more spell wordings depending on their background and what makes sense. Certain spellcasters, or even non spellcasting NPCs, may have one or more scrolls in their possession. Just as PCs lose stamina, so do NPCs.
