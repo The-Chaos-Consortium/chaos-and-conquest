@@ -92,6 +92,7 @@ PCs can acquire specific items for cheaper prices than using ***Supply***. Doing
 |   Scattergun (Flintlock, Wheellock)    |          d6 dmg, blast, two hands, loud           |   3   |  10m   |     200s     |   2,400p   |   5    |
 |                  Ammo                  |                     see Ammo                      |   1   |   5s   |      5s      |    60p     |   2    |
 |              Flask of Oil              | d8 dmg for two rounds if target is doused and lit |   1   | Supply |      -       |     -      |   2    |
+|               Holy Water               | undead take d8 dmg if doused in it, bypassing AV  |   1   |   1m   |     20s      |    240p    |   3    |
 
 |        Armor         |                                  Traits                                  | Slots | Price | in shillings | in pennies | Rarity |
 | :------------------: | :----------------------------------------------------------------------: | :---: | :---: | :----------: | :--------: | :----: |
