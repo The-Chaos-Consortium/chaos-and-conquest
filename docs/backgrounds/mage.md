@@ -7,7 +7,7 @@ All you’ve ever heard is that magic is the greatest subject in the world… or
 - A cloak with magical emblems so you look the part - 0 slots
 - A staff - d6 dmg
 - Books on magical theory - 1 slot
-- Grimoire - 2 slots, 1 random spell
+- Grimoire - 2 slots, 1 spell
 
 ***Talents***: Arcane, Research, Scribing
 ## (14) Warlock
@@ -16,7 +16,7 @@ You thought it was smart to make a deal with a being from another dimension… t
 ***Equipment***
 - Eyes that glow an unnatural color and grant night vision - 1 slot
 - Skull of a daemon - 0 slots
-- Grimoire - 2 slots, 1 random spell
+- Grimoire - 2 slots, 1 spell
 
 ***Talents***: Arcane, Rituals, Bargaining
 ## (15) Alchemist
@@ -25,7 +25,7 @@ All things pass from one form to another, ice to water, water to steam, bodies t
 ***Equipment***
 - Small chest containing an alembic, portal athanor and various dishes, bottles, vials and raw materials.
 - Tonic of Health
-- Grimoire - 2 slots, 1 random spell
+- Grimoire - 2 slots, 1 spell
 
 ***Talents***: Arcane, Alchemy, Perseverance
 ## (16) Witch
@@ -34,6 +34,6 @@ You hold the wisdom that has been passed down through generations to aid and pro
 ***Equipment***
 - Candles, herbs, chalk, needles
 - An animal familiar with an ironic or absurd name - 1d6 stamina, 6 STR, 10 DEX, 10 WIL, 7 ML
-- Grimoire - 2 slots, 1 random spell
+- Grimoire - 2 slots, 1 spell
 
 ***Talents***: Arcane, Potions, Divination
