@@ -109,7 +109,7 @@ A spellcaster cannot attempt a spell with an ***initial*** maximum cost higher t
 |  2   | **Standard**, just beyond what is possible without magic. Example: generating a protective force field, breathing water, light telekinesis, invisibility.                                 |
 |  d6  | **Major**, a major breach of natural law. Example: teleporting, animating skeletons, locating lost things/beings, dispelling, removing an affliction.                                     |
 | 2d6  | **Potent**, involving significant manipulation of natural forces or extraordinary abilities beyond conventional limits. Example: regenerating a lost limb, modifying a creature's traits. |
-| 3d6  | **Mythic**, use of raw power altering the word or its inhabitants in a god-like way. Example: resurrection, changing the weather, stopping time, petrification, cloning.                  |
+| 3d6  | **Mythic**, use of raw power altering the world or its inhabitants in a god-like way. Example: resurrection, changing the weather, stopping time, petrification, cloning.                  |
 |  +   | **Costly**. Peripheral to talent or wording. Extra duration, range, effect area, victims, damage. No save.                                                                                |
 |  −   | **Cheaper**. Very close to talent and/or wording. Rare/costly ingredients. Bad side effects for the caster. WIL save (fail negates). Extra casting time. Time or place requirements.      |
 
