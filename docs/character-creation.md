@@ -18,7 +18,17 @@ PCs start with ***two Supplies*** (see [Equipment](equipment.md#supply)), a ***t
 Either, roll a ***d20*** to randomly [determine a background](backgrounds/README.md), or pick a specific background below from the archetype you wish to follow.
 ## 4. Name & Age
 Name your character. Pick an age no younger than 18, or roll 2d10 + 16 for a random age. Choose a sex for your PC.
-## 5. Traits
+## 5. Faction
+There is a constant cosmic war between the forces of ***Chaos***, ***Law***, and the ***Balance*** between them. Chaos and Law are neither good or evil - they are beyond such human concepts. Without the Balance, the equilibrium would be tipped, and the universe would be threatened with extinction.
+### Chaos
+Chaos is ***freedom*** and ***randomness***, ***creativity*** and ***art***. Chaos is in constant struggle with Law, which is seen as a shackle against freedom. Followers of Chaos believe in chance and that there is no innate order to life.
+### Law
+Law is ***stability*** and ***structure*** in nature, ***justice*** and ***morality*** in the world. Chaos is seen as an aberration - pure entropy that would destroy the world. Law often upholds the Balance - but not always.
+### Balance
+The Balance states that Chaos and Law must be ***equal forces***. Without Chaos there would be no probability, new creations, or chance. Life would stagnate and become a static wasteland. Without Law life would be an unformed infinity of raw Chaotic probability. There would be no form or structure, and all natural laws would cease to exist.
+### Your Choice
+You must choose which Faction you follow - ***Chaos***, ***Law***, or ***Balance***. This choice will decide which people and creatures will generally treat you as an ally, and who will treat you as an enemy. Do not publicly reveal your Faction unless you are willing to face the consequences - people will generally not reveal this choice to anyone other than close friends, allies, or family.
+## 6. Traits
 Create or roll the rest of your PC's traits, such as their physique, face, skin, hair, clothing, virtue, vice, speech, and misfortune, using the following tables.
 ### Physique
 |              |             |                |              |
@@ -92,13 +102,3 @@ Create or roll the rest of your PC's traits, such as their physique, face, skin,
 | 3. Blackmailed | 8. Discredited | 13. Kidnapped | 18. Replaced  |
 |  4. Condemned  |  9. Disowned   | 14. Mutilated |  19. Robbed   |
 |   5. Cursed    |   10. Exiled   |   15. Poor    | 20. Suspected |
-## 6. Faction
-There is a constant cosmic war between the forces of ***Chaos***, ***Law***, and the ***Balance*** between them. Chaos and Law are neither good or evil - they are beyond such human concepts. Without the Balance, the equilibrium would be tipped, and the universe would be threatened with extinction.
-### Chaos
-Chaos is ***freedom*** and ***randomness***, ***creativity*** and ***art***. Chaos is in constant struggle with Law, which is seen as a shackle against freedom. Followers of Chaos believe in chance and that there is no innate order to life.
-### Law
-Law is ***stability*** and ***structure*** in nature, ***justice*** and ***morality*** in the world. Chaos is seen as an aberration - pure entropy that would destroy the world. Law often upholds the Balance - but not always.
-### Balance
-The Balance states that Chaos and Law must be ***equal forces***. Without Chaos there would be no probability, new creations, or chance. Life would stagnate and become a static wasteland. Without Law life would be an unformed infinity of raw Chaotic probability. There would be no form or structure, and all natural laws would cease to exist.
-### Your Choice
-You must choose which Faction you follow - ***Chaos***, ***Law***, or ***Balance***. This choice will decide which people and creatures will generally treat you as an ally, and who will treat you as an enemy. Do not publicly reveal your Faction unless you are willing to face the consequences - people will generally not reveal this choice to anyone other than close friends, allies, or family.
