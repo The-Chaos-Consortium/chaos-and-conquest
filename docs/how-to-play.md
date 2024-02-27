@@ -102,7 +102,7 @@ Movement in combat is handled using abstract zones. At the start of combat the a
 
 Movement within a zone is free - there are no restrictions on singular zone movement. Moving to an adjoining zone will use your movement; you may spend your action to move to a second zone. Creatures that share a zone can engage in melee combat, or any other physical interaction. As long as a creature has not yet been engaged in melee combat they are free to make ranged attacks.
 ### Disengage
-If a PC wishes to move away when engaged in a melee with one or more enemies they must make a successful ***DEX*** save. If the save is failed, you must choose to either be stuck in melee and lose your movement, or the enemy is granted a free attack before your movement. If an ally is also engaged in the same melee, or an action is used to move away carefully, no ***DEX*** save is required.
+If a PC wishes to move away when engaged in a melee with one or more enemies they must make a successful ***DEX*** save. If the save is failed, you must choose to either be stuck in melee and lose your movement, or the enemy is granted a free attack before your movement. If an action is used to move away carefully, no ***DEX*** save is required.
 ### Retreat
 Running away from a dire situation always requires a successful ***DEX*** save, as well as a safe destination to run to.
 ### Scars
