@@ -122,11 +122,11 @@ Corruption is the influence of chaos made manifest within an individual. This ca
 
 At a corruption of ***7 or higher***, the character is required to make a WIL save. If a character's corruption is greater than their WIL+3, they are considered to have been lost to corruption. Roll a new character.
 
-A high corruption can possibly be beneficial, as some creatures, objects, or places react to high corruption.
+A high corruption can possibly be beneficial, as some creatures, objects, or places react to high corruption. ***The max corruption a PC can have before being lost is equal to WIL+3***.
 ### Corrupting Magic
 A spellcaster has the option to pay for spells in corruption instead of stamina. The cost of the spell must be randomized, meaning a d6 or higher. The same rules apply for when a caster must make a WIL save. A spellcaster who is caught using corrupting magic will be treated as an aberration by all but the most corrupted of individuals, or followers of Chaos. The caster should expect to be hunted by witchfinders, inquisitors, and other such individuals. Some creatures and entities of Chaos may seek out corrupted individuals for their own purposes.
 ### Corruption Table
-Roll a d6 + your current corruption to determine the effect. Max corruption before being lost is equal to WIL+3.
+Roll a d6 + your current corruption to determine the effect.
 
 | Sum | Corruption Effect                                                                                                                                                                      |
 | :-: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
