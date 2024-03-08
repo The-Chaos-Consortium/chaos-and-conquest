@@ -12,7 +12,7 @@ When the arbiter unveils details, it's a safe assumption that there's more valua
 
 Eventually, you'll encounter a barrier obstructing your path to the coveted treasure.
 ### Communication
-If feasible, taking your way through problems is typically the safest approach. Utilize dialogue as a tool to extract information from NPCs, understand mutual assistance opportunities, and potentially identify vulnerabilities in case situations take a turn for the worse.
+If feasible, talking your way through problems is typically the safest approach. Utilize dialogue as a tool to extract information from NPCs, understand mutual assistance opportunities, and potentially identify vulnerabilities in case situations take a turn for the worse.
 ### Stealth
 If diplomacy falls short, opting for stealth or alternative methods to bypass obstacles becomes a prudent secondary strategy. This may involve diverting attention, pilfering a key, or revisiting the challenge later. With careful planning, drawing your sword might not even be necessary.
 ### Combat
