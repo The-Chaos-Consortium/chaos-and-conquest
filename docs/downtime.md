@@ -81,21 +81,17 @@ Once an expedition has been deployed, roll 2d6. Each additional mercenary lance 
 | 7-9 | The expedition runs into a complication that must be dealt with before the area can be secured, such as encountering a monster lair, dispute with the locals, or supply route collapse. |
 | 2-6 | The expedition fails to secure the area.                                                                                                                                                |
 
-When securing an area, mercenaries are paid battle wages. In addition, each lance needs 50 supplies a month, as well as a reliable supply route to transport said provisions.
-
-Supplies cost 3 shillings for 3 day's worth of food, water, and other sundries.
+When securing an area, mercenaries are paid battle wages. In addition there must be a reliable supply route to transport provisions.
 
 Once an area is secured, mercenaries can set up and hold a base camp.
 
-While holding a base camp, mercenaries are paid regular wages, and only need 25 supplies per lance a month. A base camp can be held for six downtime turns, after which the mercenaries will begin making morale rolls each downtime turn to determine if they continue to hold the area.
+While holding a base camp, mercenaries are paid regular wages. A base camp can be held for six downtime turns, after which the mercenaries will begin making morale rolls each downtime turn to determine if they continue to hold the area.
 
 Once a base camp has been established, the area can be surveyed, which requires a surveyor. Surveying an area takes one downtime turn and will reveal all the resources in an area, as well as any hidden features.
 
 Once an area has been surveyed, labor efforts such as extracting resources or building estates can occur, so long as the base camp continues to hold.
 
-One laborer can extract 50s of value of resources per downtime turn. They can construct buildings at the normal rate. A hex can support 3d3 laborers at a time, which represents the amount of resources available in the area.
-
-Each surveyor, laborer, architect, and other retainers in a base camp need 6 supplies a month.
+One laborer can extract 35s of value of resources per downtime turn. They can construct buildings at the normal rate.
 ## Estates
 To build personal estates, the PC must acquire the land (via expedition or some other means), hire laborers, and pay for the construction of any buildings. One laborer is needed for every 250p of construction.
 

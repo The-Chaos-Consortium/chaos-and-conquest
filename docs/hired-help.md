@@ -58,7 +58,7 @@ Mercenaries are hired soldiers who will form detachments, go to battle, and serv
 - When properly stationed in a settlement, institution, estate, or domain - any of which must be owned by the PC employing them - mercenaries cost half as much as normal. This is because their upkeep is covered by the settlement, institution, estate, or domain.
 
 ## Specialists
-Specialists do not go on adventures, instead remaining in a settlement and performing specific functions. ***Unlike other retainers, there is no limit on the number of specialists a character may employ***. Specialists are listed in order of rarity, in order to facilitate random determination when necessary.
+Specialists do not go on adventures, instead remaining in a settlement and performing specific functions. There is no limit on the number of specialists a character may employ. Specialists are listed in order of rarity, in order to facilitate random determination when necessary.
 1. ***Laborer***: Perform manual labor, such as building structures, harvesting resources, clearing obstructions, etc. One laborer is required per 250p cost of the project.
 2. ***Bard***: Can spread rumors, potentially making it easier to hire retainers or counteract the negative effects of treating retainers poorly.
 3. ***Sailor***: Needed to crew marine vessels for sailing. Each crew needs a ***captain***. Any time a ship ventures beyond sight of a coastline, it becomes lost if a ***navigator*** is not aboard.
