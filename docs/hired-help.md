@@ -88,7 +88,7 @@ Specialists do not go on adventures, instead remaining in a settlement and perfo
 |  Sailor, Navigator  |     50s      |     -      |   2    |
 |      Surveyor       |     45s      |     -      |   2    |
 |      Teamster       |     30s      |    15p     |   2    |
-|   Animal Handler    |     400      |     -      |   3    |
+|   Animal Handler    |     35s      |     -      |   3    |
 |       Armorer       |     70s      |     -      |   3    |
 | Armorer Apprentice  |     35s      |     -      |   3    |
 |      Craftsman      |     70s      |     -      |   3    |
