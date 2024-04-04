@@ -6,8 +6,6 @@ A spell is a specific descriptive or evocative wording, often accompanied by ges
 Spellbooks are heavy tomes made by powerful spellcasters to keep the secrets to their recurrent use of spells. They are usually worth ***15m***, take up 2 slots, and may store ***6 spells***. These spellbooks are sometimes referred to as grimoires or holy books, depending on the caster’s background.
 
 Spellbooks will attract the attention of those who seek the arcane power within, and it is considered dangerous to display them openly.
-
-Only the person who created the spellbook can use it without many weeks spent decoding it. ***One week and 1m of inks per spell*** must be spent to decode another’s spellbook and make it your own. You spend this time and cost deciphering, re-writing, making annotations, etc.
 ### Creating a Spellbook
 It is time-consuming and expensive. You will need a spell wording, ***10m*** in inks, as well as a blank book. It takes a ***month*** of undisturbed labor to create a spellbook.
 ### Receiving a Spellbook
