@@ -22,8 +22,6 @@ When a PC attempts to make progress on an activity during downtime turns, they r
 ## Setbacks
 A setback indicates that some complication has arisen which is stymieing a PC’s progress on their goal or renders a PC’s asset unusable. For example, if a PC's estate is suffering a setback, some problem is rendering it uninhabitable till dealt with.
 
-When a PC’s estate, institution, infrastructure project, or domain suffers a setback, they gain xp equal to its current base investment cost (e.g. if a PC is attempting to advance their tier 3 institution to tier 4 and they suffer a setback, they gain xp equal to the base investment cost of a tier 3 institution: 2,500); if multiple PCs are invested, they divide the xp equally amongst themselves.
-
 A setback can be cleared by dealing with it directly in play.
 
 A setback may also be dealt with by spending a downtime turn action. It is up to the arbiter’s discretion depending on the specific nature of the setback whether simply taking the action will suffice to deal with it, if a save is required, or whether expenditures of resources are necessary; a arbiter may also rule that due to the nature of the setback, it cannot be dealt with abstractly through a downtime turn action and must be handled by the PC directly.
