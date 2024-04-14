@@ -52,8 +52,8 @@ Before making a save, if their character has at least one empty inventory slot, 
 NPCs cannot push themselves.
 ## Combat
 Combat is played in ***rounds***. Each round:
-1. ***Establish combat order***. Roll a d6 for each side to determine the combat order this round; the side that rolls highest goes first. In case of a tie, both sides act simultaneously. This can lead to enemies and PCs both dying at the end of the round once all attacks and actions have resolved.
-1. ***Each side acts***. When a character can act they may move around and take an action. This action may be attacking, casting a spell, making a second move or any other action deemed reasonable by the arbiter. Each character should declare their actions and enact them simultaneously. This means when multiple people are attacking the same target, they all roll their damage at the same time.
+1. ***Establish combat order***. Roll a d6 to determine the combat order this round; 1 - 3 the PCs and allies act first, 4 - 6 the NPCs act first.
+2. ***Each side acts***. When a character can act they may move around and take an action. This action may be attacking, casting a spell, making a second move or any other action deemed reasonable by the arbiter. Each character should declare their actions and enact them simultaneously. This means when multiple people are attacking the same target, they all roll their damage at the same time.
 
 ### Attacks
 ***Attacks always hit***. Roll your weapon’s die and do that much damage to an opponent ***minus their Armor Value (AV)***. Ranged weapons cannot be used in melee.
