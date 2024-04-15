@@ -15,9 +15,9 @@ The table below illustrates the varying levels of comfort that can be achieved w
 | Standard of Living | Monthly Income |                  Common Profession                   |
 | :----------------: | :------------: | :--------------------------------------------------: |
 |     Miserable      |      200p      |                  Serfs and peasants                  |
-|       Meager       |      360p      |     Unskilled manual laborers, basic adventurers     |
-|      Adequate      |  480p - 720p   | Skilled laborers, journeyman craftsmen, mercenaries  |
-|    Comfortable     | 840p - 1,200p  |     Master craftsmen or yeoman farmer (85 acres)     |
+|       Meager       |      350p      |     Unskilled manual laborers, basic adventurers     |
+|      Adequate      |  500p - 800p   | Skilled laborers, journeyman craftsmen, mercenaries  |
+|    Comfortable     | 800p - 1,200p  |     Master craftsmen or yeoman farmer (85 acres)     |
 |    Respectable     |     1,800p     | Master professionals or landed patrician (200 acres) |
 |      Wealthy       |     3,600p     |         Courtiers, Knights, Bishops, Gentry          |
 |    Minor Noble     |    12,000p     |                   Barons or Counts                   |

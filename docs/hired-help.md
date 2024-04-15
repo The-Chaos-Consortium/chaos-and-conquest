@@ -11,7 +11,7 @@ Hirelings, unless otherwise noted, have a 8 in each attribute, 6 Morale, 1d6 sta
 3. ***Explorer***: When traveling with the party in an area with which they are familiar, the navigation check is skipped. They will also note any points of interest and answer questions about the area.
 
 ## Retainers
-Retainers are NPCs who will delve into dungeons to adventure and engage in combat. Retainers are more or less devoted followers of a character, and act under their direction. A retainer can be hired for a half share of treasure, and their upkeep costs covered. They will also usually require a minimum upfront payment of 5 shillings, increasing based on the retainer's talents and experience. The employer is required to provide all equipment, arms, and armor for the retainer. The pay the retainer receives is for them to spend as they see fit, and as such the PC has no control over it. Do not bother tracking the retainer's coin, as it is assumed they will spend it on their own.
+Retainers are NPCs who will delve into dungeons to adventure and engage in combat. Retainers are more or less devoted followers of a character, and act under their direction. A retainer can be hired for a half share of treasure, and their upkeep costs covered. They will also usually require a minimum upfront payment of 50p, increasing based on the retainer's talents and experience. The employer is required to provide all equipment, arms, and armor for the retainer. The pay the retainer receives is for them to spend as they see fit, and as such the PC has no control over it. Do not bother tracking the retainer's coin, as it is assumed they will spend it on their own.
 
 Retainers follow the same advancement rules as PCs.
 
@@ -64,7 +64,7 @@ Specialists do not go on adventures, instead remaining in a settlement and perfo
 3. ***Sailor***: Needed to crew marine vessels for sailing. Each crew needs a ***captain***. Any time a ship ventures beyond sight of a coastline, it becomes lost if a ***navigator*** is not aboard.
 4. ***Surveyor***: Needed to survey an area during expeditions.
 5. ***Animal Handler***: Can train animals.
-6. ***Armorer***: Per month, an armorer can make 35s worth of weapons, armor, or shields. Armor more expensive than this can be worked towards over multiple months, with the 35s being applied towards the cost. They can also maintain mercenaries’ gear. A dedicated armorer is required per 50 troops. 100s worth of equipment can be produced and 125 mercenaries’ gear maintained if 3 assistants are hired. 180s worth of equipment can be produced and 200 mercenaries’ gear maintained if 6 assistants are hired. An armorer cannot manage more than 6 assistants.
+6. ***Armorer***: Per month, an armorer can make 420p worth of weapons, armor, or shields. Armor more expensive than this can be worked towards over multiple months, with the 420p being applied towards the cost. They can also maintain mercenaries’ gear. A dedicated armorer is required per 50 troops. 1,200p worth of equipment can be produced and 125 mercenaries’ gear maintained if 3 assistants are hired. 2,200p worth of equipment can be produced and 200 mercenaries’ gear maintained if 6 assistants are hired. An armorer cannot manage more than 6 assistants.
 7. ***Assistant Armorer***: Apprentices who work under an ***armorer***. They increase the rate of production for an armorer.
 8. ***Craftsman***: Can craft items based on their profession.
 9. ***Advocate***: Necessary to bring a legal trial to action or to mount a defence. Each additional advocate adds +1 to the roll, to a max of 3.
@@ -79,28 +79,28 @@ Specialists do not go on adventures, instead remaining in a settlement and perfo
 ## Price Table
 |      Retainer       | Wage (month) | Wage (day) | Rarity |
 | :-----------------: | :----------: | :--------: | :----: |
-|       Porter        |     30s      |    12p     |   1    |
-|       Laborer       |     25s      |    10p     |   1    |
-|        Bard         |     40s      |     -      |   2    |
-|      Explorer       |     40s      |     -      |   2    |
-|       Sailor        |     25s      |     -      |   2    |
-|   Sailor, Captain   |     100s     |     -      |   2    |
-|  Sailor, Navigator  |     50s      |     -      |   2    |
-|      Surveyor       |     45s      |     -      |   2    |
-|      Teamster       |     30s      |    15p     |   2    |
-|   Animal Handler    |     35s      |     -      |   3    |
-|       Armorer       |     70s      |     -      |   3    |
-| Armorer Apprentice  |     35s      |     -      |   3    |
-|      Craftsman      |     70s      |     -      |   3    |
-|      Advocate       |     150s     |     -      |   3    |
-|      Mercenary      |     40s      |    25p     |   3    |
-| Mercenary, Corporal |     60s      |    30p     |   3    |
-| Mercenary, Captain  |     100s     |    50p     |   3    |
+|       Porter        |     350p     |    12p     |   1    |
+|       Laborer       |     350p     |    12p     |   1    |
+|        Bard         |     500p     |     -      |   2    |
+|      Explorer       |     500p     |     -      |   2    |
+|       Sailor        |     300p     |     -      |   2    |
+|   Sailor, Captain   |    1,200p    |     -      |   2    |
+|  Sailor, Navigator  |     600p     |     -      |   2    |
+|      Surveyor       |     550p     |     -      |   2    |
+|      Teamster       |     350p     |    15p     |   2    |
+|   Animal Handler    |     500p     |     -      |   3    |
+|       Armorer       |     850p     |     -      |   3    |
+| Armorer Apprentice  |     500p     |     -      |   3    |
+|      Craftsman      |     850p     |     -      |   3    |
+|      Advocate       |    1,800p    |     -      |   3    |
+|      Mercenary      |     500p     |    25p     |   3    |
+| Mercenary, Corporal |     750p     |    30p     |   3    |
+| Mercenary, Captain  |    1,200p    |    50p     |   3    |
 | Mercenary, General  |  Negotiated  |     -      |   -    |
-|      Physician      |     130s     |     -      |   3    |
-|       Scholar       |     50s      |     -      |   3    |
-|         Spy         |     80s      |     -      |   3    |
-|      Engineer       |     150s     |     -      |   4    |
-|      Alchemist      |     150s     |     -      |   4    |
-|        Sage         |     200s     |     -      |   4    |
+|      Physician      |    1500p     |     -      |   3    |
+|       Scholar       |     600p     |     -      |   3    |
+|         Spy         |    1,000p    |     -      |   3    |
+|      Engineer       |    1,800p    |     -      |   4    |
+|      Alchemist      |    1,800p    |     -      |   4    |
+|        Sage         |    2,400p    |     -      |   4    |
 |      Assassin       |  Negotiated  |     -      |   4    |

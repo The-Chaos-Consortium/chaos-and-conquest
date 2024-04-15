@@ -15,7 +15,7 @@ The max corruption a PC can have before being lost is equal to ***WIL+3***.
 ## 3. Background & Belongings
 PCs start with ***two Supplies*** (see [Equipment](equipment.md#supply)), a ***torch***, and a ***dagger***.
 
-***Roll 4d10*** to determine your starting silver shillings. You may use this to buy additional equipment if you like.
+***Roll 6d6x10*** to determine your starting silver pennies. You may use this to buy additional equipment if you like.
 
 Either, roll a ***d20*** to randomly [determine a background](backgrounds/README.md), or pick a specific background below from the archetype you wish to follow.
 ## 4. Name & Age
