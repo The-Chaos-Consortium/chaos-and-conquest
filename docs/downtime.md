@@ -91,7 +91,7 @@ Once a base camp has been established, the area can be surveyed, which requires 
 
 Once an area has been surveyed, labor efforts such as extracting resources or building estates can occur, so long as the base camp continues to hold.
 
-One laborer can extract 35s of value of resources per downtime turn. They can construct buildings at the normal rate.
+One laborer can extract 450p of value of resources per downtime turn. They can construct buildings at the normal rate.
 ## Estates
 To build personal estates, the PC must acquire the land (via expedition or some other means), hire laborers, and pay for the construction of any buildings. One laborer is needed for every 250p of construction.
 
@@ -201,26 +201,26 @@ A character can attempt to improve a domain as an action during a downtime turn.
 
 A character only needs to pay the base investment cost (plus any bonus expenditures) during the first attempt they make. Successive attempts do not require payment.
 
-| 2d6 |                                                                                                   Result                                                                                                    |
-| :-: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 10+ |                                                                                      Success is marked on the tracker                                                                                       |
-| 7-9 | A setback occurs, which prevents further domain progress until it is dealt with. This may be civil unrest, the looming threat of foreign invasion, or a powerful beast that has begun to terrorise the land |
-| 2-6 |                                                                                            No progress is made.                                                                                             |
+| 2d6 |                                                                                                    Result                                                                                                    |
+| :-: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| 10+ |                                                                                      Success is marked on the tracker.                                                                                       |
+| 7-9 | A setback occurs, which prevents further domain progress until it is dealt with. This may be civil unrest, the looming threat of foreign invasion, or a powerful beast that has begun to terrorise the land. |
+| 2-6 |                                                                                             No progress is made.                                                                                             |
 
 The base investment costs for each domain tier are listed below, as well as any prerequisites.
 
 | Domain Tier | Base Investment Cost |                Bonuses                |                          Prerequisites                          |                                                    Benefits                                                     | Monthly Income |
 | :---------: | :------------------: | :-----------------------------------: | :-------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: | :------------: |
-|      1      |          0p          |           No roll necessary           |      Automatically achieved when first hamlet is founded.       |                         Has a 1-in-6 chance of providing any mundane items & services.                          |      100s      |
-|      2      |       10,000p        |  +1 for each additional 2,500p spent  |   Domain must contain a ruler’s estate worth at least 5,000p.   |              Cleared hexes or areas up to 1 hex/6 miles adjacent can be made part of your domain.               |      270s      |
-|      3      |       20,000p        |  +1 for each additional 5,000p spent  |             Domain must contain at least 1 village              |     Has a 2-in-6 chance of providing any mundane items & services. Able to field an army of 50 men-at-arms.     |      350s      |
-|      4      |       40,000p        | +1 for each additional 10,000p spent  |  Domain must contain a ruler’s estate worth at least 20,000p.   |             Cleared hexes or areas up to 2 hexes/12 miles adjacent can be made part of your domain.             |      450s      |
-|      5      |       80,000p        | +1 for each additional 20,000p spent  |               Domain must contain at least 1 town               |  Has a 3-in-6 chance of providing any mundane items & services. Able to field an army of d4 x 100 men-at-arms.  |      600s      |
-|      6      |       160,000p       | +1 for each additional 40,000p spent  |  Domain must contain a ruler’s estate worth at least 80,000p.   |             Cleared hexes or areas up to 3 hexes/18 miles adjacent can be made part of your domain.             |      760s      |
-|      7      |       320,000p       | +1 for each additional 80,000p spent  |               Domain must contain at least 1 city               |  Has a 4-in-6 chance of providing any mundane items & services. Able to field an army of d4 x 500 men-at-arms.  |     1,500s     |
-|      8      |       640,000p       | +1 for each additional 160,000p spent |  Domain must contain a ruler’s estate worth at least 320,000p.  |             Cleared hexes or areas up to 4 hexes/24 miles adjacent can be made part of your domain.             |     4,000s     |
-|      9      |      1,280,000p      | +1 for each additional 320,000p spent |            Domain must contain at least 1 metropolis            | Has a 5-in-6 chance of providing any mundane items & services. Able to field an army of d4 x 2,000 men-at-arms. |    10,000s     |
-|     10      |      2,560,000p      | +1 for each additional 640,000p spent | Domain must contain a ruler’s estate worth at least 1,280,000p. |             Cleared hexes or areas up to 5 hexes/30 miles adjacent can be made part of your domain.             |    20,000s     |
+|      1      |          0p          |           No roll necessary           |      Automatically achieved when first hamlet is founded.       |                         Has a 1-in-6 chance of providing any mundane items & services.                          |     1,200p     |
+|      2      |       10,000p        |  +1 for each additional 2,500p spent  |   Domain must contain a ruler’s estate worth at least 5,000p.   |              Cleared hexes or areas up to 1 hex/6 miles adjacent can be made part of your domain.               |     3,240p     |
+|      3      |       20,000p        |  +1 for each additional 5,000p spent  |             Domain must contain at least 1 village              |     Has a 2-in-6 chance of providing any mundane items & services. Able to field an army of 50 men-at-arms.     |     4,200p     |
+|      4      |       40,000p        | +1 for each additional 10,000p spent  |  Domain must contain a ruler’s estate worth at least 20,000p.   |             Cleared hexes or areas up to 2 hexes/12 miles adjacent can be made part of your domain.             |     5,400p     |
+|      5      |       80,000p        | +1 for each additional 20,000p spent  |               Domain must contain at least 1 town               |  Has a 3-in-6 chance of providing any mundane items & services. Able to field an army of d4 x 100 men-at-arms.  |     7,200p     |
+|      6      |       160,000p       | +1 for each additional 40,000p spent  |  Domain must contain a ruler’s estate worth at least 80,000p.   |             Cleared hexes or areas up to 3 hexes/18 miles adjacent can be made part of your domain.             |     9,120p     |
+|      7      |       320,000p       | +1 for each additional 80,000p spent  |               Domain must contain at least 1 city               |  Has a 4-in-6 chance of providing any mundane items & services. Able to field an army of d4 x 500 men-at-arms.  |    18,000p     |
+|      8      |       640,000p       | +1 for each additional 160,000p spent |  Domain must contain a ruler’s estate worth at least 320,000p.  |             Cleared hexes or areas up to 4 hexes/24 miles adjacent can be made part of your domain.             |    48,000p     |
+|      9      |      1,280,000p      | +1 for each additional 320,000p spent |            Domain must contain at least 1 metropolis            | Has a 5-in-6 chance of providing any mundane items & services. Able to field an army of d4 x 2,000 men-at-arms. |    120,000p    |
+|     10      |      2,560,000p      | +1 for each additional 640,000p spent | Domain must contain a ruler’s estate worth at least 1,280,000p. |             Cleared hexes or areas up to 5 hexes/30 miles adjacent can be made part of your domain.             |    240,000p    |
 
 Mundane items & services refers to the chance that the domain can furnish specific goods and services. Basic goods & services, like food or simple blacksmithing, can be assumed since these are necessities, but specialty items such as, say, siege weaponry or spices will require a roll.
 
