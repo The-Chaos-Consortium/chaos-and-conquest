@@ -1,12 +1,11 @@
 # Items & Equipment
 Most items take one slot to carry but some items, like weapons or armor, may take additional slots to carry. Some items like clothes or small trinkets are non-encumbering and do not take up inventory slots. These can be tracked in the notes section of your character sheet.
 ## Currency
-Money is minted in three denominations: ***brass pennies (p)***, ***silver shillings (s)***, and ***gold marks (m)***. Coins vary slightly in size, but are approximately 19mm to 21mm in diameter - roughly the size of an American penny or nickel, but thinner. Characters are assumed to carry a small amount on their person to spend on small purchases and have the rest of their wealth stored somewhere else. Up to 500 coins may be carried on your person without taking up slots. If you wish to carry more coins, 1,000 coins of any denomination take up one slot.
+Money is minted in two denominations: ***silver pennies (p)*** and ***gold marks (m)***. Coins vary slightly in size, but are approximately 19mm to 21mm in diameter - roughly the size of an American penny or nickel, but thinner. Characters are assumed to carry a small amount on their person to spend on small purchases and have the rest of their wealth stored somewhere else. Up to 500 coins may be carried on your person without taking up slots. If you wish to carry more coins, 1,000 coins of any denomination take up one slot. Consider using porters, retainers, mounts, or vehicles to carry large amounts of wealth.
 
-Peasants will make use of pennies, and will likely never see a gold mark in their life. The middle class of merchants and tradesmen will use shillings for the bulk of transactions, using pennies for ale and marks for major purchases. The upper class of nobles and aristocrats will use marks, and will likely never see a penny in their life. 1 gold mark is equal to 20 silver shillings, and 20 silver shillings are equal to 240 brass pennies.
+Peasants will make use of pennies, and will likely never see a gold mark in their life. The middle class of merchants and tradesmen will use pennies for the bulk of transactions, and marks for major purchases. The upper class of nobles and aristocrats will use marks or lines of credit, and very rarely deal in pennies. 100 pennies are equal to 1 mark. You can convert your pennies to marks at a bank or moneychanger for a 10% fee, costing you 110 pennies for 1 mark. You can freely convert marks to pennies at a 1:100 ratio.
 
-<p style="text-align: center;">1m : 20s : 240p</p>
-<p style="text-align: center;">1s : 12p</p>
+<p style="text-align: center;">100p : 1m</p>
 
 ### Converting OSR Wealth
 Many other systems such as the early editions of D&D make use of a gold standard. When converting treasure rewards from those systems simply convert 1 gold to 1 penny to get an accurate reward. This means a treasure hoard of 4,000 GP would convert to 4,000p.
