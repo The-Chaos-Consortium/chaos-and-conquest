@@ -3,11 +3,11 @@ At its rawest form, magic is unbridled chaos. It is the manipulation of the very
 
 A spell is a specific descriptive or evocative wording, often accompanied by gestures, that harnesses the chaos of magic to produce an array of effects. Spells are often recorded in grimoires, scrolls, or holy books, and are cast by reading the words and performing the gestures.
 ## Spellbooks
-Spellbooks are heavy tomes made by powerful spellcasters to keep the secrets to their recurrent use of spells. They are usually worth ***15m***, take up 2 slots, and may store ***6 spells***. These spellbooks are sometimes referred to as grimoires or holy books, depending on the caster’s background.
+Spellbooks are heavy tomes made by powerful spellcasters to keep the secrets to their recurrent use of spells. They are usually worth ***3,500p***, take up 2 slots, and may store ***6 spells***. These spellbooks are sometimes referred to as grimoires or holy books, depending on the caster’s background.
 
 Spellbooks will attract the attention of those who seek the arcane power within, and it is considered dangerous to display them openly.
 ### Creating a Spellbook
-It is time-consuming and expensive. You will need a spell wording, ***10m*** in inks, as well as a blank book. It takes a ***month*** of undisturbed labor to create a spellbook.
+It is time-consuming and expensive. You will need a spell wording, ***2,500p*** in inks, as well as a blank book. It takes a ***month*** of undisturbed labor to create a spellbook.
 ### Receiving a Spellbook
 Rather than creating a book of the arcane themselves, some individuals acquire their book from an institution - such as a Holy Order, Church, or Mage's Guild - that they are a member of. A PC must be in good standing with their institution in order to receive a spellbook, and will be expected to return it if they leave the institution. A spellbook received in this way will come with at least one spell, and may have more. The spells in the book will be determined by the institution and the PC's relationship with it.
 ### Spell Creation
@@ -18,7 +18,7 @@ All spellcasters are capable of creating new spells. This is a time intensive pr
 4. Use the following wording oracle for inspiration if you are stuck, or the example spells list.
 5. Once you have the wording, eyeball it and make sure it feels right.
 
-After the wording is created, you can either create a new spellbook as described above, or add the spell to an existing spellbook. The cost to add to an existing spellbook is equal to 20m multiplied by the number of spells currently in the book (for example adding your 3rd spell would cost 40m). The process for adding a spell to a spellbook is described in the [downtime section](downtime.md#adding-a-spell-to-a-spellbook).
+After the wording is created, you can either create a new spellbook as described above, or add the spell to an existing spellbook. The cost to add to an existing spellbook is equal to 5,000p multiplied by the number of spells currently in the book (for example adding your 3rd spell would cost 10,000p). The process for adding a spell to a spellbook is described in the [downtime section](downtime.md#adding-a-spell-to-a-spellbook).
 ### Spell Wording Oracle
 Roll four times on the below table, once per column, to use for either inspiration, an indication of the spell's purpose, or even directly as the spell's wording.
 
@@ -92,7 +92,7 @@ Example spells. Roll d66 on this table for a random Scroll as loot.
 ## Scrolls
 A scroll is a spell infused in a piece of parchment and is destroyed after a single use. They are a formalized way of casting spells, and are often used by those who cannot cast spells themselves. With a scroll everything is set - the effect, its parameters, and the cost. They are recovered from places like tombs, dungeons, manors, and can be made by a spellcaster.
 
-You can create a scroll of a spell you have in your spellbook by spending ***2m*** and taking a ***day*** to create it. You must define the spell's specific effect, parameters, and cost to cast. Creating a scroll incurs a cost of double the spell’s cost to cast, and you cannot create a scroll if you do not have the stamina equal to the maximum cost of the spell.
+You can create a scroll of a spell you have in your spellbook by spending ***500p*** and taking a ***day*** to create it. You must define the spell's specific effect, parameters, and cost to cast. Creating a scroll incurs a cost of double the spell’s cost to cast, and you cannot create a scroll if you do not have the stamina equal to the maximum cost of the spell.
 ## Casting Spells
 ***Any character*** can cast spells through spellbooks or scrolls. To cast a spell, your character must hold a spellbook or scroll in one hand and read it aloud.
 
