@@ -67,12 +67,16 @@ Similarly, attacks that are ***advantaged*** by a risky stunt or a vulnerable ta
 Any action that is not a simple action, attack, or spellcasting is a combat maneuver. Combat maneuvers are always risky, and the arbiter may ask for a save, opposed or not, to determine the outcome. Some examples are disarming or tripping an opponent, pushing them off a ledge, or attempting to grapple them. Depending on the maneuver, the PC doing the maneuver may grant their allies advantage against the foe. For example, if the PC successfully knocks an enemy prone, their allies may receive an advantaged attack against that enemy until they stand up.
 
 Other than blast damage attacks, combat maneuvers are generally the only way a group of individuals have a chance at damaging a detachment.
-### Damage & Death
-When a character is damaged, they lose that amount of stamina. Stamina is a measure of your ability to avoid life-threatening harm. If they take more damage than remaining stamina, they are wounded, and the remaining damage is removed from their STR.
+### Damage
+When a character is damaged, they lose that amount of stamina. Stamina is a measure of one's ability to avoid life-threatening harm. If they take more damage than remaining stamina, they are wounded, and the remaining damage is removed from their STR.
 
-When a PC or retainer takes STR damage they are wounded and must make a STR save against ***critical damage***. If they pass, the character stays conscious. Failure means they fall unconscious and are dying, and must roll on the Scars table. The dying character must have their wounds treated by another character and have a ***short rest*** within an hour or they die. Other NPCs die immediately upon receiving critical damage. Some enemies will have special abilities or effects that occur when their target fails a save against critical damage.
+When a character takes STR damage they are wounded and must make a STR save to avoid ***critical damage***. 
+### Critical Damage
+Taking critical damages means they fall unconscious and are dying, and must roll on the Scars table. The dying character must have their wounds treated by another character and have a ***short rest*** within an hour or they die. NPCs other than retainers die immediately upon receiving critical damage. Some enemies will have special abilities or effects that occur when their target fails a save against critical damage.
 
-Some attacks can do DEX or WIL damage instead of STR damage, reducing those attributes after losing all stamina. Losing DEX or WIL requires a respective save against ***critical damage***. ***If any attribute is reduced to 0, the character dies***.
+Some attacks can do DEX or WIL damage instead of STR damage, reducing those attributes after losing all stamina. Losing DEX or WIL requires a respective save to avoid ***critical damage***.
+### Death
+***If any attribute is reduced to 0, the character dies***. Whenever a character dies the player may choose to play as one of their retainers, or make a new character. If the player makes a new character, the arbiter finds a way to have them join the group as soon as possible - quickness is required over realism.
 ### Blast Damage
 Attacks suitably large enough to affect all targets in the appropriate area. Damage is rolled separately for each target. If there is any doubt as to how many targets can be affected, roll the attack’s die.
 ### Critical Hits
