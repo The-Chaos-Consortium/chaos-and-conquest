@@ -50,7 +50,7 @@ Supply can also be used to ***repair armor*** and ***restore worn weapons*** dur
 |     Crowbar or sledgehammer      |                    Vehicles                     |
 |            Face paint            |   Specialized equipment, e.g. an alchemy kit.   |
 |           Flask of oil           |               Musical instruments               |
-|         Lantern or Torch         |                 Fancy clothing                  |
+|              Torch               |                 Fancy clothing                  |
 |             Bandages             |                 Books and maps                  |
 |               Rope               | Anything that is not widely available and cheap |
 |            Waterskin             |                                                 |
@@ -70,13 +70,13 @@ Tallying up the LP a party has determines the party’s light level:
 ## Basic Gear
 PCs can acquire specific items for cheaper prices than using ***Supply***. Doing this loses the flexibility of supply, but will be cheaper if you know exactly what you need.
 
-|                     Item                     | Slots | Price | Rarity |
-| :------------------------------------------: | :---: | :---: | :----: |
-| Common Items (Rope, torch, saw, arrow, etc.) |   1   |  5p   |   1    |
-|               Rations (7 days)               |   1   |  35p  |   1    |
-|  Uncommon Items (Lantern, bear trap, etc.)   |   1   |  20p  |   3    |
-|  Rare Items (Sextant, hourglass, astrolabe)  |   1   | 100p+ |   4    |
-|  Supply (see [supply](equipment.md#supply))  |   1   |  20p  |   2    |
+|                    Item                    | Slots | Price | Rarity |
+| :----------------------------------------: | :---: | :---: | :----: |
+|   Common Items (Rope, torch, saw, etc.)    |   1   |  5p   |   1    |
+|              Rations (7 days)              |   1   |  35p  |   1    |
+| Uncommon Items (Lantern, bear trap, etc.)  |   1   |  20p  |   3    |
+| Rare Items (Sextant, hourglass, astrolabe) |   1   | 100p+ |   4    |
+| Supply (see [supply](equipment.md#supply)) |   1   |  20p  |   2    |
 
 ## Weapons & Armor
 |                 Weapon                 |                      Traits                       | Slots | Price  | Rarity |
@@ -96,7 +96,7 @@ PCs can acquire specific items for cheaper prices than using ***Supply***. Doing
 
 |        Armor         |                                  Traits                                  | Slots | Price  | Rarity |
 | :------------------: | :----------------------------------------------------------------------: | :---: | :----: | :----: |
-|        Helmet        |                                   1 AV                                   |   1   |  300p  |   2    |
+|        Helmet        |                                   1 AV                                   |   1   |  200p  |   2    |
 | Light (Padded, etc.) |                                   1 AV                                   |   1   |  100p  |   2    |
 | Medium (Mail, etc.)  | 2 AV, Disadvantage on DEX Saves, requires 12+ STR or Armor Master Talent |   2   | 2,400p |   3    |
 | Heavy (Plate, etc.)  | 3 AV, Disadvantage on DEX Saves, requires 14+ STR or Armor Master Talent |   3   | 4,800p |   4    |
@@ -109,7 +109,7 @@ Silver weapons cost 10 times its base cost. Silver ammo must be purchased separa
 | :-------------------------------: | :---: | :------: |
 |       Animal Feed (7 days)        |   1   |   20p    |
 |       Daily Horse Stabling        |  n/a  |    5p    |
-|   Daily Food and Lodging (poor)   |  n/a  |    8p    |
+|   Daily Food and Lodging (poor)   |  n/a  |    5p    |
 |  Daily Food and Lodging (common)  |  n/a  |   10p    |
 | Daily Food and Lodging (private)  |  n/a  |   25p    |
 |   Daily Food and Lodging (Rich)   |  n/a  |   50p    |
