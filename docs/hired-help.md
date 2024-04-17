@@ -97,7 +97,7 @@ Specialists do not go on adventures, instead remaining in a settlement and perfo
 | Mercenary, Corporal |     750p     |    30p     |   3    |
 | Mercenary, Captain  |    1,200p    |    50p     |   3    |
 | Mercenary, General  |  Negotiated  |     -      |   -    |
-|      Physician      |    1500p     |     -      |   3    |
+|      Physician      |    1,500p    |     -      |   3    |
 |       Scholar       |     600p     |     -      |   3    |
 |         Spy         |    1,000p    |     -      |   3    |
 |      Engineer       |    1,800p    |     -      |   4    |
