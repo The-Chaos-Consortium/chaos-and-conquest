@@ -73,10 +73,11 @@ PCs can acquire specific items for cheaper prices than using ***Supply***. Doing
 |                    Item                    | Slots | Price | Rarity |
 | :----------------------------------------: | :---: | :---: | :----: |
 |   Common Items (Rope, torch, saw, etc.)    |   1   |  5p   |   1    |
-|              Rations (7 days)              |   1   |  35p  |   1    |
 | Uncommon Items (Lantern, bear trap, etc.)  |   1   |  20p  |   3    |
 | Rare Items (Sextant, hourglass, astrolabe) |   1   | 100p+ |   4    |
 | Supply (see [supply](equipment.md#supply)) |   1   |  20p  |   2    |
+|              Rations (7 days)              |   1   |  35p  |   1    |
+|            Animal Feed (7 days)            |   1   |  20p  |   1    |
 
 ## Weapons & Armor
 |                 Weapon                 |                      Traits                       | Slots | Price  | Rarity |
@@ -107,14 +108,12 @@ Silver weapons cost 10 times its base cost. Silver ammo must be purchased separa
 ## Food & Lodging
 |               Name                | Slots |  Price   |
 | :-------------------------------: | :---: | :------: |
-|       Animal Feed (7 days)        |   1   |   20p    |
 |       Daily Horse Stabling        |  n/a  |    5p    |
 |   Daily Food and Lodging (poor)   |  n/a  |    5p    |
 |  Daily Food and Lodging (common)  |  n/a  |   10p    |
 | Daily Food and Lodging (private)  |  n/a  |   25p    |
 |   Daily Food and Lodging (Rich)   |  n/a  |   50p    |
 | Daily Food and Lodging (Nobility) |  n/a  |  100p+   |
-|         Rations (7 days)          |   1   |   35p    |
 |           Tavern drink            |  n/a  | 1p - 30p |
 |    Tavern meal (poor to feast)    |  n/a  | 2p - 30p |
 
