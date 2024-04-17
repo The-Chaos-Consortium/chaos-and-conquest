@@ -79,8 +79,8 @@ Specialists do not go on adventures, instead remaining in a settlement and perfo
 ## Price Table
 |      Retainer       | Wage (month) | Wage (day) | Rarity |
 | :-----------------: | :----------: | :--------: | :----: |
-|       Porter        |     350p     |    12p     |   1    |
-|       Laborer       |     350p     |    12p     |   1    |
+|       Porter        |     350p     |    15p     |   1    |
+|       Laborer       |     350p     |    15p     |   1    |
 |        Bard         |     500p     |     -      |   2    |
 |      Explorer       |     500p     |     -      |   2    |
 |       Sailor        |     300p     |     -      |   2    |
