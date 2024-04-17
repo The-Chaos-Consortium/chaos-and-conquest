@@ -125,7 +125,7 @@ Silver weapons cost 10 times its base cost. Silver ammo must be purchased separa
 |  Wagon, 3 horses   |  55p  |
 |       Coach        |  70p  |
 |  River Boat/Barge  |  20p  |
-|  Ship's Passage   |  50p  |
+|   Ship's Passage   |  50p  |
 
 ## Buildings
 |          Item          |    Price     | Rarity |
