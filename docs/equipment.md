@@ -195,32 +195,22 @@ Mule
 |      Longship       | 18 row, 90 sail |        60/75        | 1,000  | 150,000p |   4    |
 |       Warship       |       72        |         20          | 20,000 | 600,000p |   5    |
 
-Cart
-- A two-wheeled vehicle drawn by a single horse or two mules. Can carry 4 passengers.
+***Cart***: A two-wheeled vehicle drawn by a single horse or two mules. Can carry 4 passengers.
 
-Wagon
-- A four-wheeled, open vehicle drawn by two horses or four mules. Can carry 12 passengers.
+***Wagon***: A four-wheeled, open vehicle drawn by two horses or four mules. Can carry 12 passengers.
 
-Coach
-- A four-wheeled, enclosed vehicle drawn by four horses. Can carry 9 passengers. Requires horse changes every 2 hours in order to maintain speed. Without a change of horses, the coach can only travel 18 miles per day at 6 miles per hour.
+***Coach***: A four-wheeled, enclosed vehicle drawn by four horses. Can carry 9 passengers. Requires horse changes every 2 hours in order to maintain speed. Without a change of horses, the coach can only travel 18 miles per day at 6 miles per hour.
 
-Raft
-- A simple raft made of logs lashed together. Can carry 4 passengers.
+***Raft***: A simple raft made of logs lashed together. Can carry 4 passengers.
 
-Fishing Boat
-- A small boat with a single mast and a sail. Typically used for fishing or short trips along the coast. Can carry 4 passengers.
+***Fishing Boat***: A small boat with a single mast and a sail. Typically used for fishing or short trips along the coast. Can carry 4 passengers.
 
-Riverboat
-- A boat that is either rowed, pushed with poles, or towed by a horse. Can carry 16 passengers.
+***Riverboat***: A boat that is either rowed, pushed with poles, or towed by a horse. Can carry 16 passengers.
 
-Sailing Ship, Small
-- A small, seafaring vessel with a single mast and a sail. Can carry 20 passengers.
+***Sailing Ship, Small***: A small, seafaring vessel with a single mast and a sail. Can carry 20 passengers.
 
-Sailing Ship, Large
-- A large, seafaring vessel with two or more masts and sails. Usually has multiple decks. Can carry 40 passengers.
+***Sailing Ship, Large***: A large, seafaring vessel with two or more masts and sails. Usually has multiple decks. Can carry 40 passengers.
 
-Longship
-- A slender vessel suitable for navigating rivers, coastal waters, or the vast open seas. Depending on the prevailing conditions, a longship can be propelled by rowing or sailing. The crew members typically multitask as rowers, sailors, and warriors, adapting to the demands of the situation.
+***Longship***: A slender vessel suitable for navigating rivers, coastal waters, or the vast open seas. Depending on the prevailing conditions, a longship can be propelled by rowing or sailing. The crew members typically multitask as rowers, sailors, and warriors, adapting to the demands of the situation.
 
-Warship
-- While similar in appearance to normal sailing ships, they are designed for combat, and to carry mercenaries and war gear. Can carry 50 mercenaries.
+***Warship***: While similar in appearance to normal sailing ships, they are designed for combat, and to carry mercenaries and war gear. Can carry 50 mercenaries.
