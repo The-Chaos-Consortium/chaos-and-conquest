@@ -50,10 +50,10 @@ Supply can also be used to ***repair armor*** and ***restore worn weapons*** dur
 |     Crowbar or sledgehammer      |                    Vehicles                     |
 |            Face paint            |   Specialized equipment, e.g. an alchemy kit.   |
 |           Flask of oil           |               Musical instruments               |
-|              Torch               |                 Fancy clothing                  |
+|              Torch               |                     Lantern                     |
 |             Bandages             |                 Books and maps                  |
-|               Rope               | Anything that is not widely available and cheap |
-|            Waterskin             |                                                 |
+|               Rope               |                 Fancy clothing                  |
+|            Waterskin             | Anything that is not widely available and cheap |
 
 ## Ammo
 ***Ammo*** is an abstract item representing the ammunition a PC brought with them for their weapon. Players do not keep track of individual arrows or bullets, but must ***roll a d6 at the end of combat*** in which their PC used a ranged weapon. On a ***result of 1***, they only have enough ammunition left for ***one shot*** after which the Ammo is removed from their inventory.
