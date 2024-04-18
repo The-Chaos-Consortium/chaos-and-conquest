@@ -118,14 +118,15 @@ Silver weapons cost 10 times its base cost. Silver ammo must be purchased separa
 |    Tavern meal (poor to feast)    |  n/a  | 2p - 30p |
 
 ## Travel Services
-|        Name        | Price |
-| :----------------: | :---: |
-|   Cart or Wagon    |  20p  |
-| Cart with 2 horses |  35p  |
-|  Wagon, 3 horses   |  55p  |
-|       Coach        |  70p  |
-|  River Boat/Barge  |  20p  |
-|   Ship's Passage   |  50p  |
+|       Name       |   Price    |
+| :--------------: | :--------: |
+|  Cart or Wagon   |  20p/day   |
+|   Coach, local   |    10p     |
+|  Coach, travel   |  100p/day  |
+|  Coach, charter  |  200p/day  |
+| River Boat/Barge |  20p/day   |
+|  Ship, passage   |  50p/day   |
+|  Ship, charter   | 1,000p/day |
 
 ## Buildings
 |          Item          |    Price     | Rarity |
@@ -155,9 +156,9 @@ Prices for buildings are the costs of construction. Prices to buy are usually 2-
 ## Mounts
 |    Animal    | Inventory Slots (Ridden/Not) | Miles per Day |  Price  | Rarity |
 | :----------: | :--------------------------: | :-----------: | :-----: | :----: |
-| Riding Horse |            10/20             |      30       | 1,200p  |   3    |
+| Riding Horse |            10/20             |      30       | 1,000p  |   3    |
 |  War Horse   |             5/15             |      24       | 10,000p |   4    |
-|     Mule     |            10/40             |      24       |  600p   |   1    |
+|     Mule     |            10/40             |      24       |  500p   |   1    |
 
 Riding Horse
 - Stamina: 2d6
@@ -181,18 +182,18 @@ Mule
 - Grazing: Can survive purely on grass.
 
 ## Vehicles
-|       Vehicle       |  Miles per Day  |   Crew or Animals   | Slots  |   Price    | Rarity |
-| :-----------------: | :-------------: | :-----------------: | :----: | :--------: | :----: |
-|        Cart         |       12        | 1 horse or 2 mules  |  200   |    240p    |   2    |
-|        Wagon        |       18        | 2 horses or 4 mules |  800   |   1,500p   |   2    |
-|        Coach        |       60        |      4 horses       |  100   |   4,800p   |   3    |
-|        Raft         |       12        |          1          |   10   |    120p    |   2    |
-|    Fishing Boat     |       72        |          1          |  100   |   1,200p   |   2    |
-|      Riverboat      |       36        |          8          |  300   |  32,400p   |   3    |
-| Sailing Ship, Small |       90        |         10          | 2,000  |  200,000p  |   3    |
-| Sailing Ship, Large |       72        |         20          | 5,000  |  800,000p  |   4    |
-|      Longship       | 18 row, 90 sail |        60/75        | 10,000 |  600,000p  |   4    |
-|       Warship       |       72        |         20          | 20,000 | 6,000,000p |   5    |
+|       Vehicle       |  Miles per Day  |   Crew or Animals   | Slots  |  Price   | Rarity |
+| :-----------------: | :-------------: | :-----------------: | :----: | :------: | :----: |
+|        Cart         |       12        | 1 horse or 2 mules  |  200   |   200p   |   2    |
+|        Wagon        |       18        | 2 horses or 4 mules |  800   |  1,500p  |   2    |
+|        Coach        |       60        |      4 horses       |  100   |  5,000p  |   3    |
+|        Raft         |       12        |          1          |   10   |   100p   |   2    |
+|    Fishing Boat     |       72        |          1          |  100   |  1,000p  |   2    |
+|      Riverboat      |       36        |          8          |  300   | 10,000p  |   3    |
+| Sailing Ship, Small |       90        |         10          | 2,000  | 50,000p  |   3    |
+| Sailing Ship, Large |       72        |         20          | 5,000  | 200,000p |   4    |
+|      Longship       | 18 row, 90 sail |        60/75        | 1,000  | 150,000p |   4    |
+|       Warship       |       72        |         20          | 20,000 | 600,000p |   5    |
 
 Cart
 - A two-wheeled vehicle drawn by a single horse or two mules. Can carry 4 passengers.
