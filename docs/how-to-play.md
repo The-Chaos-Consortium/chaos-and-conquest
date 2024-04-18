@@ -114,9 +114,9 @@ Running away from a dire situation always requires a successful ***DEX*** save, 
 | d10 |                                                                           Scar                                                                            |
 | :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |  1  |                       Scarred - A part of you is violently marked. Roll 1d6; 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear.                        |
-|  2  |                                                                 Sickly - You lose 1 STR.                                                                  |
-|  3  |                                                 Hobbled - Reduced to a limp until fixed. Also lose 1 DEX.                                                 |
-|  4  |                                                                  Dazed - You lose 1 WIL.                                                                  |
+|  2  |                                                           Sickly - You lose 1 STR permanently.                                                            |
+|  3  |                                           Hobbled - Reduced to a limp until fixed. Also lose 1 DEX permanently.                                           |
+|  4  |                                                            Dazed - You lose 1 WIL permanently.                                                            |
 |  5  | Reorienting Head Wound - Roll 1d6; 1-2: STR, 3-4: DEX, 5-6: WIL. Roll 3d6. If the total is higher than your current attribute score, take the new result. |
 |  6  |                                   Chronic Wound - Your wound seems to never heal. Permanently lose 2 stamina and 2 STR.                                   |
 |  7  |                                                              Shattered Leg - You lose a leg.                                                              |
