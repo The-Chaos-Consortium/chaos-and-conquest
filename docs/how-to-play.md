@@ -169,9 +169,16 @@ The party interacts with a location/feature. Dungeon delving, town/village adven
 ### Fatigue
 For each night the party skips making camp, each PC gains ***stress***. A party can travel or explore for three watches a day without getting fatigued. Each watch past three spent traveling or exploring results in a ***stress***.
 ## Advancement
-As there are no levels, PCs advance in a more diegetic way. They can invest their coin in training to increase their stamina, purchase new equipment, find trainers and opportunities for new talents, partake in downtime activities, create new spells, and more. Some mechanical benefits are gained through these advancements, but the main focus is on the narrative and the world. The arbiter should work with the players to make sure that the advancements are meaningful and interesting. Below are some specific methods of advancement.
-### Increasing Stamina
-PCs can spend a week to increase their stamina by spending coin to pay teachers, schools, guilds, libraries, churches, etc. for training. This initially costs 1,000p and increases your stamina by 1d6. This cost ***doubles*** for each subsequent increase, and ***you cannot have more than 30 stamina***. Make sure to track how many times you have increased your stamina so you don't forget how much it costs to increase it again.
+As there are no levels, PCs advance in a more diegetic way. They can purchase new equipment, find trainers and opportunities for new talents, partake in downtime activities, create new spells, and more. Some mechanical benefits are gained through these advancements, but the main focus is on the narrative and the world. The arbiter should work with the players to make sure that the advancements are meaningful and interesting. Below are some specific methods of advancement.
+### Gaining Experience
+As PCs delve into ruins, explore the world, make connections, and both fight and run from dangers, they are setting out on expeditions - journeys with a specific purpose. A successful expedition is one in which the PCs return to safety with something, anything, to show for it. This could be treasure, information, a new ally, or even a new scar. When a character has completed the listed requirements they have gained experience. ***Every time a PC advances they gain d6 stamina***.
+- ***Novice***: You start as a Novice. They have no experience and are just starting out.
+- ***Professional***: You have survived at least one expedition.
+- ***Expert***: You have survived at least three dangerous expeditions since reaching Professional.
+- ***Veteran***: You have survived at least five dangerous expeditions since reaching Expert, and have taken on an [heir](hired-help.md#heirs).
+- ***Master***: You have an heir who is an Expert, and have survived a dangerous expedition with them since reaching Veteran.
+
+It is important to note that not all activities the PCs undertake will count as expeditions. It is also likely that some expeditions will take multiple game sessions to complete, potentially requiring a return to civilization multiple times during them before completion. The arbiter should make it clear when an expedition has been completed, noting that while the goals of each expedition will be different, they must be considered dangerous to reach Expert and above. As long as the players are pushing themselves towards their goals and taking risks, they should have no problem advancing.
 ### New Talents
 Talents are not earned easily; they must be hunted for. This can be done via downtime turns or any other way the arbiter decides. [Learning a Talent](downtime.md#learning-a-talent) covers the process in detail on how to learn a talent in downtime. The max amount of talents a PC can have is ***6*** - if you wish to learn a new talent after reaching this limit, you must first forget one of your current talents.
 ### Improving Attributes

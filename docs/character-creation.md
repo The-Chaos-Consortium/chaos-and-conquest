@@ -18,8 +18,8 @@ PCs start with ***two Supplies*** (see [Equipment](equipment.md#supply)), a ***t
 ***Roll 6d6x10*** to determine your starting silver pennies. You may use this to buy additional equipment if you like.
 
 Either, roll a ***d20*** to randomly [determine a background](backgrounds/README.md), or pick a specific background below from the archetype you wish to follow.
-## Name & Age
-Name your character. Pick an age no younger than 18, or roll 2d10 + 16 for a random age. Choose a sex for your PC.
+## Name, Age, & Experience
+Name your character. Pick an age no younger than 18, or roll 2d10 + 16 for a random age. Choose a sex for your PC, and mark down your experience as Novice on your character sheet.
 ## Faction
 There is a constant cosmic war between the forces of ***Chaos***, ***Law***, and the ***Balance*** between them. Chaos and Law are neither good or evil - they are beyond such human concepts. Without the Balance, the equilibrium would be tipped, and the universe would be threatened with extinction.
 ### Chaos
