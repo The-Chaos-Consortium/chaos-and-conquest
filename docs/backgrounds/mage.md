@@ -4,7 +4,7 @@ A Mage is considered skilled at tasks pertaining to magic, and arcane lore. They
 All you’ve ever heard is that magic is the greatest subject in the world… or at least that’s what your master said. You’ve been kicked out; told to ‘see the world’ or some such thing. Your master told you that traveling in the company of mere mortals is good for you, but you’ve begun to suspect they just didn’t want to be distracted from their ‘very important research’.
 
 ***Equipment***
-- A cloak with magical emblems so you look the part - 0 slots
+- A cloak with magical emblems so you look the part - trivial
 - A staff - d6 damage
 - Books on magical theory - 1 slot
 - Grimoire - 2 slots, 1 spell
@@ -15,7 +15,7 @@ You thought it was smart to make a deal with a being from another dimension… t
 
 ***Equipment***
 - Eyes that glow an unnatural color and grant night vision - 1 slot
-- Skull of a daemon - 0 slots
+- Skull of a daemon - trivial
 - Grimoire - 2 slots, 1 spell
 
 ***Talents***: Arcane, Rituals, Bargaining

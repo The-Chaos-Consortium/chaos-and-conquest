@@ -1,5 +1,5 @@
 # Items & Equipment
-Most items take one slot to carry but some items, like weapons or armor, may take additional slots to carry. Some items like clothes or small trinkets are non-encumbering and do not take up inventory slots. These can be tracked in the notes section of your character sheet.
+Most items take one slot to carry but some items, like weapons or armor, may take additional slots to carry. Some items like clothes or small trinkets are ***trivial*** to carry and do not take up inventory slots. These can be tracked in the notes section of your character sheet.
 ## Currency
 Money is minted in two denominations: ***silver pennies (p)*** and ***gold marks (m)***. Coins vary slightly in size, but are approximately 19mm to 21mm in diameter - roughly the size of an American penny or nickel, but thinner. Characters are assumed to carry a small amount on their person to spend on small purchases and have the rest of their wealth stored somewhere else. Up to 500 coins may be carried on your person without taking up slots. If you wish to carry more coins, 1,000 coins of any denomination take up one slot. Consider using porters, retainers, mounts, or vehicles to carry large amounts of wealth.
 

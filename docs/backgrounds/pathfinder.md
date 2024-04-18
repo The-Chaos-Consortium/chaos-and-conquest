@@ -9,7 +9,7 @@ The roads are the lifeblood of civilization, and your task is to keep them flowi
 - Crossbow - d8 damage, two hands, 3 slots
 - Ammo
 - Small tent & cooking gear
-- Writ (often carried in a protective leather case) that shows your powers and legal rights - 0 slots
+- Writ (often carried in a protective leather case) that shows your powers and legal rights - trivial
 
 ***Talents***: Survival, Intimidation, Animals
 ## (2) Ranger
@@ -30,14 +30,14 @@ Some idiot is always trying to run and some other idiot is always willing to pay
 - Ammo
 - Sturdy rope
 - Manacles
-- d3 wanted posters - 0 slots
+- d3 wanted posters - trivial
 
 ***Talents***: Survival, Dirty Fighting, Rumors
 ## (4) Outlaw
 More than a common thief or burglar, you’re a romantic figure, a dashing rogue with a reputation to uphold... and perhaps a greater ambition than mere silver.
 
 ***Equipment***
-- Hooded cloak or hat and mask - 0 slots
+- Hooded cloak or hat and mask - trivial
 - Hand crossbow - d6 damage, 2 slots
 - Ammo
 
