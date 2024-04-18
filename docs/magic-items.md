@@ -23,4 +23,4 @@ A bag with three doses of shimmering purple powder. A creature who inhales it mu
 ### Rod of Anti-Magic
 While wielding this rod, no new spells can be cast in the area around the wielder and all spells affecting the wielder are canceled.
 ### Rutglut's Magical Bear Trap
-A magical bear trap on a chain. Can be thrown at a nearby target as a ranged attack, dealing d8 dmg and biting into the target, allowing the user to pull the target towards them (opposed STR save). Roars when thrown.
+A magical bear trap on a chain. Can be thrown at a nearby target as a ranged attack, dealing d8 damage and biting into the target, allowing the user to pull the target towards them (opposed STR save). Roars when thrown.

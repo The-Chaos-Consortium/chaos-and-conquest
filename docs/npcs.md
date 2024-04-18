@@ -45,7 +45,7 @@ Dog-sized gecko with pale translucent skin and big pupil-less eyes. Can produce 
 
 Bipedal fungus creatures. Can often be found cultivating gardens of luminescent fungi.
 ### Spellclaw
-***STR*** 9, ***DEX*** 10, ***WIL*** 13, ***Stamina*** 6, ***AV*** 2, ***ML*** 7, ***ATK*** Claws (d6), Absorb Magic(Special), ***SPL*** Spellclaws are immune to spells and the powers of magical items, ***SPL*** Spellclaws can drain the magic from an item they touch, doing so grants them the powers of the drained item for 1d6 days, ***CRIT*** Leech a part of the target's soul (1d4 WIL dmg).
+***STR*** 9, ***DEX*** 10, ***WIL*** 13, ***Stamina*** 6, ***AV*** 2, ***ML*** 7, ***ATK*** Claws (d6), Absorb Magic(Special), ***SPL*** Spellclaws are immune to spells and the powers of magical items, ***SPL*** Spellclaws can drain the magic from an item they touch, doing so grants them the powers of the drained item for 1d6 days, ***CRIT*** Leech a part of the target's soul (1d4 WIL damage).
 
 Small humanoid creatures with cracked obsidian skin, white pupils, and long glass-like transparent claws. Spellclaws are often found around places of magical power trying to find spells to absorb to feed their hunger.
 ### Shadow
@@ -57,6 +57,6 @@ A faceless silhouette made from swirling black shadows.
 
 Big proud intelligent fire-breathing lizards with wings. You know what a dragon is.
 ### Duelist
-***STR*** 12, ***DEX*** 14, ***WIL*** 12, ***Stamina*** 4, ***AV*** 1, ***ML*** 7, ***ATK*** Pistol (d10), Dueling Cane (d6), ***CRIT*** Coup de grâce (d10 dmg)
+***STR*** 12, ***DEX*** 14, ***WIL*** 12, ***Stamina*** 4, ***AV*** 1, ***ML*** 7, ***ATK*** Pistol (d10), Dueling Cane (d6), ***CRIT*** Coup de grâce (d10 damage)
 
 Someone who lives for a fight. Loves political intrigue and a good pistol duel.

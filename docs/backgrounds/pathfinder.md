@@ -5,8 +5,8 @@ The roads are the lifeblood of civilization, and your task is to keep them flowi
 
 ***Equipment***
 - A horse - your best friend. See [mounts](equipment.md#mounts) for stats
-- Polearm - d10 dmg, two hands, 3 slots
-- Crossbow - d8 dmg, two hands, 3 slots
+- Polearm - d10 damage, two hands, 3 slots
+- Crossbow - d8 damage, two hands, 3 slots
 - Ammo
 - Small tent & cooking gear
 - Writ (often carried in a protective leather case) that shows your powers and legal rights - 0 slots
@@ -16,17 +16,17 @@ The roads are the lifeblood of civilization, and your task is to keep them flowi
 You’ve never been one for the hustle and bustle of the cities - you feel alive within the forests of the lands, surviving off whatever you can find and hunt.
 
 ***Equipment***
-- Longbow - d8 dmg, two hands, 3 slots
+- Longbow - d8 damage, two hands, 3 slots
 - Ammo
-- Short Sword - d6 dmg
-- Trap - d6 dmg, on failed STR save stuck
+- Short Sword - d6 damage
+- Trap - d6 damage, on failed STR save stuck
 
 ***Talents***: Survival, Herbalism, Stealth
 ## (3) Bounty Hunter
 Some idiot is always trying to run and some other idiot is always willing to pay money for the first idiot to be brought back.
 
 ***Equipment***
-- Pistol - d6+1 dmg, loud, 2 slots
+- Pistol - d6+1 damage, loud, 2 slots
 - Ammo
 - Sturdy rope
 - Manacles
@@ -38,7 +38,7 @@ More than a common thief or burglar, you’re a romantic figure, a dashing rogue
 
 ***Equipment***
 - Hooded cloak or hat and mask - 0 slots
-- Hand crossbow - d6 dmg, 2 slots
+- Hand crossbow - d6 damage, 2 slots
 - Ammo
 
 ***Talents***: Survival, Performance, Traps

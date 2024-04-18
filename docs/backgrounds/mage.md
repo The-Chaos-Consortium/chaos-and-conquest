@@ -5,7 +5,7 @@ All you’ve ever heard is that magic is the greatest subject in the world… or
 
 ***Equipment***
 - A cloak with magical emblems so you look the part - 0 slots
-- A staff - d6 dmg
+- A staff - d6 damage
 - Books on magical theory - 1 slot
 - Grimoire - 2 slots, 1 spell
 

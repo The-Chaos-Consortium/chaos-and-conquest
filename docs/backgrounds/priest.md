@@ -5,7 +5,7 @@ You’ve been known to banish a spirit or two from people and places.
 
 ***Equipment***
 - Necklace of beads - 0 slots
-- Holy Water - undead take d8 dmg if doused in it, bypassing AV
+- Holy Water - undead take d8 damage if doused in it, bypassing AV
 - Scroll of Bless
 
 ***Talents***: Religion, Spirits, Divine Wards
@@ -14,7 +14,7 @@ You are a fearsome warrior who has sworn an oath to take a stand in the cosmic w
 
 ***Equipment***
 - Brigandine - Medium Armor, 2 slots
-- Warhammer - d10 dmg, two hands, 3 slots
+- Warhammer - d10 damage, two hands, 3 slots
 - Scroll of Heal
 - Holy Symbol - 0 slots
 
@@ -36,6 +36,6 @@ You’ve become convinced nobody comes into money the fair way, and without adva
 - Vials of sugar water
 - Pack of cards - 0 slots
 - d6 counterfeit silver coins
-- Club - d6 dmg
+- Club - d6 damage
 
 ***Talents***: Religion, Silver Tongue, Forgery

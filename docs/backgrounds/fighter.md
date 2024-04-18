@@ -5,8 +5,8 @@ Once you’ve seen the horrors of war you can never truly return to civilian lif
 
 ***Equipment***
 - Suit of Mail - medium armor, 2 slots
-- Arming sword - d8 dmg, 2 slots
-- Short Spear - d6 dmg
+- Arming sword - d8 damage, 2 slots
+- Short Spear - d6 damage
 - Shield with the emblem of your last commission
 
 ***Talents***: Armor Master, Tactics, Endurance
@@ -15,7 +15,7 @@ You’re an elite, professional soldier, generally, but not always of noble bloo
 
 ***Equipment***
 - Heavy Plate Armor, 3 slots
-- Longsword - d10 dmg, two hands, 3 slots
+- Longsword - d10 damage, two hands, 3 slots
 - Warhorse - see [mounts](equipment.md#mounts) for stats
 - Squire - See retainer rules for generation. Armed with a spear and a desire to prove themself
 
@@ -24,8 +24,8 @@ You’re an elite, professional soldier, generally, but not always of noble bloo
 Few people know how to wield a sword or a pistol, yet all men have honor. And you’ve learned to wield both to your advantage.
 
 ***Equipment***
-- Rapier - d8 dmg, 2 slots
-- Pistol - d6+1 dmg, loud, 2 slots total
+- Rapier - d8 damage, 2 slots
+- Pistol - d6+1 damage, loud, 2 slots total
 - Ammo
 - Light armor
 
@@ -36,8 +36,8 @@ Sure the nobles are bad, but you know what’s worse? Vampire nobles. Literal an
 ***Equipment***
 - Kickass hat - helmet
 - A string of garlic
-- Holy water - undead take d8 dmg if doused in it, bypassing AV
-- A silver knife - d6 dmg
+- Holy water - undead take d8 damage if doused in it, bypassing AV
+- A silver knife - d6 damage
 - A stake of hawthorn wood
 
 ***Talents***: Armor Master, Monster Lore, History

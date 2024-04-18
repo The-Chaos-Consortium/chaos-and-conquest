@@ -4,8 +4,8 @@ A Thief is considered skilled at tasks pertaining to thievery, such as stealth, 
 It’s a truth universally acknowledged that a town with a rat problem must be in want of a catcher. And, oh dear, there’s a lot of rats out there.
 
 ***Equipment***
-- A staff adorned with dead rats, the mark of your trade - d6 dmg
-- A dinky yet ferocious dog - 3 stamina, 6 STR, 8 DEX, 10 WIL, 8 ML, Bite d6 dmg
+- A staff adorned with dead rats, the mark of your trade - d6 damage
+- A dinky yet ferocious dog - 3 stamina, 6 STR, 8 DEX, 10 WIL, 8 ML, Bite d6 damage
 - Flute
 
 ***Talents***: Stealth, Traps, Animals
@@ -15,7 +15,7 @@ Living on the streets, you’re ignored by almost everyone. Invisible & beneath 
 ***Equipment***
 - Tin bowl or cup - 0 slots
 - Ragged clothes - 0 slots
-- Club - d6 dmg
+- Club - d6 damage
 
 ***Talents***: Stealth, Pick-pocketing, Disguise
 ## (19) Grave Robber

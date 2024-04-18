@@ -80,20 +80,20 @@ PCs can acquire specific items for cheaper prices than using ***Supply***. Doing
 |            Animal Feed (7 days)            |   1   |  20p  |   1    |
 
 ## Weapons & Armor
-|                 Weapon                 |                      Traits                       | Slots | Price  | Rarity |
-| :------------------------------------: | :-----------------------------------------------: | :---: | :----: | :----: |
-|          Improvised, Unarmed           |                      d4 dmg                       |   -   |   -    |   -    |
-| Dagger, Club, Staff, Short sword, etc. |                      d6 dmg                       |   1   |  50p   |   1    |
-|     Sword, Axe, Flail, Lance, etc.     |                      d8 dmg                       |   2   |  250p  |   2    |
-|  Longsword, Halberd, Warhammer, etc.   |             d10 dmg, two hands, reach             |   3   |  500p  |   3    |
-|      Sling, Hand Crossbow, Thrown      |            d6 dmg, two hands to reload            |   2   |  100p  |   2    |
-|             Bow, Crossbow              |           d8 dmg, two hands, long range           |   3   |  400p  |   3    |
-|     Pistol (Flintlock, Wheellock)      |        d6+1 dmg, two hands to reload, loud        |   2   |  500p  |   5    |
-|     Musket (Flintlock, Wheellock)      |             d8+1 dmg, two hands, loud             |   3   | 1,200p |   5    |
-|   Scattergun (Flintlock, Wheellock)    |          d6 dmg, blast, two hands, loud           |   3   | 2,400p |   5    |
-|                  Ammo                  |                     see Ammo                      |   1   |  50p   |   2    |
-|              Flask of Oil              | d8 dmg for two rounds if target is doused and lit |   1   | Supply |   2    |
-|               Holy Water               | undead take d8 dmg if doused in it, bypassing AV  |   1   |  250p  |   3    |
+|                 Weapon                 |                        Traits                        | Slots | Price  | Rarity |
+| :------------------------------------: | :--------------------------------------------------: | :---: | :----: | :----: |
+|          Improvised, Unarmed           |                      d4 damage                       |   -   |   -    |   -    |
+| Dagger, Club, Staff, Short sword, etc. |                      d6 damage                       |   1   |  50p   |   1    |
+|     Sword, Axe, Flail, Lance, etc.     |                      d8 damage                       |   2   |  250p  |   2    |
+|  Longsword, Halberd, Warhammer, etc.   |             d10 damage, two hands, reach             |   3   |  500p  |   3    |
+|      Sling, Hand Crossbow, Thrown      |            d6 damage, two hands to reload            |   2   |  100p  |   2    |
+|             Bow, Crossbow              |           d8 damage, two hands, long range           |   3   |  400p  |   3    |
+|     Pistol (Flintlock, Wheellock)      |        d6+1 damage, two hands to reload, loud        |   2   |  500p  |   5    |
+|     Musket (Flintlock, Wheellock)      |             d8+1 damage, two hands, loud             |   3   | 1,200p |   5    |
+|   Scattergun (Flintlock, Wheellock)    |          d6 damage, blast, two hands, loud           |   3   | 2,400p |   5    |
+|                  Ammo                  |                       see Ammo                       |   1   |  50p   |   2    |
+|              Flask of Oil              | d8 damage for two rounds if target is doused and lit |   1   | Supply |   2    |
+|               Holy Water               | undead take d8 damage if doused in it, bypassing AV  |   1   |  250p  |   3    |
 
 |        Armor         |                                  Traits                                  | Slots | Price  | Rarity |
 | :------------------: | :----------------------------------------------------------------------: | :---: | :----: | :----: |
