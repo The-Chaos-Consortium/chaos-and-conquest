@@ -160,26 +160,14 @@ Prices for buildings are the costs of construction. Prices to buy are usually 2-
 |  War Horse   |             5/15             |      24       | 10,000p |   4    |
 |     Mule     |            10/40             |      24       |  500p   |   1    |
 
-Riding Horse
-- Stamina: 2d6
-- Attributes: 9 STR, 9 DEX, 9 WIL
-- Morale: 7
-- Grazing: Can survive purely on grass.
+### Riding Horse
+***STR*** 10, ***DEX*** 14, ***WIL*** 10, ***Stamina*** 6, ***ML*** 7 ***ATK*** Kick (d6) ***SPL*** Can survive purely on grass.
 
-War Horse
-- Stamina: 3d6
-- Attributes: 10 STR, 10 DEX, 10 WIL
-- Morale: 9
-- Charge: When not in melee and running from nearby to close a lance does double damage.
-- Melee: When in melee the horse and rider can both attack.
+### War Horse
+***STR*** 14, ***DEX*** 8, ***WIL*** 12, ***Stamina*** 9, ***ML*** 9, ***ATK*** Kick (d8), ***SPL*** When not in melee and running from nearby to close a rider using a lance does double damage, ***SPL*** When in melee the horse and rider can both attack.
 
-Mule
-- Stamina: 2d6
-- Attributes: 9 STR, 9 DEX, 9 WIL
-- Morale: 9
-- Hardy: May be taken underground if the arbiter allows it.
-- Defensive: May attack in self-defense, but will never attack on command.
-- Grazing: Can survive purely on grass.
+### Mule
+***STR*** 12, ***DEX*** 10, ***WIL*** 12, ***Stamina*** 6, ***ML*** 9 ***ATK*** Kick (d6) ***SPL*** Can survive purely on grass, ***SPL*** May be taken underground if the arbiter allows it, ***SPL*** May attack in self-defense, but will never attack on command.
 
 ## Vehicles
 |       Vehicle       |  Miles per Day  |   Crew or Animals   | Slots  |  Price   | Rarity |

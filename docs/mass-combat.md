@@ -8,7 +8,7 @@ Large groups of combatants fighting together are treated as a detachment. ***Det
 
 Detachments are described using the following statistics:
 - ***Attributes*** - A detachment's Strength, Dexterity and Willpower. When not explicitly defined, assume a score of 10. The arbiter uses these for any save the detachment needs to make. Attributes can't be higher than 18. 3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, and 18 is legendary. Adjust as necessary, and they can be modified up or down depending on the detachment’s training, equipment, the WIL or skill of the leader(s), etc.
-- ***Stamina*** - Shown as the amount of d6s rolled to determine stamina. Max stamina is 60, and the value should be based on the makeup of the detachment. A fresh detachment of conscripts might have 1d6, while the elite guard of a king might have 5d6.
+- ***Stamina*** - A measure of one's ability to avoid life-threatening harm. Max stamina is 30, and the value should be based on the makeup of the detachment. A fresh detachment of conscripts might have 4, while the elite guard of a king might have 15.
 - ***Armor Value (AV)*** - The amount of damage a detachment can take before it starts losing stamina. Is equal to the lowest AV of a single member.
 - ***Morale (ML)*** - A detachment’s odds of giving up during battle.
 - Possible ***attacks*** and/or ***special abilities*** the detachment might have. Generally based on their equipment.
@@ -17,8 +17,8 @@ Detachments are described using the following statistics:
 - Individuals make disadvantaged attacks unless they do blast damage.
 - Detachments cause blast damage to individuals.
 - Equal sized detachments do normal weapon damage
-- When combatants of different size-classes fight, the larger combatant gains +2 AV and +d6 stamina for each step higher above their opponent's size. The larger combatant also attacks with advantage.
-- After a detachment’s stamina is reduced to 0, they take any remaining damage to their STR and must make a STR save. On a success the the detachment drops a size, the stamina is re-rolled and AV re-calculated with a lower bonus, and the survivors stay in the fight. On a failure the survivors must make a morale save - failure leading them to either flee or surrender. A detachment reduced to 0 STR is wiped out. The leader must roll a DEX save upon the detachment being reduced to 0 STR. If failed, the leader is killed.
+- When combatants of different size-classes fight, the larger combatant gains +3 stamina for each step higher above their opponent's size and also attacks with advantage. The smaller combatant attacks with disadvantage.
+- After a detachment’s stamina is reduced to 0, they take any remaining damage to their STR and must make a STR save. On a success the detachment drops a size, their stamina is reset and re-calculated with a lower bonus if still a large enough size, and the survivors stay in the fight. On a failure the survivors must make a morale save - failure leading them to either flee or surrender. A detachment reduced to 0 STR is wiped out. The leader must roll a DEX save upon the detachment being reduced to 0 STR. If failed, the leader is killed.
 
 ## Quick Mass Combat
 For smaller scale battles the arbiter can use the above detachment rules to handle mass combat. They are perfectly usable for large scale battles as well if the group would like to actively play out the fight; while the above detachment sizes are recommended, the arbiter can use whatever detachment sizes they feel comfortable with, with large detachments being 5,000+ combatants in a Roman Legion for example.

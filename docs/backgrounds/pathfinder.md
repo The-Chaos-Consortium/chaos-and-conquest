@@ -4,7 +4,7 @@ A Pathfinder is considered skilled at tasks related to surviving in the world, o
 The roads are the lifeblood of civilization, and your task is to keep them flowing. All manner of beasts and men threaten the flow, and you must stand against them all.
 
 ***Equipment***
-- A horse - your best friend. 2d6 stamina, 9 STR, DEX, WIL, 7 ML. 10 Slots when ridden, 20 when not
+- A horse - your best friend. See [mounts](equipment.md#mounts) for stats
 - Polearm - d10 dmg, two hands, 3 slots
 - Crossbow - d8 dmg, two hands, 3 slots
 - Ammo
