@@ -82,7 +82,7 @@ Attacks suitably large enough to affect all targets in the appropriate area. Dam
 ### Critical Hits
 Rolling ***maximum damage*** on a weapon’s damage dice is a ***critical hit***. It bypasses all armor, and ***decreases the target’s AV by 1***. This decrease happens at the end of the round.
 ### Armor
-If a creature takes damage while they’re wearing armor, the damage is ***reduced*** by their ***Armor Value (AV)***. Any damage above the AV reduces stamina. Humanoids can have a ***max of 4 AV*** normally - with magic items this can go up to 6 AV.
+If a creature takes damage while they’re wearing armor, the damage is ***reduced*** by their ***Armor Value (AV)***. Any damage above the AV reduces stamina. Humanoids can have a ***max of 4 AV***.
 
 Some attacks or effects may deal damage directly and ignore a creature’s armor.
 ### Shields
