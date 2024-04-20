@@ -52,7 +52,7 @@ Before making a save, if their character has at least one empty inventory slot, 
 NPCs cannot push themselves.
 ## Combat
 Combat is played in ***rounds***. Each round:
-1. ***Establish combat order***. Roll a d6 to determine the combat order this round; 1 - 3 the PCs and allies act first, 4 - 6 the NPCs act first. The arbiter determines if a side is surprised, and if so, they do not act in the first round.
+1. ***Establish combat order***. Roll a d6 to determine the combat order this round; 1 - 3 the PCs and allies act first, 4 - 6 the NPCs act first. The arbiter determines if a side is surprised, and if so, they do not act in the first round. If the PCs win initiative, they may choose to delay their actions and act at the end of the round, after everyone else has acted.
 2. ***Each side acts***. When a character can act they may move around and take an action. This action may be attacking, casting a spell, making a second move or any other action deemed reasonable by the arbiter. Each character should declare their actions and enact them simultaneously. This means when multiple people are attacking the same target, they all roll their damage at the same time.
 
 ### Attacks
