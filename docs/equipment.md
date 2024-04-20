@@ -66,6 +66,7 @@ Tallying up the LP a party has determines the party’s light level:
 - Bright - LP equal to or greater than the number of party members. The party has advantage on surprise, but cannot surprise their enemies.
 - Dim - Less LP than the number of party members, but more LP than half the party size. Ranged attacks are at disadvantage.
 - Darkness - LP less than half the number of party members. All attacks are at disadvantage, saves are at disadvantage, and the party is always surprised.
+- Pitch Black - 0 LP. The party is unable to navigate effectively, cannot fight, saves are at disadvantage, and the party is always surprised.
 
 ## Basic Gear
 PCs can acquire specific items for cheaper prices than using ***Supply***. Doing this loses the flexibility of supply, but will be cheaper if you know exactly what you need.
