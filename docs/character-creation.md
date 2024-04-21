@@ -17,7 +17,7 @@ PCs start with ***two Supplies*** (see [Equipment](equipment.md#supply)), a ***t
 
 ***Roll 6d6x10*** to determine your starting silver pennies. You may use this to buy additional equipment if you like.
 
-Either, roll a ***d20*** to randomly [determine a background](backgrounds/README.md), or pick a specific background below from the archetype you wish to follow.
+Either, roll a ***d20*** to randomly [determine a background](backgrounds/README.md), or pick a specific background from the available options.
 ## Name, Age, & Experience
 Name your character. Pick an age no younger than 18, or roll 2d10 + 16 for a random age. Choose a sex for your PC, and mark down your experience as Novice on your character sheet.
 ## Faction
