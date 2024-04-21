@@ -68,11 +68,11 @@ Any action that is not a simple action, attack, or spellcasting is a combat mane
 
 Other than blast damage attacks, combat maneuvers are generally the only way a group of individuals have a chance at damaging a detachment.
 ### Damage
-When a character is damaged, they lose that amount of stamina. Stamina is a measure of one's ability to avoid life-threatening harm. If they have no stamina left, they are wounded, and the remaining damage is removed from their STR. They then must make a STR save to avoid ***critical damage***. 
-### Critical Damage
-Taking critical damages means they fall unconscious and are dying, and must roll on the Scars table. The dying character must have their wounds treated by another character and have a ***short rest*** within an hour or they die. NPCs other than retainers die immediately upon receiving critical damage. Some enemies will have special abilities or effects that occur when their target fails a save against critical damage.
+When a character is damaged, they lose that amount of stamina. Stamina is a measure of one's ability to avoid life-threatening harm. If they have no stamina left, they are wounded, and the remaining damage is removed from their STR. They then must make a STR save to avoid ***critical damage***.
 
 Some attacks can do DEX or WIL damage instead of STR damage, reducing those attributes after losing all stamina. Losing DEX or WIL requires a respective save to avoid ***critical damage***.
+### Critical Damage
+Taking critical damages means they fall unconscious and are dying, and must roll on the Scars table. The dying character must have their wounds treated by another character and have a ***short rest*** within an hour or they die. NPCs other than retainers die immediately upon receiving critical damage. Some enemies will have special abilities or effects that occur when their target fails a save against critical damage.
 ### Death
 ***If any attribute is reduced to 0, the character dies***. Whenever a character dies the player may choose to play as one of their retainers, or make a new character. If the player makes a new character, the arbiter finds a way to have them join the group as soon as possible - quickness is required over realism.
 ### Blast Damage
