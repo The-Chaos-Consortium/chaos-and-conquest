@@ -88,9 +88,7 @@ Wielding a shield allows you to sunder it, breaking it beyond repair, in order t
 ### Dual Wielding
 If dual-wielding a set of weapons, roll damage for both and choose which result to keep.
 ### Mounted Combat
-When mounted a PC attacks with advantage when in melee combat against a foe smaller than them.
-
-A horse or similar mount is required to have this benefit.
+When mounted a PC attacks with advantage when in melee combat against a foe smaller than them. A horse or similar mount is required to have this benefit.
 ### Worn Weapons
 ***Roll a d6 at the end of combat*** in which the PC used a weapon. On a ***result of 1***, their weapon becomes ***worn***. A worn weapon has its damage reduced to 1 until it is repaired. A worn weapon cannot do a critical hit.
 
