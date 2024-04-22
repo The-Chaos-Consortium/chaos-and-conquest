@@ -73,6 +73,21 @@ When a character is damaged, they lose that amount of stamina. Stamina is a meas
 Some attacks can do DEX or WIL damage instead of STR damage, reducing those attributes after losing all stamina. Losing DEX or WIL requires a respective save to avoid ***critical damage***.
 ### Critical Damage
 Taking critical damages means they fall unconscious and are dying, and must roll on the Scars table. The dying character must have their wounds treated by another character and have a ***short rest*** within an hour or they die. NPCs other than retainers die immediately upon receiving critical damage. Some enemies will have special abilities or effects that occur when their target fails a save against critical damage.
+### Scars
+
+| d10 |                                                                           Scar                                                                            |
+| :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  1  |                       Scarred - A part of you is violently marked. Roll 1d6; 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear.                        |
+|  2  |                                                           Sickly - You lose 1 STR permanently.                                                            |
+|  3  |                                           Hobbled - Reduced to a limp until fixed. Also lose 1 DEX permanently.                                           |
+|  4  |                                                            Dazed - You lose 1 WIL permanently.                                                            |
+|  5  | Reorienting Head Wound - Roll 1d6; 1-2: STR, 3-4: DEX, 5-6: WIL. Roll 3d6. If the total is higher than your current attribute score, take the new result. |
+|  6  |                                   Chronic Wound - Your wound seems to never heal. Permanently lose 2 stamina and 2 STR.                                   |
+|  7  |                                                              Shattered Leg - You lose a leg.                                                              |
+|  8  |                                                    Lost Eye - All ranged attacks are at disadvantage.                                                     |
+|  9  |                                                              Severed Arm - You lose an arm.                                                               |
+| 10  |                        Doomed - You were meant to die. The next time you fail your save against critical damage you violently die.                        |
+
 ### Death
 ***If any attribute is reduced to 0, the character dies***. Whenever a character dies the player may choose to play as one of their retainers, or make a new character. If the player makes a new character, the arbiter finds a way to have them join the group as soon as possible - quickness is required over realism.
 ### Blast Damage
@@ -105,21 +120,6 @@ Movement within a zone is free - there are no restrictions on singular zone move
 If a PC wishes to move away when engaged in a melee with one or more enemies they must make a successful ***DEX*** save. If the save is failed, you must choose to either be stuck in melee and lose your movement, or the enemy is granted a free attack before your movement. If an action is used to move away carefully, no ***DEX*** save is required.
 ### Retreat
 Running away from a dire situation always requires a successful ***DEX*** save, as well as a safe destination to run to.
-### Scars
-
-| d10 |                                                                           Scar                                                                            |
-| :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  1  |                       Scarred - A part of you is violently marked. Roll 1d6; 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear.                        |
-|  2  |                                                           Sickly - You lose 1 STR permanently.                                                            |
-|  3  |                                           Hobbled - Reduced to a limp until fixed. Also lose 1 DEX permanently.                                           |
-|  4  |                                                            Dazed - You lose 1 WIL permanently.                                                            |
-|  5  | Reorienting Head Wound - Roll 1d6; 1-2: STR, 3-4: DEX, 5-6: WIL. Roll 3d6. If the total is higher than your current attribute score, take the new result. |
-|  6  |                                   Chronic Wound - Your wound seems to never heal. Permanently lose 2 stamina and 2 STR.                                   |
-|  7  |                                                              Shattered Leg - You lose a leg.                                                              |
-|  8  |                                                    Lost Eye - All ranged attacks are at disadvantage.                                                     |
-|  9  |                                                              Severed Arm - You lose an arm.                                                               |
-| 10  |                        Doomed - You were meant to die. The next time you fail your save against critical damage you violently die.                        |
-
 ## Rest & Healing
 ***Short Rest***: Immediately following a battle, a PC may spend a turn catching their breath to regain d6 stamina, and spend a single supply to repair a weapon or armor. This can only happen once after each battle.
 
