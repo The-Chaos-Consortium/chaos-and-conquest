@@ -148,7 +148,7 @@ Roll a d6 + your current corruption to determine the effect.
 | 19  | Your chaotic aura becomes so potent that it disrupts the flow of magic around you, causing spells cast nearby to become unstable and unpredictable. Permanent.                         |
 | 20  | You becomes a beacon of chaos, drawing chaotic beings and phenomena to you like moths to a flame. Permanent.                                                                           |
 | 21  | You gains resistance to chaotic influences, allowing you to maintain your sanity and free will in the face of overwhelming chaos. Permanent.                                           |
-| 22+ | You have become a daemon prince of chaos, and have been lost to the aether. You will reek havoc on the mortal plain... You have damned us all.                                         |
+| 22+ | You have become a daemon prince of chaos, and have been lost to the aether. You will wreak havoc on the mortal plain... You have damned us all.                                         |
 
 The arbiter should feel free to modify the effects of corruption to better fit the campaign and the character's background, or even create your own corruption effects table.
 ## NPC Spellcasters
