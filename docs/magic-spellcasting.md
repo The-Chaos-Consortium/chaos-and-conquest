@@ -115,6 +115,8 @@ A spellcaster cannot attempt a spell with an ***initial*** maximum cost higher t
 Magic interference is caused when healing is used to replenish what it expends, like casting a Heal spell on yourself. The caster must make a WIL save for nothing to happen. Failure requires gaining d6 corruption, and then a roll on the corruption table.
 
 Habitual casters of spells - those with spellbooks of their own - are more susceptible to magical interference. Anytime they are healed by magic, regardless of who casts the spell or whether it is a potion or another form of magical healing, they must make a WIL save as described above.
+### NPC Spellcasters
+NPC spellcasters follow the same rules as PCs. The arbiter should give them one or more spell wordings depending on their background and what makes sense. Certain spellcasters, or even non spellcasting NPCs, may have one or more scrolls in their possession. Just as PCs lose stamina, so do NPCs.
 ## Corruption
 Corruption is the influence of chaos made manifest within an individual. This can be represented by physical mutations, madness, despair, or any other number of effects. Characters track their current corruption, which starts at 0, on their character sheet. There are many ways in which a character can gain corruption, but the most common is through the casting of spells. When a character gains corruption they have the ***option*** of making a WIL save. A failure means that the character's corruption has had an effect on them, the gravity of which is determined by a roll on the corruption table. The character's corruption is then reset to 0. A successful save means there is no effect, and the character's corruption is reduced by d6. The character can also choose to not make the save, provided their corruption is not too high. The character can then not make a save until their corruption has increased further.
 
@@ -151,5 +153,3 @@ Roll a d6 + your current corruption to determine the effect.
 | 22+ | You have become a daemon prince of chaos, and have been lost to the aether. You will wreak havoc on the mortal plain... You have damned us all.                                         |
 
 The arbiter should feel free to modify the effects of corruption to better fit the campaign and the character's background, or even create your own corruption effects table.
-## NPC Spellcasters
-NPC spellcasters follow the same rules as PCs. The arbiter should give them one or more spell wordings depending on their background and what makes sense. Certain spellcasters, or even non spellcasting NPCs, may have one or more scrolls in their possession. Just as PCs lose stamina, so do NPCs.
