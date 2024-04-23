@@ -165,10 +165,10 @@ Prices for buildings are the costs of construction. Prices to buy are usually 2-
 ***STR*** 10, ***DEX*** 14, ***WIL*** 10, ***Stamina*** 6, ***ML*** 7 ***ATK*** Kick (d6) ***SPL*** Can survive purely on grass.
 
 ### War Horse
-***STR*** 14, ***DEX*** 8, ***WIL*** 12, ***Stamina*** 9, ***ML*** 9, ***ATK*** Kick (d8), ***SPL*** When not in melee and running from nearby to close a rider using a lance does double damage, ***SPL*** When in melee the horse and rider can both attack.
+***STR*** 14, ***DEX*** 8, ***WIL*** 12, ***Stamina*** 9, ***ML*** 9, ***ATK*** Kick (d8), ***SPL*** When not in melee and running from nearby to close a rider using a lance does double damage. When in melee the horse and rider can both attack.
 
 ### Mule
-***STR*** 12, ***DEX*** 10, ***WIL*** 12, ***Stamina*** 6, ***ML*** 9 ***ATK*** Kick (d6) ***SPL*** Can survive purely on grass, ***SPL*** May be taken underground if the arbiter allows it, ***SPL*** May attack in self-defense, but will never attack on command.
+***STR*** 12, ***DEX*** 10, ***WIL*** 12, ***Stamina*** 6, ***ML*** 9 ***ATK*** Kick (d6) ***SPL*** Can survive purely on grass. May be taken underground if the arbiter allows it. May attack in self-defense, but will never attack on command.
 
 ## Vehicles
 |       Vehicle       |  Miles per Day  |   Crew or Animals   | Slots  |  Price   | Rarity |

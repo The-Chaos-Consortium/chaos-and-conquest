@@ -41,19 +41,19 @@ An ancient, sentient, fleshy mass. It levitates around its lair and knows when i
 
 Dog-sized gecko with pale translucent skin and big pupil-less eyes. Can produce a paralyzing shockwave.
 ### Myconid
-***STR*** 8, ***DEX*** 10, ***WIL*** 10, ***Stamina*** 3, ***AV*** 1, ***ML*** 7, ***ATK*** Gardening tool (d6), ***SPL*** Can see in total darkness, ***SPL*** When hit they release a cloud of spores. Creatures breathing them in must make a STR save or take d4 direct damage.
+***STR*** 8, ***DEX*** 10, ***WIL*** 10, ***Stamina*** 3, ***AV*** 1, ***ML*** 7, ***ATK*** Gardening tool (d6), ***SPL*** Can see in total darkness. When hit they release a cloud of spores. Creatures breathing them in must make a STR save or take d4 direct damage.
 
 Bipedal fungus creatures. Can often be found cultivating gardens of luminescent fungi.
 ### Spellclaw
-***STR*** 9, ***DEX*** 10, ***WIL*** 13, ***Stamina*** 6, ***AV*** 2, ***ML*** 7, ***ATK*** Claws (d6), Absorb Magic(Special), ***SPL*** Spellclaws are immune to spells and the powers of magical items, ***SPL*** Spellclaws can drain the magic from an item they touch, doing so grants them the powers of the drained item for 1d6 days, ***CRIT*** Leech a part of the target's soul (1d4 WIL damage).
+***STR*** 9, ***DEX*** 10, ***WIL*** 13, ***Stamina*** 6, ***AV*** 2, ***ML*** 7, ***ATK*** Claws (d6), Absorb Magic(Special), ***SPL*** Spellclaws are immune to spells and the powers of magical items. Spellclaws can drain the magic from an item they touch, doing so grants them the powers of the drained item for 1d6 days, ***CRIT*** Leech a part of the target's soul (1d4 WIL damage).
 
 Small humanoid creatures with cracked obsidian skin, white pupils, and long glass-like transparent claws. Spellclaws are often found around places of magical power trying to find spells to absorb to feed their hunger.
 ### Shadow
-***STR*** 9, ***DEX*** 13, ***WIL*** 10, ***Stamina*** 6, ***ML*** 12, ***ATK*** Touch (d6 + 1 permanent STR loss. If a PC’s STR gets reduced below 0 they die and rise as a shadow.), ***SPL*** Unaffected by charm or sleep effects due to undeath, ***SPL*** Can only be affected by spells or magical weapons.
+***STR*** 9, ***DEX*** 13, ***WIL*** 10, ***Stamina*** 6, ***ML*** 12, ***ATK*** Touch (d6 + 1 permanent STR loss. If a PC’s STR gets reduced below 0 they die and rise as a shadow.), ***SPL*** Unaffected by charm or sleep effects due to undeath. Can only be affected by spells or magical weapons.
 
 A faceless silhouette made from swirling black shadows.
 ### Dragon
-***STR*** 17, ***DEX*** 17, ***WIL*** 17, ***Stamina*** 24, ***AV*** 6 ***ML*** 10, ***ATK*** Bite (3d6),  Fire Breath (8 STR damage, blast, destroys all mundane armor it touches), ***SPL*** Fights as a small detachment, ***SPL*** Immune to fire and PCs attempting to cast a spell with the dragon as the target, gain an automatic stress.
+***STR*** 17, ***DEX*** 17, ***WIL*** 17, ***Stamina*** 24, ***AV*** 6 ***ML*** 10, ***ATK*** Bite (3d6),  Fire Breath (8 STR damage, blast, destroys all mundane armor it touches), ***SPL*** Fights as a small detachment. Immune to fire, and PCs attempting to cast a spell with the dragon as the target gain an automatic stress.
 
 Big proud intelligent fire-breathing lizards with wings. You know what a dragon is.
 ### Duelist
