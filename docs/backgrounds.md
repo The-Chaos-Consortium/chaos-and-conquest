@@ -169,7 +169,7 @@ You thought it was smart to make a deal with a being from another dimension… t
 All things pass from one form to another, ice to water, water to steam, bodies to souls, lead to gold. Probably. Maybe. You’ve just gotta keep trying. And find someone to finance your experiments.
 
 ***Equipment***
-- Small chest containing an alembic, portal athanor and various dishes, bottles, vials and raw materials.
+- Small chest containing an alembic, portal athanor and various dishes, bottles, vials and raw materials
 - Tonic of Health
 - Grimoire - 2 slots, 1 spell
 
@@ -179,7 +179,7 @@ You hold the wisdom that has been passed down through generations to aid and pro
 
 ***Equipment***
 - Candles, herbs, chalk, needles
-- An animal familiar with an ironic or absurd name - 2 stamina, 6 STR, 10 DEX, 10 WIL, 7 ML
+- An animal familiar with an ironic or absurd name - ***Stamina*** 2, ***STR*** 6, ***DEX*** 10, ***WIL*** 10, ***ML*** 7
 - Grimoire - 2 slots, 1 spell
 
 ***Talents***: Arcane, Potions, Divination
@@ -188,7 +188,7 @@ It’s a truth universally acknowledged that a town with a rat problem must be i
 
 ***Equipment***
 - A staff adorned with dead rats, the mark of your trade - d6 damage
-- A dinky yet ferocious dog - 3 stamina, 6 STR, 8 DEX, 10 WIL, 8 ML, Bite d6 damage
+- A dinky yet ferocious dog - ***Stamina*** 3, ***STR*** 6, ***DEX*** 8, ***WIL*** 10, ***ML*** 8, ***ATK*** Bite (d6)
 - Flute
 
 ***Talents***: Stealth, Traps, Animals
