@@ -1,7 +1,7 @@
 # Hired Help
 Difficult as it is to imagine anyone willingly subjecting themselves to be under the employ of an adventurer, such strange occurrences do happen, and with alarming frequency too! A good thing, then, for without the exploitation of human capital no adventurer could ever hope for even a modicum of success.
 
-There are four different categories of hired help.
+There are four different categories of hired help: hirelings, retainers, mercenaries, and specialists.
 ## Hirelings
 NPCs can be hired to help PC’s during their adventures. Hirelings will go on adventures with a PC, but will not participate in combat.
 
