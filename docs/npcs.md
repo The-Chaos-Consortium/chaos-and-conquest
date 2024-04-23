@@ -22,7 +22,7 @@ When an NPC’s reaction to encountering the PCs is not obvious, roll 2d6 and co
 
 ## Converting OSR Monsters
 To quickly convert monster stats from another OSR system that uses a Hit Die system similar to the early editions of D&D, do the following:
-- Give 1 stamina per HD for most creatures. Most humanoids have at least 4HP. Give average creatures 3 stamina, give hardy ones 6 stamina, and serious threats get 10+ stamina.
+- Give 1 stamina per HD for most creatures. Most humanoids have at least 4 stamina. Give average creatures 3 stamina, give hardy ones 6 stamina, and serious threats get 10+ stamina.
 - Determine its Armor Value (AV) based on the type (heavy, medium, light, etc.) it would be wearing, or its ability to soak damage.
 - Use the listed damage values, or base off of the equipment table. Attacks do at least d6 damage, and multiple attacks should be converted to blast damage. Be careful with attacks that use multiple dice, as they can be very deadly.
 - Special abilities (immunities, spells, etc.) vary a lot between monsters so just use what seems appropriate or take some extra time to come up with a good alternative.
