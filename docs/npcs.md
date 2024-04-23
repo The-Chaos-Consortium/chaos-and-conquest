@@ -60,3 +60,7 @@ Big proud intelligent fire-breathing lizards with wings. You know what a dragon 
 ***STR*** 12, ***DEX*** 14, ***WIL*** 12, ***Stamina*** 4, ***AV*** 1, ***ML*** 7, ***ATK*** Pistol (d10), Dueling Cane (d6), ***CRIT*** Coup de grâce (d10 damage)
 
 Someone who lives for a fight. Loves political intrigue and a good pistol duel.
+### Knight of the Woods
+***STR*** 16, ***DEX*** 14, ***WIL*** 14, ***Stamina*** 10, ***AV*** 4, ***ML*** 9, ***ATK*** Sword (d8), Shield Bash (d6), ***CRIT*** Forest's Embrace (Roots pierce the target's body, making them one with the forest.)
+
+A guardian of the woods, he is clad in full plate covered in moss and leaves with a small tree growing from his helmet. He will protect the forest at all costs.
