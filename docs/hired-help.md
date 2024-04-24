@@ -77,7 +77,7 @@ Specialists do not go on adventures, instead remaining in a settlement and perfo
 16. ***Assassin***: Individuals trained in the art of death. Their price will depend on the job - who the target is, preferred method of death, and many more factors.
 
 ## Price Table
-|      Retainer       | Wage (month) | Wage (day) | Rarity |
+|        Type         | Wage (month) | Wage (day) | Rarity |
 | :-----------------: | :----------: | :--------: | :----: |
 |       Porter        |     350p     |    15p     |   1    |
 |       Laborer       |     350p     |    15p     |   1    |
