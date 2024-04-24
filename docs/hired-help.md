@@ -64,7 +64,7 @@ Specialists do not go on adventures, instead remaining in a settlement and perfo
 3. ***Sailor***: Needed to crew marine vessels for sailing. Each crew needs a ***captain***. Any time a ship ventures beyond sight of a coastline, it becomes lost if a ***navigator*** is not aboard.
 4. ***Surveyor***: Needed to survey an area during expeditions.
 5. ***Animal Handler***: Can train animals.
-6. ***Armorer***: Per month, an armorer can make 420p worth of weapons, armor, or shields. Armor more expensive than this can be worked towards over multiple months, with the 420p being applied towards the cost. They can also maintain mercenaries’ gear. A dedicated armorer is required per 50 troops. 1,200p worth of equipment can be produced and 125 mercenaries’ gear maintained if 3 assistants are hired. 2,200p worth of equipment can be produced and 200 mercenaries’ gear maintained if 6 assistants are hired. An armorer cannot manage more than 6 assistants.
+6. ***Armorer***: Maintains mercenaries’ gear. A dedicated armorer is required per 50 troops. 200 mercenaries’ gear maintained if 3 assistants are hired, and 400 mercenaries’ gear maintained if 6 assistants are hired. An armorer cannot manage more than 6 assistants.
 7. ***Assistant Armorer***: Apprentices who work under an ***armorer***. They increase the rate of production for an armorer.
 8. ***Craftsman***: Can craft items based on their profession.
 9. ***Advocate***: Necessary to bring a legal trial to action or to mount a defence. Each additional advocate adds +1 to the roll, to a max of 3.
@@ -90,7 +90,7 @@ Specialists do not go on adventures, instead remaining in a settlement and perfo
 |      Teamster       |     350p     |    15p     |   2    |
 |   Animal Handler    |     500p     |     -      |   3    |
 |       Armorer       |     850p     |     -      |   3    |
-| Armorer Apprentice  |     500p     |     -      |   3    |
+|  Assistant Armorer  |     500p     |     -      |   3    |
 |      Craftsman      |     850p     |     -      |   3    |
 |      Advocate       |    1,800p    |     -      |   3    |
 |      Mercenary      |     500p     |    25p     |   3    |
