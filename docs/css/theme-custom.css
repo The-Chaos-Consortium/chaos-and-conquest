@@ -1,20 +1,24 @@
-@import url('https://fonts.googleapis.com/css2?family=Gentium+Book+Plus&family=Pirata+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Book+Plus&family=Pirata+One&family=Alegreya+SC&display=swap');
 
 :root {
     --base-background-color: #2b2a32;
     --base-color: #fff;
     --base-font-family: 'Gentium Book Plus', serif;
     --base-font-size: 19px;
-    --sidebar-name-font-family: var(--heading-font-family);
+    --sidebar-name-font-family: 'Pirata One', serif;
     --sidebar-name-font-size: 38px;
     --search-input-font-size: 16px;
 
     /* Headings */
-    --heading-font-family: 'Pirata One';
+    --heading-font-family: 'Alegreya SC', serif;
     --heading-h1-font-size: var(--font-size-xxxl);
+    --heading-h1-font-weight: 600;
     --heading-h2-font-size: var(--font-size-xxl);
+    --heading-h2-font-weight: 600;
     --heading-h3-font-size: var(--font-size-xl);
+    --heading-h3-font-weight: 600;
     --heading-h4-font-size: var(--font-size-l);
+    --heading-h4-font-weight: 600;
     --heading-h2-border-style: none;
 }
 
@@ -25,4 +29,8 @@
 .markdown-section h2 {
     padding: 0;
     margin-bottom: 0;
+}
+
+h1[id="chaos-amp-conquest"] {
+    font-family: 'Pirata One', serif;
 }
