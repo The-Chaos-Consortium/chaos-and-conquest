@@ -166,8 +166,8 @@ The party interacts with a location/feature. Dungeon delving, town/village adven
 For each night the party skips making camp, each PC gains ***stress***. A party can travel or explore for three watches a day without getting fatigued. Each watch past three spent traveling or exploring results in a ***stress***.
 ## Advancement
 As there are no levels, PCs advance in a more diegetic way. They can purchase new equipment, find trainers and opportunities for new talents, partake in downtime activities, create new spells, and more. Some mechanical benefits are gained through these advancements, but the main focus is on the narrative and the world. The arbiter should work with the players to make sure that the advancements are meaningful and interesting. Below are some specific methods of advancement.
-### Gaining Experience
-As PCs delve into ruins, explore the world, make connections, and both fight and run from dangers, they are setting out on expeditions - journeys with a specific purpose. A successful expedition is one in which the PCs return to safety with something, anything, to show for it. This could be treasure, information, a new ally, or even a new scar. When a character has completed the listed requirements they have gained experience. ***Every time a PC advances they gain d6 stamina and add it to their max***.
+### Gaining Experience Ranks
+As PCs delve into ruins, explore the world, make connections, and both fight and run from dangers, they are setting out on expeditions - journeys with a specific purpose. A successful expedition is one in which the PCs return to safety with something, anything, to show for it. This could be treasure, information, a new ally, or even a new scar. When a character has completed the listed requirements they have advanced their experience rank. ***Every time a PC advances they gain d6 stamina and add it to their max***.
 - ***Novice***: You start as a Novice. They have no experience and are just starting out.
 - ***Professional***: You have survived at least one expedition.
 - ***Expert***: You have survived at least three dangerous expeditions since reaching Professional.
