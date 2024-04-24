@@ -14,6 +14,7 @@
     --heading-h1-font-size: var(--font-size-xxxl);
     --heading-h2-font-size: var(--font-size-xxl);
     --heading-h3-font-size: var(--font-size-xl);
+    --heading-h4-font-size: var(--font-size-l);
     --heading-h2-border-style: none;
 }
 

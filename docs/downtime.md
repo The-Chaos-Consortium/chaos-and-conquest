@@ -268,6 +268,7 @@ When a Faction completes a Goal, add a new Resource or rewrite an existing one t
 
 Such changes should be noticed in the game, either through gossip, rumors, or visible events.
 
+## Example Faction
 An example of a Faction follows, containing all the elements described above.
 ### Children of the Moon
 ***A tribe of goblins infesting an old abandoned mill, having repurposed the millstone as an altar. They are led by an enigmatic human mage named Miroslav, who believes the moon is the source of truth and power. The tribe will convert people to their faith through any means necessary.***
@@ -282,40 +283,11 @@ An example of a Faction follows, containing all the elements described above.
 - (0/8) - Attack the Black Eye tribe and take their territory.
 - (0/12) - Sacrifice the entire populace of a local town to the moon.
 
-#### NPCs
-***Shaman***
-<table>
-<tr><td><b>Attributes</b>: 12 STR, 14 WIL</td><td><b>Stamina</b>: 3d6 (9)</td></tr>
-<tr><td><b>Morale</b>: 9</td><td><b>AV</b>: 1</td></tr>
-<tr><td colspan="2"><b>Attacks</b>: Staff (d8), Spellcasting</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Goblins heavily tattooed across their whole bodies with blue ink, which channel the power of the moon.
-<br />
-Spellcasting, Power Budget: 4
-<br />
-Grimoire:
-<ul>
-    <li>Bolt of Lightning</li>
-    <li>Fear</li>
-</ul>
-</td></tr>
-</table>
+#### Shaman
+***STR*** 12, ***DEX*** 10, ***WIL*** 14, ***Stamina*** 9, ***AV*** 1, ***ML*** 9, ***ATK*** Staff (d8), ***SPL*** Knows the spells *Bolt of Lightning* and *Fear*
 
-***Miroslav***
-<table>
-<tr><td><b>Attributes</b>: 12 STR, 16 WIL</td><td><b>Stamina</b>: 6d6 (18)</td></tr>
-<tr><td><b>Morale</b>: 9</td><td><b>AV</b>: 1</td></tr>
-<tr><td colspan="2"><b>Attacks</b>: Staff (d8), Spellcasting</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Enigmatic and mad human mage. Charismatic and persuasive at times, but also prone to sudden outbursts of rage or paranoia.
-<br />
-Spellcasting, Power Budget: 7
-<br />
-Grimoire:
-<ul>
-    <li>Bolt</li>
-    <li>Fear</li>
-    <li>Obey my Command</li>
-    <li>Sphere of Darkness>
-    <li>Summon Moonspawn</li>
-</ul>
-</td></tr>
-</table>
+Goblins heavily tattooed across their whole bodies with blue ink, which channel the power of the moon.
+#### Miroslav
+***STR*** 12, ***DEX*** 10, ***WIL*** 16, ***Stamina*** 18, ***AV*** 1, ***ML*** 9, ***ATK*** Staff (d8), ***SPL*** Knows the spells *Bolt*, *Fear*, *Obey my Command*, *Sphere of Darkness*, *Summon Moonspawn*
+
+Enigmatic and mad human mage. Charismatic and persuasive at times, but also prone to sudden outbursts of rage or paranoia.
