@@ -68,7 +68,7 @@ Specialists do not go on adventures, instead remaining in a settlement and perfo
 7. ***Assistant Armorer***: Apprentices who work under an ***armorer***. They increase the rate of production for an armorer.
 8. ***Craftsman***: Can craft items based on their profession.
 9. ***Advocate***: Necessary to bring a legal trial to action or to mount a defence. Each additional advocate adds +1 to the roll, to a max of 3.
-10. ***Physician***: Can treat one disease or serious wound per week.
+10. ***Barber Surgeon***: Can treat one disease or serious wound per week.
 11. ***Scholar***: Can conduct investigations. Each additional scholar that is engaged to investigate the same topic  adds +1 to the roll for investigation attempts, to a max of +3.
 12. ***Spy***: Allows for the target on whom they are spying to become a source for investigations. Each additional spy that is engaged to spy on the same target adds +1 to the roll for investigation attempts, to a max of +3.
 13. ***Engineer***: Plan and oversee large construction projects such as domain building. One engineer is required per 50,000p cost of the project.
