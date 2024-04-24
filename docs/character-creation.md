@@ -30,6 +30,8 @@ Law is ***stability*** and ***structure*** in nature, ***justice*** and ***moral
 The Balance states that Chaos and Law must be ***equal forces***. Without Chaos there would be no probability, new creations, or chance. Life would stagnate and become a static wasteland. Without Law life would be an unformed infinity of raw Chaotic probability. There would be no form or structure, and all natural laws would cease to exist.
 ### Your Choice
 You must choose which Faction you follow - ***Chaos***, ***Law***, or ***Balance***. This choice will decide which people and creatures will generally treat you as an ally, and who will treat you as an enemy. Do not publicly reveal your Faction unless you are willing to face the consequences - people will generally not reveal this choice to anyone other than close friends, allies, or family.
+## About Race
+Characters in Chaos & Conquest are assumed to be humans. Players are more able to relate to the characters they portray this way. The arbiter can then attempt to portray non-human races in an utterly inhuman manner, like the fae or the melnibonéans.
 ## Traits
 Create or roll the rest of your PC's traits, such as their physique, face, skin, hair, clothing, virtue, vice, speech, and misfortune, using the following tables.
 ### Physique
