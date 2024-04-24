@@ -105,7 +105,7 @@ A spellcaster cannot attempt a spell with an ***initial*** maximum cost higher t
 |  0   | **Zero**, trivial effect, any simple effect boosted by a limiting condition.                                                                                                              |
 |  1   | **Minor**, can be achieved without magic. Example: minor harming or healing (d6), illumination, unlocking, reading a foreign language.                                                    |
 |  2   | **Standard**, just beyond what is possible without magic. Example: generating a protective force field, breathing water, light telekinesis, invisibility.                                 |
-|  d6  | **Major**, a major breach of natural law. Example: teleporting, animating skeletons, locating lost things/beings, dispelling, removing an affliction.                                     |
+|  d6  | **Major**, a major breach of natural law. Example: teleportation, animating skeletons, locating lost things/beings, dispelling, removing an affliction.                                     |
 | 2d6  | **Potent**, involving significant manipulation of natural forces or extraordinary abilities beyond conventional limits. Example: regenerating a lost limb, modifying a creature's traits. |
 | 3d6  | **Mythic**, use of raw power altering the world or its inhabitants in a god-like way. Example: resurrection, changing the weather, stopping time, petrification, cloning.                  |
 |  +   | **Costly**. Peripheral to talent or wording. Extra duration, range, effect area, victims, damage. No save.                                                                                |
