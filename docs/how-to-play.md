@@ -39,13 +39,7 @@ Relevant equipment can also give ***advantage*** on a save (e.g. using a crowbar
 ## Talents
 Talents are the areas of expertise of a character. They grant ***advantage*** on relevant saves. If a PC is also carrying relevant equipment the arbiter may rule that the save automatically succeeds (e.g. they have the “Lock-picking” talent and are using lock-picks). Talents can also unlock certain abilities e.g. Armor Master, or allow a PC to just do a certain action.
 ## Inventory & Stress
-A PC has a number of ***inventory slots*** equal to their ***STR or 10, whichever is higher***. Most items take one slot to carry but some items, like weapons or armor, take up multiple slots.
-
-Some actions and situations, like pushing the PC (see below), cause a PC to receive ***stress***. Each instance of stress takes up an inventory slot.
-
-A PC cannot carry more items or stress than they have inventory slots. If all of your inventory slots are filled with stress, you ***die***. If you are forced to take stress when your inventory is full and you are unable to drop something, take d6 damage for each stress not added to your inventory.
-
-Spending a week resting in a safe location removes all stress.
+A PC has a number of ***inventory slots*** equal to their ***STR or 10, whichever is higher***. Most items take one slot to carry but some items, like weapons or armor, take up multiple slots. Some actions and situations, like pushing the PC (see below), cause a PC to receive ***stress***. Each instance of stress takes up an inventory slot. A PC cannot carry more items or stress than they have inventory slots. If all of your inventory slots are filled with stress, you ***die***. If you are forced to take stress when your inventory is full and you are unable to drop something, take d6 damage for each stress not added to your inventory.
 ## Pushing a Character
 Before making a save, if their character has at least one empty inventory slot, players may choose to push their character to ***receive advantage*** on the roll. If they do so, the PC ***takes stress***. This source of advantage can take the place of a missing Talent - but not equipment - for a potential automatic success.
 
@@ -72,7 +66,7 @@ When a character is damaged, they lose that amount of stamina. Stamina is a meas
 
 Some attacks can do DEX or WIL damage instead of STR damage, reducing those attributes after losing all stamina. Losing DEX or WIL requires a respective save to avoid ***critical damage***.
 ### Critical Damage
-Taking critical damages means they fall unconscious and are dying, and must roll on the Scars table. The dying character must have their wounds treated by another character and have a ***short rest*** within an hour or they die. NPCs other than retainers die immediately upon receiving critical damage. Some enemies will have special abilities or effects that occur when their target fails a save against critical damage.
+Taking critical damages means they fall unconscious and are dying, and must roll on the Scars table. The dying character must have their wounds treated by another character with bandages and have a ***short rest*** within an hour or they die. NPCs other than retainers die immediately upon receiving critical damage. Some enemies will have special abilities or effects that occur when their target fails a save against critical damage.
 ### Scars
 
 | d10 |                                                                           Scar                                                                            |
@@ -121,11 +115,13 @@ If a PC wishes to move away when engaged in a melee with one or more enemies the
 ### Retreat
 Running away from a dire situation always requires a successful ***DEX*** save, as well as a safe destination to run to.
 ## Rest & Healing
-***Short Rest***: Immediately following a battle, a PC may spend a turn catching their breath to regain d6 stamina, and spend a single supply to repair a weapon or armor. This can only happen once after each battle.
+***Short Rest***: Spend a turn catching your breath and spend a single supply to repair a weapon or armor.
 
-***Night’s Rest***: After consuming a ration and a full night’s rest of two watches, PCs regain all lost stamina and remove 1 Stress. PCs may also spend any number of supplies to repair weapons and armor.
+***Night’s Rest***: After consuming a ration and a full night’s rest of two watches, remove 1 stress. You may also spend any number of supplies to repair weapons and armor.
 
-***Full Rest***: Spending a full week resting in a safe location restores any temporarily lowered attributes, removes all stress, repairs armor, and restores worn weapons.
+***Day's Rest***: A day's rest with only idle activity recovers all stamina and removes d4 stress.
+
+***Full Rest***: Spending a full week resting in a safe location with only idle activity recovers all attributes, removes all stress, and repairs weapons and armor.
 ## Distance
 Measuring distance is handled abstractly, making it faster and easier.
 
@@ -159,7 +155,7 @@ If the arbiter has any planned features located in the hex, the arbiter should r
 ### Forage
 The party gathers food and water if possible given the terrain, and finds d4 rations. If there is a Pathfinder in the party, find d6 rations. For parties of more than 6 PCs and/or retainers, you may roll an extra die for each group of 6 - e.g. a party of size 7-12 would roll 2d4/2d6, a party of 13-18 would roll 3d4/3d6, etc.
 ### Camp
-The party stops to set up camp. Must do this for two consecutive watches every six watches. A party must sleep for at least 8 hours, or 2 watches, a night. If a character’s sleep is interrupted by combat or other excitement, they do not recover stamina that night. Taking a shift on watch does not interrupt this rest, unless something happens during their watch or they use their watch to explore.
+The party stops to set up camp. Must do this for two consecutive watches every six watches. A party must sleep for at least 8 hours, or 2 watches, a night. If a character’s sleep is interrupted by combat or other excitement, they do not remove ***stress*** that night. Taking a shift on watch does not interrupt this rest, unless something happens during their watch or they use their watch to explore.
 ### Interact
 The party interacts with a location/feature. Dungeon delving, town/village adventure, lair exploration, long NPC interaction, etc…
 ### Fatigue
