@@ -33,6 +33,11 @@ A retainer's loyalty rating is determined by the PC's WIL score. This rating can
 |    16-17     |        9         |   6   |
 |      18      |        10        |   7   |
 
+There is nothing explicitly stopping the players from bringing all of their retainers with them on every single expedition. Doing this though will reduce the amount of treasure earned individually due to shares, and would make exploring dungeons extremely slow and tedious.
+
+My recommendation is to not bring every retainer along into combat when on an expedition. Instead, you can leave some to guard the caravan, pursue downtime activities back home or elsewhere, or any other activities off screen.
+
+I would suggest a party size of 6-10, inclusive of PCs, retainers, and mercenaries when going into dungeons and similar environments. Larger parties should generally be reserved for wilderness and downtime play.  
 ### Loyalty Checks
 A loyalty check is made when a retainer is asked to do something that they would not normally do, or if they are treated poorly. The arbiter can also call for a loyalty check if they feel it is necessary. A loyalty check is made by rolling 2d6 and comparing the result to the retainer's loyalty rating. If the result is equal to or less than the loyalty rating, the retainer will do as asked. If the result is higher than the loyalty rating, the retainer will refuse to do as asked, and may leave the PC's service.
 
