@@ -98,10 +98,10 @@ You can create a scroll of a spell you have in your spellbook by spending ***500
 
 Spells are cast through a negotiation between the caster and the arbiter. The wording of the spell, the caster's talents, and the desired effect are used to determine a damage cost for the spell. The PC says what they want the spell to do, and the arbiter suggests the cost. This cost can be lowered via drawbacks and/or ingredients. The further away the desired effect is from the wording, the higher the cost. A precisely worded spell will have a lower cost when used appropriately. The arbiter has the final say on the cost of the spell.
 
-A spellcaster cannot attempt a spell with an ***initial*** maximum cost higher than their max stamina.
-- E.g. you must have at least 18 max stamina to cast ***Mythic*** level magic, even if you plan to reduce the final cost by taking drawbacks or using ingredients.
+A spellcaster cannot attempt a spell with a maximum cost higher than their max stamina. Corrupting magic is the exception to this rule.
+- E.g. you must have at least 18 max stamina to cast ***Mythic*** level magic, unless you are able to reduce the final cost by taking drawbacks or using ingredients as mentioned below.
 
-If the final cost of a spell is d6 or higher, the caster must make a WIL save or have the cost doubled (which could damage their STR and be potentially lethal). The below table shows cost guidelines based on magnitude of the effect.
+Once the spell has begun to be cast, if the cost of the spell is d6 or higher, the caster must make a WIL save or have the cost doubled (which could damage their STR and be potentially lethal). The below table shows cost guidelines based on magnitude of the effect.
 ### Spell Cost
 | Cost | Magnitude                                                                                                                                                                                 |
 | :--: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -125,7 +125,7 @@ At a corruption of ***7 or higher***, the character is required to make a WIL sa
 
 A high corruption can possibly be beneficial, as some creatures, objects, or places react to high corruption. ***The max corruption a PC can have before being lost is equal to WIL+3***.
 ### Corrupting Magic
-A spellcaster has the option to pay for spells in corruption instead of damage. The cost of the spell must be randomized, meaning a d6 or higher. The same rules apply for when a caster must make a WIL save. A spellcaster who is caught using corrupting magic will be treated as an aberration by all but the most corrupted of individuals, or followers of Chaos. The caster should expect to be hunted by witchfinders, inquisitors, and other such individuals. Some creatures and entities of Chaos may seek out corrupted individuals for their own purposes.
+A spellcaster has the option to pay for spells in corruption instead of damage. The cost of the spell must be randomized, meaning a d6 or higher, but otherwise any magnitude is possible regardless of the caster's max stamina. The same rules apply for when a caster must make a WIL save. A spellcaster who is caught using corrupting magic will be treated as an aberration by all but the most corrupted of individuals, or followers of Chaos. The caster should expect to be hunted by witchfinders, inquisitors, and other such individuals. Some creatures and entities of Chaos may seek out corrupted individuals for their own purposes.
 ### Corruption Table
 Roll a d6 + your current corruption to determine the effect.
 
