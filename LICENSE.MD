@@ -1,0 +1,1 @@
+Chaos & Conquest is made to be hacked, pulled apart and built on top of. The text of Chaos & Conquest (not the art) is licensed under Creative Commons (CC-BY-SA 4.0) so you can share and adapt this material for any purpose, as long as you give attribution and distribute your contributions under the same license. Please credit Alexander Gomez and The Chaos Consortium.
